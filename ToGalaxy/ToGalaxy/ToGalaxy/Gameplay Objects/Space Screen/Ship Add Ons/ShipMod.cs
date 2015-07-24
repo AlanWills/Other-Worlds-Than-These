@@ -47,7 +47,15 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
         {
             get
             {
-                return TimeSinceActivation > ShipModData.RunTime;
+                // If it is a passive it is never finished running
+                // If it is active, we check if it has exceeded the running time
+                bool finished = false;
+                if (ShipModData.Active)
+                {
+                    finished = TimeSinceActivation > ShipModData.RunTime;
+                }
+
+                return finished;
             }
         }
 

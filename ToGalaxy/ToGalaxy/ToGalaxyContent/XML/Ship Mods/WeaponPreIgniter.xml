@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Weapon Pre Igniter</Name>
+    <TextureAsset>Sprites/Ship Mods/eccm_package</TextureAsset>
+    <ModFunctionName>Over Heat Turrets</ModFunctionName>
+    <Active>true</Active>
+    <RunTime>3</RunTime>
+    <Cooldown>10</Cooldown>
+    <Cost>750</Cost>
+    <Description>By streamlining the reloading of the turret increased fire rate can be achieved for a short period.  However, to prevent serious damage to the turret fire rate is reduced afterwards.</Description>
+  </Asset>
+</XnaContent>

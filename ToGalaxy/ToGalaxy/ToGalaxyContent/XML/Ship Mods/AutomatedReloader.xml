@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Automated Reloader</Name>
+    <TextureAsset>Sprites/Ship Mods/expanded_missile_racks</TextureAsset>
+    <ModFunctionName>Passive Turret Fire Rate Steroid</ModFunctionName>
+    <Active>false</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>0</Cooldown>
+    <Cost>1000</Cost>
+    <Description>By installing an automated reloader on each turret, firing and reloading are streamlined to provide a small increase in passive fire rate for all turrets.</Description>
+  </Asset>
+</XnaContent>

@@ -21,6 +21,8 @@ namespace ToGalaxy
             ModEvents = new Dictionary<string, Action<Ship, bool>>();
 
             ModEvents.Add("Increase Speed", IncreaseSpeedEvent);
+            ModEvents.Add("Over Heat Turrets", OverHeatTurretsEvent);
+            ModEvents.Add("Passive Turret Fire Rate Steroid", PassiveTurretFireRateEvent);
         }
 
         private static void IncreaseSpeedEvent(Ship ship, bool finishedRunning)
@@ -35,33 +37,26 @@ namespace ToGalaxy
             }
         }
 
-        public static void IncreaseFireRateEvent(Ship ship, bool finishedRunning)
+        public static void OverHeatTurretsEvent(Ship ship, bool finishedRunning)
         {
             foreach (Turret turret in ship.Turrets)
             {
                 if (!finishedRunning)
                 {
-                    turret.FireTimerMultiplier = 3f;
-                }
-                else
-                {
-                    turret.FireTimerMultiplier = 1f;
-                }
-            }
-        }
-
-        public static void OverHeatEvent(Ship ship, bool finishedRunning)
-        {
-            foreach (Turret turret in ship.Turrets)
-            {
-                if (!finishedRunning)
-                {
-                    turret.FireTimerMultiplier = 3f;
+                    turret.FireTimerMultiplier = 5f;
                 }
                 else
                 {
                     turret.FireTimerMultiplier = 0.2f;
                 }
+            }
+        }
+
+        public static void PassiveTurretFireRateEvent(Ship ship, bool finishedRunning)
+        {
+            foreach (Turret turret in ship.Turrets)
+            {
+                turret.FireTimerMultiplier = 1.25f;
             }
         }
     }
