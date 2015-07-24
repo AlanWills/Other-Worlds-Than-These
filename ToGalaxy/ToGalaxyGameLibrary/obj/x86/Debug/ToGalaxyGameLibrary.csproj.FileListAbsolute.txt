@@ -14,3 +14,11 @@ C:\Users\User\Documents\other-worlds-than-these\ToGalaxy\ToGalaxyGameLibrary\obj
 C:\Users\User\Documents\other-worlds-than-these\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\User\Documents\other-worlds-than-these\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.dll
 C:\Users\User\Documents\other-worlds-than-these\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyGameLibrary.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyGameLibrary.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.pdb

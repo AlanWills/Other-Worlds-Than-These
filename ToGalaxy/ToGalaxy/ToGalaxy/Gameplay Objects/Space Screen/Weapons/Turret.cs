@@ -108,7 +108,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
         {
             get
             {
-                return CurrentFireTimer >= TurretData.FireTimer;
+                return FireTimerMultiplier * CurrentFireTimer >= TurretData.FireTimer;
             }
         }
 
@@ -233,7 +233,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 Rotation = (float)Math.Atan2(difference.X, -difference.Y);
             }
 
-            CurrentFireTimer += FireTimerMultiplier * (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
+            CurrentFireTimer += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
 
             if (CanFire && difference.Length() <= TurretData.Range)
             {

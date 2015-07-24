@@ -49,5 +49,20 @@ namespace ToGalaxy
                 }
             }
         }
+
+        public static void OverHeatEvent(Ship ship, bool finishedRunning)
+        {
+            foreach (Turret turret in ship.Turrets)
+            {
+                if (!finishedRunning)
+                {
+                    turret.FireTimerMultiplier = 3f;
+                }
+                else
+                {
+                    turret.FireTimerMultiplier = 0.2f;
+                }
+            }
+        }
     }
 }
