@@ -60,6 +60,7 @@ Content\Sprites\Ship Mods\advanced_turret_gyros.xnb
 Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb
 Content\Sprites\Ship Mods\augmented_engines.xnb
 Content\Sprites\Ship Mods\automated_repair_unit.xnb
+Content\Sprites\Ship Mods\auxiliary_thrusters.xnb
 Content\Sprites\Ship Mods\blast_doors.xnb
 Content\Sprites\Ship Mods\eccm_package.xnb
 Content\Sprites\Ship Mods\ecm_package.xnb
@@ -199,7 +200,6 @@ Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
 Content\Sprites\Space\PlanetAndSpace.xnb
 Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb
 Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.xnb
 Content\XML\Ship Interior Maps\DragonflyInterior.xnb
 Content\XML\Space Data\Level1Data.xnb
 Content\XML\Crew\HumanCrewMember.xnb
@@ -277,6 +277,7 @@ Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
 Content\XML\Weapons\WhaleSharkMissileBattery.xnb
 Content\XML\Weapons\TigerSharkMissileBattery.xnb
 Content\XML\Gameplay Screens\SensorsScreen.xnb
+Content\XML\Ship Mods\AuxiliaryThrusters.xnb
 Content\Sounds\Weapons\autocannon_fire_01.xnb
 Content\Sounds\UI\ButtonPressedSound.xnb
 Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb
@@ -310,15 +311,6 @@ Content\Music\Battle Music\Dance Music.xnb
 Content\Music\Ambient Music\Blue Space.xnb
 Content\Fonts\TextFont.xnb
 Content\Fonts\SmallGameUIFont.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb
-Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb
-Content\XML\Ship Mods\AuxiliaryThrusters.xnb
-Content\Sprites\Ship Mods\auxiliary_thrusters.xnb
 Content\Music\Ambient Music\Please, answer me my friend.wma
 Content\Music\Menu Music\Other worlds than these.wma
 Content\Music\Ambient Music\I didn't do it.wma

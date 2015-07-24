@@ -4,3 +4,9 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxyCustomData\
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.pdb

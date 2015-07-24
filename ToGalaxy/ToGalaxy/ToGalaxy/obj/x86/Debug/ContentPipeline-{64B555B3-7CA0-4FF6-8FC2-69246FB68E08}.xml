@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors" xmlns:Framework="Microsoft.Xna.Framework">
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
       <Source>Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.png</Source>
@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:01:16.4134866+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:02:05.7342191+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:02:25.0613636+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb</Output>
       <Time>2015-05-30T19:02:37.493618+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:03:01.7547853+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:03:31.8557626+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:04:13.707778+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb</Output>
       <Time>2015-05-30T19:04:33.2857663+01:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space.xnb</Output>
       <Time>2015-05-31T13:11:02.7725582+01:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb</Output>
       <Time>2015-06-01T12:37:02.1309217+01:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb</Output>
       <Time>2015-05-31T14:03:36.9420381+01:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb</Output>
       <Time>2015-06-02T22:17:13.2552543+01:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb</Output>
       <Time>2015-06-02T22:17:18.9842232+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb</Output>
       <Time>2015-06-02T23:24:40.1396284+01:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb</Output>
       <Time>2015-06-05T13:59:55.1806572+01:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\SelectionIcon.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\SelectionIcon.xnb</Output>
       <Time>2015-06-05T12:21:40.2794612+01:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb</Output>
       <Time>2015-06-05T18:23:36.1016782+01:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb</Output>
       <Time>2015-06-08T16:22:54.4590535+01:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb</Output>
       <Time>2015-06-08T16:22:54.4560524+01:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb</Output>
       <Time>2015-06-10T19:47:50.6557903+01:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb</Output>
       <Time>2015-06-10T20:59:10.5690127+01:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb</Output>
       <Time>2015-06-10T21:36:20.9242371+01:00</Time>
     </Item>
     <Item>
@@ -205,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb</Output>
       <Time>2015-06-10T21:56:21.9599796+01:00</Time>
     </Item>
     <Item>
@@ -214,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb</Output>
       <Time>2015-06-10T21:56:21.9629824+01:00</Time>
     </Item>
     <Item>
@@ -223,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb</Output>
       <Time>2015-06-10T21:56:21.9579782+01:00</Time>
     </Item>
     <Item>
@@ -232,7 +232,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitle.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitle.xnb</Output>
       <Time>2015-06-11T19:10:10.2304009+01:00</Time>
     </Item>
     <Item>
@@ -241,7 +241,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_released.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_released.xnb</Output>
       <Time>2015-06-11T19:16:57.6004506+01:00</Time>
     </Item>
     <Item>
@@ -250,7 +250,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_pressed.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_pressed.xnb</Output>
       <Time>2015-06-11T19:16:57.5884418+01:00</Time>
     </Item>
     <Item>
@@ -259,7 +259,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground2.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground2.xnb</Output>
       <Time>2015-06-12T16:23:18.7920063+01:00</Time>
     </Item>
     <Item>
@@ -268,7 +268,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground3.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground3.xnb</Output>
       <Time>2015-06-12T16:23:18.8050146+01:00</Time>
     </Item>
     <Item>
@@ -277,7 +277,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground.xnb</Output>
       <Time>2015-06-12T16:23:18.7810011+01:00</Time>
     </Item>
     <Item>
@@ -286,7 +286,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb</Output>
       <Time>2015-06-14T17:44:18.8916926+01:00</Time>
     </Item>
     <Item>
@@ -295,7 +295,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb</Output>
       <Time>2015-06-14T15:38:41.2008561+01:00</Time>
     </Item>
     <Item>
@@ -304,7 +304,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb</Output>
       <Time>2015-06-14T15:38:41.2078611+01:00</Time>
     </Item>
     <Item>
@@ -313,7 +313,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb</Output>
       <Time>2015-06-14T15:38:41.2158681+01:00</Time>
     </Item>
     <Item>
@@ -322,7 +322,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb</Output>
       <Time>2015-06-14T15:38:41.2218721+01:00</Time>
     </Item>
     <Item>
@@ -331,7 +331,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\RectangularButton.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\RectangularButton.xnb</Output>
       <Time>2015-06-14T17:37:14.2231314+01:00</Time>
     </Item>
     <Item>
@@ -340,7 +340,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Panel.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Panel.xnb</Output>
       <Time>2015-06-14T18:12:11.0649124+01:00</Time>
     </Item>
     <Item>
@@ -349,7 +349,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\MenuPanelBackground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\MenuPanelBackground.xnb</Output>
       <Time>2015-06-14T21:44:40.554818+01:00</Time>
     </Item>
     <Item>
@@ -358,7 +358,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\LoadingScreenBackground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\LoadingScreenBackground.xnb</Output>
       <Time>2015-06-14T22:24:20.7125506+01:00</Time>
     </Item>
     <Item>
@@ -367,7 +367,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\LoadingScreenTitle.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\LoadingScreenTitle.xnb</Output>
       <Time>2015-06-14T23:03:19.7863511+01:00</Time>
     </Item>
     <Item>
@@ -376,7 +376,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\StandardShield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\StandardShield.xnb</Output>
       <Time>2015-06-16T15:04:10.2616572+01:00</Time>
     </Item>
     <Item>
@@ -385,7 +385,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\spr_shield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\spr_shield.xnb</Output>
       <Time>2015-06-16T15:04:10.2706649+01:00</Time>
     </Item>
     <Item>
@@ -394,7 +394,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb</Output>
       <Time>2015-06-20T17:40:18.8765152+01:00</Time>
     </Item>
     <Item>
@@ -403,7 +403,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSlider.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSlider.xnb</Output>
       <Time>2015-06-20T17:40:18.870512+01:00</Time>
     </Item>
     <Item>
@@ -412,7 +412,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb</Output>
       <Time>2015-06-22T13:12:49.7159331+01:00</Time>
     </Item>
     <Item>
@@ -421,7 +421,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb</Output>
       <Time>2015-06-22T13:12:49.7139309+01:00</Time>
     </Item>
     <Item>
@@ -430,7 +430,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb</Output>
       <Time>2015-07-04T16:48:55.0759826+01:00</Time>
     </Item>
     <Item>
@@ -439,7 +439,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb</Output>
       <Time>2015-07-04T16:48:55.0669758+01:00</Time>
     </Item>
     <Item>
@@ -448,7 +448,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb</Output>
       <Time>2015-07-04T16:49:42.0130931+01:00</Time>
     </Item>
     <Item>
@@ -457,7 +457,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb</Output>
       <Time>2015-07-04T16:49:42.0100911+01:00</Time>
     </Item>
     <Item>
@@ -466,7 +466,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb</Output>
       <Time>2015-07-04T16:50:19.7432647+01:00</Time>
     </Item>
     <Item>
@@ -475,7 +475,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb</Output>
       <Time>2015-07-04T16:52:18.6472181+01:00</Time>
     </Item>
     <Item>
@@ -484,7 +484,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb</Output>
       <Time>2015-07-04T16:52:18.6572247+01:00</Time>
     </Item>
     <Item>
@@ -493,7 +493,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb</Output>
       <Time>2015-07-04T16:52:18.6662303+01:00</Time>
     </Item>
     <Item>
@@ -502,7 +502,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb</Output>
       <Time>2015-07-04T16:52:18.6372162+01:00</Time>
     </Item>
     <Item>
@@ -511,7 +511,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\accelerated_shields.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\accelerated_shields.xnb</Output>
       <Time>2015-07-04T17:00:16.4531548+01:00</Time>
     </Item>
     <Item>
@@ -520,7 +520,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_optics.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_optics.xnb</Output>
       <Time>2015-07-04T17:00:16.4561577+01:00</Time>
     </Item>
     <Item>
@@ -529,7 +529,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_turret_gyros.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_turret_gyros.xnb</Output>
       <Time>2015-07-04T17:00:16.458159+01:00</Time>
     </Item>
     <Item>
@@ -538,7 +538,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb</Output>
       <Time>2015-07-04T17:00:16.4601595+01:00</Time>
     </Item>
     <Item>
@@ -547,7 +547,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\augmented_engines.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\augmented_engines.xnb</Output>
       <Time>2015-07-04T17:00:16.4631615+01:00</Time>
     </Item>
     <Item>
@@ -556,8 +556,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\automated_repair_unit.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\automated_repair_unit.xnb</Output>
       <Time>2015-07-04T17:00:16.4651628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\auxiliary_thrusters.png</Source>
+      <Name>Sprites\Ship Mods\auxiliary_thrusters</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb</Output>
+      <Time>2015-07-04T17:00:16.4671633+01:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Ship Mods\blast_doors.png</Source>
@@ -565,7 +574,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\blast_doors.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\blast_doors.xnb</Output>
       <Time>2015-07-04T17:00:16.4701657+01:00</Time>
     </Item>
     <Item>
@@ -574,7 +583,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\eccm_package.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\eccm_package.xnb</Output>
       <Time>2015-07-04T17:00:16.4721666+01:00</Time>
     </Item>
     <Item>
@@ -583,7 +592,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\ecm_package.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\ecm_package.xnb</Output>
       <Time>2015-07-04T17:00:16.475169+01:00</Time>
     </Item>
     <Item>
@@ -592,7 +601,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_magazines.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_magazines.xnb</Output>
       <Time>2015-07-04T17:00:16.4801723+01:00</Time>
     </Item>
     <Item>
@@ -601,7 +610,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_missile_racks.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_missile_racks.xnb</Output>
       <Time>2015-07-04T17:00:16.5051889+01:00</Time>
     </Item>
     <Item>
@@ -610,7 +619,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\extended_shields.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\extended_shields.xnb</Output>
       <Time>2015-07-04T17:00:16.5081909+01:00</Time>
     </Item>
     <Item>
@@ -619,7 +628,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_coil_adjunct.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_coil_adjunct.xnb</Output>
       <Time>2015-07-04T17:00:16.5302063+01:00</Time>
     </Item>
     <Item>
@@ -628,7 +637,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_distributor.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_distributor.xnb</Output>
       <Time>2015-07-04T17:00:16.534209+01:00</Time>
     </Item>
     <Item>
@@ -637,7 +646,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_shunt.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_shunt.xnb</Output>
       <Time>2015-07-04T17:00:16.5372101+01:00</Time>
     </Item>
     <Item>
@@ -646,7 +655,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_emitter.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_emitter.xnb</Output>
       <Time>2015-07-04T17:00:16.5392119+01:00</Time>
     </Item>
     <Item>
@@ -655,7 +664,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_generator.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_generator.xnb</Output>
       <Time>2015-07-04T17:00:16.5422139+01:00</Time>
     </Item>
     <Item>
@@ -664,7 +673,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\generic_mod.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\generic_mod.xnb</Output>
       <Time>2015-07-04T17:00:16.5532207+01:00</Time>
     </Item>
     <Item>
@@ -673,7 +682,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\hardened_shields.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\hardened_shields.xnb</Output>
       <Time>2015-07-04T17:00:16.6042546+01:00</Time>
     </Item>
     <Item>
@@ -682,7 +691,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\heavy_armor.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\heavy_armor.xnb</Output>
       <Time>2015-07-04T17:00:16.6082568+01:00</Time>
     </Item>
     <Item>
@@ -691,7 +700,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\insulated_engine_assembly.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\insulated_engine_assembly.xnb</Output>
       <Time>2015-07-04T17:00:16.612259+01:00</Time>
     </Item>
     <Item>
@@ -700,7 +709,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb</Output>
       <Time>2015-07-04T17:00:16.6232672+01:00</Time>
     </Item>
     <Item>
@@ -709,7 +718,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_targeting_unit.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_targeting_unit.xnb</Output>
       <Time>2015-07-04T17:00:16.6312737+01:00</Time>
     </Item>
     <Item>
@@ -718,7 +727,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\monofilament_cable.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\monofilament_cable.xnb</Output>
       <Time>2015-07-04T17:00:16.6402789+01:00</Time>
     </Item>
     <Item>
@@ -727,7 +736,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter.xnb</Output>
       <Time>2015-07-04T17:00:16.6432809+01:00</Time>
     </Item>
     <Item>
@@ -736,7 +745,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb</Output>
       <Time>2015-07-04T17:00:16.6512862+01:00</Time>
     </Item>
     <Item>
@@ -745,7 +754,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\reinforced_bulkheads.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\reinforced_bulkheads.xnb</Output>
       <Time>2015-07-04T17:00:16.3901139+01:00</Time>
     </Item>
     <Item>
@@ -754,7 +763,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\repair_gantry.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\repair_gantry.xnb</Output>
       <Time>2015-07-04T17:00:16.3921135+01:00</Time>
     </Item>
     <Item>
@@ -763,7 +772,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\resistant_flux_conduits.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\resistant_flux_conduits.xnb</Output>
       <Time>2015-07-04T17:00:16.4441489+01:00</Time>
     </Item>
     <Item>
@@ -772,7 +781,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\stabilized_shields.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\stabilized_shields.xnb</Output>
       <Time>2015-07-04T17:00:16.4461498+01:00</Time>
     </Item>
     <Item>
@@ -781,7 +790,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\targeting_core.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\targeting_core.xnb</Output>
       <Time>2015-07-04T17:00:16.4481507+01:00</Time>
     </Item>
     <Item>
@@ -790,7 +799,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\unstable_injector.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\unstable_injector.xnb</Output>
       <Time>2015-07-04T17:00:16.4501524+01:00</Time>
     </Item>
     <Item>
@@ -799,7 +808,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\advanced_tactics.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\advanced_tactics.xnb</Output>
       <Time>2015-07-04T17:01:54.6539627+01:00</Time>
     </Item>
     <Item>
@@ -808,7 +817,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\applied_physics.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\applied_physics.xnb</Output>
       <Time>2015-07-04T17:01:54.6579649+01:00</Time>
     </Item>
     <Item>
@@ -817,7 +826,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\combat.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\combat.xnb</Output>
       <Time>2015-07-04T17:01:54.6609678+01:00</Time>
     </Item>
     <Item>
@@ -826,7 +835,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\command_experience.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\command_experience.xnb</Output>
       <Time>2015-07-04T17:01:54.6629691+01:00</Time>
     </Item>
     <Item>
@@ -835,7 +844,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\computer_systems.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\computer_systems.xnb</Output>
       <Time>2015-07-04T17:01:54.6659715+01:00</Time>
     </Item>
     <Item>
@@ -844,7 +853,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\construction.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\construction.xnb</Output>
       <Time>2015-07-04T17:01:54.6689739+01:00</Time>
     </Item>
     <Item>
@@ -853,7 +862,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\coordinated_maneuvers.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\coordinated_maneuvers.xnb</Output>
       <Time>2015-07-04T17:01:54.6839839+01:00</Time>
     </Item>
     <Item>
@@ -862,7 +871,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\damage_control.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\damage_control.xnb</Output>
       <Time>2015-07-04T17:01:54.6869863+01:00</Time>
     </Item>
     <Item>
@@ -871,7 +880,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\evasive_maneuvering.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\evasive_maneuvering.xnb</Output>
       <Time>2015-07-04T17:01:54.6909877+01:00</Time>
     </Item>
     <Item>
@@ -880,7 +889,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\field_repairs.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\field_repairs.xnb</Output>
       <Time>2015-07-04T17:01:54.6929882+01:00</Time>
     </Item>
     <Item>
@@ -889,7 +898,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\fleet_logistics.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\fleet_logistics.xnb</Output>
       <Time>2015-07-04T17:01:54.6989934+01:00</Time>
     </Item>
     <Item>
@@ -898,7 +907,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\flux_dynamics.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\flux_dynamics.xnb</Output>
       <Time>2015-07-04T17:01:54.7029961+01:00</Time>
     </Item>
     <Item>
@@ -907,7 +916,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\gunnery_implants.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\gunnery_implants.xnb</Output>
       <Time>2015-07-04T17:01:54.7059972+01:00</Time>
     </Item>
     <Item>
@@ -916,7 +925,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\helmsmanship.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\helmsmanship.xnb</Output>
       <Time>2015-07-04T17:01:54.7090005+01:00</Time>
     </Item>
     <Item>
@@ -925,7 +934,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\leadership.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\leadership.xnb</Output>
       <Time>2015-07-04T17:01:54.7120025+01:00</Time>
     </Item>
     <Item>
@@ -934,7 +943,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\mechanical_engineering.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\mechanical_engineering.xnb</Output>
       <Time>2015-07-04T17:01:54.715004+01:00</Time>
     </Item>
     <Item>
@@ -943,7 +952,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\missile_specialization.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\missile_specialization.xnb</Output>
       <Time>2015-07-04T17:01:54.7180069+01:00</Time>
     </Item>
     <Item>
@@ -952,7 +961,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\navigation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\navigation.xnb</Output>
       <Time>2015-07-04T17:01:54.721008+01:00</Time>
     </Item>
     <Item>
@@ -961,7 +970,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\ordnance_expert.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\ordnance_expert.xnb</Output>
       <Time>2015-07-04T17:01:54.7230085+01:00</Time>
     </Item>
     <Item>
@@ -970,7 +979,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\power_grid_manipulation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\power_grid_manipulation.xnb</Output>
       <Time>2015-07-04T17:01:54.7480396+01:00</Time>
     </Item>
     <Item>
@@ -979,7 +988,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\target_analysis.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\target_analysis.xnb</Output>
       <Time>2015-07-04T17:01:54.7510288+01:00</Time>
     </Item>
     <Item>
@@ -988,7 +997,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\technology.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\technology.xnb</Output>
       <Time>2015-07-04T17:01:54.5739101+01:00</Time>
     </Item>
     <Item>
@@ -997,7 +1006,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb</Output>
       <Time>2015-07-04T17:02:47.1334664+01:00</Time>
     </Item>
     <Item>
@@ -1006,7 +1015,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb</Output>
       <Time>2015-07-04T17:02:47.2165266+01:00</Time>
     </Item>
     <Item>
@@ -1015,7 +1024,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb</Output>
       <Time>2015-07-04T17:02:47.2665551+01:00</Time>
     </Item>
     <Item>
@@ -1024,7 +1033,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb</Output>
       <Time>2015-07-04T17:02:47.2935747+01:00</Time>
     </Item>
     <Item>
@@ -1033,7 +1042,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb</Output>
       <Time>2015-07-04T17:02:47.320596+01:00</Time>
     </Item>
     <Item>
@@ -1042,7 +1051,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb</Output>
       <Time>2015-07-04T17:02:47.3376022+01:00</Time>
     </Item>
     <Item>
@@ -1051,7 +1060,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb</Output>
       <Time>2015-07-04T17:02:47.3456122+01:00</Time>
     </Item>
     <Item>
@@ -1060,7 +1069,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb</Output>
       <Time>2015-07-04T17:02:47.3686279+01:00</Time>
     </Item>
     <Item>
@@ -1069,7 +1078,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb</Output>
       <Time>2015-07-04T17:02:47.3776313+01:00</Time>
     </Item>
     <Item>
@@ -1078,7 +1087,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb</Output>
       <Time>2015-07-04T17:02:47.3866372+01:00</Time>
     </Item>
     <Item>
@@ -1087,7 +1096,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb</Output>
       <Time>2015-07-04T17:02:47.3956406+01:00</Time>
     </Item>
     <Item>
@@ -1096,7 +1105,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb</Output>
       <Time>2015-07-04T17:02:47.4046466+01:00</Time>
     </Item>
     <Item>
@@ -1105,7 +1114,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb</Output>
       <Time>2015-07-04T17:02:47.1214636+01:00</Time>
     </Item>
     <Item>
@@ -1114,7 +1123,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\BlackBackground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\BlackBackground.xnb</Output>
       <Time>2015-07-06T15:05:55.7419034+01:00</Time>
     </Item>
     <Item>
@@ -1123,7 +1132,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula.xnb</Output>
       <Time>2015-07-06T16:03:33.75591+01:00</Time>
     </Item>
     <Item>
@@ -1132,7 +1141,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Ion Storm.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Ion Storm.xnb</Output>
       <Time>2015-07-06T16:26:28.6863369+01:00</Time>
     </Item>
     <Item>
@@ -1141,7 +1150,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Edge Of The System.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Edge Of The System.xnb</Output>
       <Time>2015-07-06T16:26:28.6092889+01:00</Time>
     </Item>
     <Item>
@@ -1150,7 +1159,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Dust Cloud.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Dust Cloud.xnb</Output>
       <Time>2015-07-06T16:26:28.6192964+01:00</Time>
     </Item>
     <Item>
@@ -1159,7 +1168,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Scattered Stars.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Scattered Stars.xnb</Output>
       <Time>2015-07-06T16:26:28.6303041+01:00</Time>
     </Item>
     <Item>
@@ -1168,7 +1177,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula2.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula2.xnb</Output>
       <Time>2015-07-06T16:26:28.6733296+01:00</Time>
     </Item>
     <Item>
@@ -1177,7 +1186,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Hyperspace.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Hyperspace.xnb</Output>
       <Time>2015-07-06T16:26:28.6643262+01:00</Time>
     </Item>
     <Item>
@@ -1186,7 +1195,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Sensors\sensor_array_dish.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Sensors\sensor_array_dish.xnb</Output>
       <Time>2015-07-06T19:57:56.085402+01:00</Time>
     </Item>
     <Item>
@@ -1195,7 +1204,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb</Output>
       <Time>2015-07-06T19:59:51.1166479+01:00</Time>
     </Item>
     <Item>
@@ -1204,7 +1213,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb</Output>
       <Time>2015-07-06T19:59:51.1246524+01:00</Time>
     </Item>
     <Item>
@@ -1213,7 +1222,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\devilfish.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\devilfish.xnb</Output>
       <Time>2015-07-06T19:59:51.1496737+01:00</Time>
     </Item>
     <Item>
@@ -1222,7 +1231,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb</Output>
       <Time>2015-07-06T19:59:51.1576751+01:00</Time>
     </Item>
     <Item>
@@ -1231,7 +1240,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb</Output>
       <Time>2015-07-07T13:17:21.6988851+01:00</Time>
     </Item>
     <Item>
@@ -1240,7 +1249,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\ShieldsRestored.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\ShieldsRestored.xnb</Output>
       <Time>2015-07-08T14:27:55.7313466+01:00</Time>
     </Item>
     <Item>
@@ -1249,7 +1258,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb</Output>
       <Time>2015-07-08T14:28:53.0453316+01:00</Time>
     </Item>
     <Item>
@@ -1258,7 +1267,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb</Output>
       <Time>2015-07-08T14:57:12.9167891+01:00</Time>
     </Item>
     <Item>
@@ -1267,7 +1276,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb</Output>
       <Time>2015-07-08T16:02:42.3883798+01:00</Time>
     </Item>
     <Item>
@@ -1276,7 +1285,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb</Output>
       <Time>2015-07-08T20:34:43.7317331+01:00</Time>
     </Item>
     <Item>
@@ -1285,7 +1294,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb</Output>
       <Time>2015-07-08T20:34:43.7407404+01:00</Time>
     </Item>
     <Item>
@@ -1294,7 +1303,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb</Output>
       <Time>2015-07-08T20:34:43.7517434+01:00</Time>
     </Item>
     <Item>
@@ -1303,7 +1312,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb</Output>
       <Time>2015-07-08T20:34:43.7227289+01:00</Time>
     </Item>
     <Item>
@@ -1312,7 +1321,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb</Output>
       <Time>2015-07-08T20:34:53.6713174+01:00</Time>
     </Item>
     <Item>
@@ -1321,7 +1330,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb</Output>
       <Time>2015-07-09T12:27:24.8991888+01:00</Time>
     </Item>
     <Item>
@@ -1330,7 +1339,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\HullThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\HullThumbnail.xnb</Output>
       <Time>2015-07-09T12:28:02.6672269+01:00</Time>
     </Item>
     <Item>
@@ -1339,7 +1348,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb</Output>
       <Time>2015-07-09T12:28:41.5580045+01:00</Time>
     </Item>
     <Item>
@@ -1348,7 +1357,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb</Output>
       <Time>2015-07-09T12:29:21.0271612+01:00</Time>
     </Item>
     <Item>
@@ -1357,7 +1366,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb</Output>
       <Time>2015-07-09T14:00:28.9759522+01:00</Time>
     </Item>
     <Item>
@@ -1366,7 +1375,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Radar.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Radar.xnb</Output>
       <Time>2015-07-09T21:04:14.9876516+01:00</Time>
     </Item>
     <Item>
@@ -1375,7 +1384,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MassThumbnail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MassThumbnail.xnb</Output>
       <Time>2015-07-09T21:17:51.3135278+01:00</Time>
     </Item>
     <Item>
@@ -1384,7 +1393,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\EngineTrail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\EngineTrail.xnb</Output>
       <Time>2015-07-09T23:01:43.4736757+01:00</Time>
     </Item>
     <Item>
@@ -1393,7 +1402,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\SmokeEffect.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\SmokeEffect.xnb</Output>
       <Time>2015-07-11T13:37:35.2083171+01:00</Time>
     </Item>
     <Item>
@@ -1402,7 +1411,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ImpulseEngine.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ImpulseEngine.xnb</Output>
       <Time>2015-07-11T19:13:32.2374779+01:00</Time>
     </Item>
     <Item>
@@ -1411,7 +1420,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\JetEngine.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\JetEngine.xnb</Output>
       <Time>2015-07-11T19:13:32.2494863+01:00</Time>
     </Item>
     <Item>
@@ -1420,7 +1429,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ThrusterEngine.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ThrusterEngine.xnb</Output>
       <Time>2015-07-11T19:13:32.2274691+01:00</Time>
     </Item>
     <Item>
@@ -1429,7 +1438,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Earth From Space.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Earth From Space.xnb</Output>
       <Time>2015-07-17T16:48:16.9516434+01:00</Time>
     </Item>
     <Item>
@@ -1438,7 +1447,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb</Output>
       <Time>2015-07-18T20:20:59.2660554+01:00</Time>
     </Item>
     <Item>
@@ -1447,7 +1456,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb</Output>
       <Time>2015-07-18T20:20:59.8794625+01:00</Time>
     </Item>
     <Item>
@@ -1456,7 +1465,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb</Output>
       <Time>2015-07-18T18:31:56.9850409+01:00</Time>
     </Item>
     <Item>
@@ -1465,7 +1474,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb</Output>
       <Time>2015-07-18T18:31:56.9810412+01:00</Time>
     </Item>
     <Item>
@@ -1474,7 +1483,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb</Output>
       <Time>2015-07-19T15:37:59.2269196+01:00</Time>
     </Item>
     <Item>
@@ -1483,7 +1492,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\blaster.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\blaster.xnb</Output>
       <Time>2015-07-19T15:38:52.5818475+01:00</Time>
     </Item>
     <Item>
@@ -1492,7 +1501,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb</Output>
       <Time>2015-07-20T20:07:15.8570178+01:00</Time>
     </Item>
     <Item>
@@ -1501,7 +1510,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f135.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f135.xnb</Output>
       <Time>2015-07-20T20:07:15.8650205+01:00</Time>
     </Item>
     <Item>
@@ -1510,7 +1519,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f171.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f171.xnb</Output>
       <Time>2015-07-20T20:07:15.8690189+01:00</Time>
     </Item>
     <Item>
@@ -1519,7 +1528,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f61.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f61.xnb</Output>
       <Time>2015-07-20T20:07:15.862019+01:00</Time>
     </Item>
     <Item>
@@ -1528,7 +1537,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb</Output>
       <Time>2015-07-20T20:07:15.8730267+01:00</Time>
     </Item>
     <Item>
@@ -1537,7 +1546,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb</Output>
       <Time>2015-07-20T20:07:15.8760321+01:00</Time>
     </Item>
     <Item>
@@ -1546,7 +1555,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb</Output>
       <Time>2015-07-20T20:24:56.9386001+01:00</Time>
     </Item>
     <Item>
@@ -1555,7 +1564,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb</Output>
       <Time>2015-07-20T20:24:56.9335925+01:00</Time>
     </Item>
     <Item>
@@ -1564,7 +1573,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb</Output>
       <Time>2015-07-21T14:17:01.0782787+01:00</Time>
     </Item>
     <Item>
@@ -1573,7 +1582,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb</Output>
       <Time>2015-07-21T14:17:01.0182389+01:00</Time>
     </Item>
     <Item>
@@ -1582,7 +1591,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb</Output>
       <Time>2015-07-21T14:17:01.0542628+01:00</Time>
     </Item>
     <Item>
@@ -1591,7 +1600,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb</Output>
       <Time>2015-07-21T14:17:01.0592687+01:00</Time>
     </Item>
     <Item>
@@ -1600,7 +1609,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb</Output>
       <Time>2015-07-21T14:17:01.0642703+01:00</Time>
     </Item>
     <Item>
@@ -1609,7 +1618,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb</Output>
       <Time>2015-07-21T14:17:01.0682717+01:00</Time>
     </Item>
     <Item>
@@ -1618,7 +1627,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb</Output>
       <Time>2015-07-21T14:17:01.0742752+01:00</Time>
     </Item>
     <Item>
@@ -1627,7 +1636,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb</Output>
       <Time>2015-07-22T16:29:21.4250438+01:00</Time>
     </Item>
     <Item>
@@ -1636,7 +1645,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun.xnb</Output>
       <Time>2015-07-22T16:29:21.4200392+01:00</Time>
     </Item>
     <Item>
@@ -1645,7 +1654,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb</Output>
       <Time>2015-07-22T16:29:27.2729279+01:00</Time>
     </Item>
     <Item>
@@ -1654,7 +1663,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb</Output>
       <Time>2015-07-22T16:29:27.2649192+01:00</Time>
     </Item>
     <Item>
@@ -1663,7 +1672,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb</Output>
       <Time>2015-07-22T18:01:46.9334559+01:00</Time>
     </Item>
     <Item>
@@ -1672,7 +1681,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb</Output>
       <Time>2015-07-22T18:01:46.9274447+01:00</Time>
     </Item>
     <Item>
@@ -1681,7 +1690,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb</Output>
       <Time>2015-07-22T18:10:10.731775+01:00</Time>
     </Item>
     <Item>
@@ -1690,7 +1699,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb</Output>
       <Time>2015-07-22T18:10:10.7267713+01:00</Time>
     </Item>
     <Item>
@@ -1699,7 +1708,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\BlueGalaxy.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\BlueGalaxy.xnb</Output>
       <Time>2015-07-22T19:04:28.6798127+01:00</Time>
     </Item>
     <Item>
@@ -1708,7 +1717,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\StarrySpace.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\StarrySpace.xnb</Output>
       <Time>2015-07-22T19:04:28.6758045+01:00</Time>
     </Item>
     <Item>
@@ -1717,7 +1726,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\spacestation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\spacestation.xnb</Output>
       <Time>2015-07-22T19:04:56.7844629+01:00</Time>
     </Item>
     <Item>
@@ -1726,7 +1735,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SS1.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SS1.xnb</Output>
       <Time>2015-07-22T19:04:56.8505098+01:00</Time>
     </Item>
     <Item>
@@ -1735,7 +1744,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb</Output>
       <Time>2015-07-22T19:04:56.8675155+01:00</Time>
     </Item>
     <Item>
@@ -1744,7 +1753,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb</Output>
       <Time>2015-07-22T19:04:56.8745223+01:00</Time>
     </Item>
     <Item>
@@ -1753,7 +1762,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb</Output>
       <Time>2015-07-22T19:04:56.9035402+01:00</Time>
     </Item>
     <Item>
@@ -1762,7 +1771,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb</Output>
       <Time>2015-07-22T19:04:56.7714534+01:00</Time>
     </Item>
     <Item>
@@ -1771,7 +1780,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb</Output>
       <Time>2015-07-22T19:04:56.7794562+01:00</Time>
     </Item>
     <Item>
@@ -1780,7 +1789,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb</Output>
       <Time>2015-07-22T19:04:56.7624458+01:00</Time>
     </Item>
     <Item>
@@ -1789,7 +1798,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\PlanetAndSpace.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\PlanetAndSpace.xnb</Output>
       <Time>2015-07-22T19:41:10.089201+01:00</Time>
     </Item>
     <Item>
@@ -1798,7 +1807,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb</Output>
       <Time>2015-07-23T12:31:20.7139932+01:00</Time>
     </Item>
     <Item>
@@ -1807,24 +1816,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb</Output>
       <Time>2015-07-23T16:25:50.3205698+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.tmx</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior</Name>
-      <Importer>TMXContentImporter</Importer>
-      <Processor>TMXContentProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.xnb</Output>
-      <Time>2015-05-30T19:04:54.8383643+01:00</Time>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb</Request>
-      <Request>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb</Request>
     </Item>
     <Item>
       <Source>XML\Ship Interior Maps\DragonflyInterior.xml</Source>
@@ -1832,7 +1825,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Interior Maps\DragonflyInterior.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Interior Maps\DragonflyInterior.xnb</Output>
       <Time>2015-06-12T15:33:48.0260645+01:00</Time>
     </Item>
     <Item>
@@ -1841,7 +1834,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level1Data.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level1Data.xnb</Output>
       <Time>2015-07-23T17:37:38.0434272+01:00</Time>
     </Item>
     <Item>
@@ -1850,7 +1843,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb</Output>
       <Time>2015-06-05T15:44:26.1393071+01:00</Time>
     </Item>
     <Item>
@@ -1859,7 +1852,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb</Output>
       <Time>2015-07-22T16:44:32.7958968+01:00</Time>
     </Item>
     <Item>
@@ -1868,7 +1861,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb</Output>
       <Time>2015-07-18T19:59:13.5878015+01:00</Time>
     </Item>
     <Item>
@@ -1877,7 +1870,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\MainMenuScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\MainMenuScreen.xnb</Output>
       <Time>2015-07-20T16:16:22.2643619+01:00</Time>
     </Item>
     <Item>
@@ -1886,7 +1879,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Buttons\MenuButton.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Buttons\MenuButton.xnb</Output>
       <Time>2015-06-14T17:42:24.4266131+01:00</Time>
     </Item>
     <Item>
@@ -1895,7 +1888,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LoadingScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LoadingScreen.xnb</Output>
       <Time>2015-06-14T22:19:43.4999213+01:00</Time>
     </Item>
     <Item>
@@ -1904,7 +1897,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\OptionsScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\OptionsScreen.xnb</Output>
       <Time>2015-07-20T16:16:26.2870321+01:00</Time>
     </Item>
     <Item>
@@ -1913,7 +1906,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LightEnergyShield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LightEnergyShield.xnb</Output>
       <Time>2015-07-11T18:02:16.6277255+01:00</Time>
     </Item>
     <Item>
@@ -1922,7 +1915,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Settings\DefaultOptions.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Settings\DefaultOptions.xnb</Output>
       <Time>2015-07-22T18:20:39.9819064+01:00</Time>
     </Item>
     <Item>
@@ -1931,7 +1924,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Sensors\SensorsUI.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Sensors\SensorsUI.xnb</Output>
       <Time>2015-07-09T18:12:25.3784424+01:00</Time>
     </Item>
     <Item>
@@ -1940,7 +1933,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\LightThruster.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\LightThruster.xnb</Output>
       <Time>2015-07-19T23:00:50.2873293+01:00</Time>
     </Item>
     <Item>
@@ -1949,7 +1942,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\ShortRangeSensor.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\ShortRangeSensor.xnb</Output>
       <Time>2015-07-09T12:16:40.8200026+01:00</Time>
     </Item>
     <Item>
@@ -1958,7 +1951,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LevelSelectScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LevelSelectScreen.xnb</Output>
       <Time>2015-07-20T16:15:58.2214043+01:00</Time>
     </Item>
     <Item>
@@ -1967,7 +1960,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level2Data.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level2Data.xnb</Output>
       <Time>2015-07-22T19:02:16.1599904+01:00</Time>
     </Item>
     <Item>
@@ -1976,7 +1969,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\SmallImpulseEngine.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\SmallImpulseEngine.xnb</Output>
       <Time>2015-07-19T23:01:05.1341828+01:00</Time>
     </Item>
     <Item>
@@ -1985,7 +1978,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\HeavyThruster.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\HeavyThruster.xnb</Output>
       <Time>2015-07-19T23:01:09.0808021+01:00</Time>
     </Item>
     <Item>
@@ -1994,7 +1987,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\LongRangeSensor.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\LongRangeSensor.xnb</Output>
       <Time>2015-07-09T12:22:03.672276+01:00</Time>
     </Item>
     <Item>
@@ -2003,7 +1996,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LowFrequencyDeflectorShield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LowFrequencyDeflectorShield.xnb</Output>
       <Time>2015-07-08T21:11:16.7360231+01:00</Time>
     </Item>
     <Item>
@@ -2012,7 +2005,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb</Output>
       <Time>2015-07-08T21:13:22.3152553+01:00</Time>
     </Item>
     <Item>
@@ -2021,7 +2014,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\JetThruster.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\JetThruster.xnb</Output>
       <Time>2015-07-19T15:03:49.81368+01:00</Time>
     </Item>
     <Item>
@@ -2030,7 +2023,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\BarrakudaMissileBattery.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\BarrakudaMissileBattery.xnb</Output>
       <Time>2015-07-22T21:39:19.1248758+01:00</Time>
     </Item>
     <Item>
@@ -2039,7 +2032,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb</Output>
       <Time>2015-07-22T20:02:00.1826682+01:00</Time>
     </Item>
     <Item>
@@ -2048,7 +2041,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\ShipUpgradeScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\ShipUpgradeScreen.xnb</Output>
       <Time>2015-07-20T16:16:30.6889527+01:00</Time>
     </Item>
     <Item>
@@ -2057,7 +2050,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\ShieldsRestored.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\ShieldsRestored.xnb</Output>
       <Time>2015-07-08T15:10:33.1200709+01:00</Time>
     </Item>
     <Item>
@@ -2066,7 +2059,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\EngineTrail.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\EngineTrail.xnb</Output>
       <Time>2015-07-09T23:03:33.7837911+01:00</Time>
     </Item>
     <Item>
@@ -2075,7 +2068,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Smoke.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Smoke.xnb</Output>
       <Time>2015-07-11T14:29:31.3637367+01:00</Time>
     </Item>
     <Item>
@@ -2084,7 +2077,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb</Output>
       <Time>2015-07-11T12:02:55.4382667+01:00</Time>
     </Item>
     <Item>
@@ -2093,7 +2086,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\RocketEngine.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\RocketEngine.xnb</Output>
       <Time>2015-07-19T15:03:38.4671445+01:00</Time>
     </Item>
     <Item>
@@ -2102,7 +2095,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb</Output>
       <Time>2015-07-23T22:52:18.7356037+01:00</Time>
     </Item>
     <Item>
@@ -2111,7 +2104,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb</Output>
       <Time>2015-07-23T22:51:49.6482997+01:00</Time>
     </Item>
     <Item>
@@ -2120,7 +2113,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb</Output>
       <Time>2015-07-23T22:52:05.7419811+01:00</Time>
     </Item>
     <Item>
@@ -2129,7 +2122,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb</Output>
       <Time>2015-07-23T22:52:00.7526693+01:00</Time>
     </Item>
     <Item>
@@ -2138,7 +2131,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb</Output>
       <Time>2015-07-23T22:52:22.7862972+01:00</Time>
     </Item>
     <Item>
@@ -2147,7 +2140,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb</Output>
       <Time>2015-07-23T22:52:03.2273117+01:00</Time>
     </Item>
     <Item>
@@ -2156,7 +2149,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb</Output>
       <Time>2015-07-23T22:52:12.6395627+01:00</Time>
     </Item>
     <Item>
@@ -2165,7 +2158,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\PhaseBeamTurret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\PhaseBeamTurret.xnb</Output>
       <Time>2015-07-22T18:13:40.094169+01:00</Time>
     </Item>
     <Item>
@@ -2174,7 +2167,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb</Output>
       <Time>2015-07-22T18:11:16.0505704+01:00</Time>
     </Item>
     <Item>
@@ -2183,7 +2176,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\GatlingLaserTurret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\GatlingLaserTurret.xnb</Output>
       <Time>2015-07-22T16:44:21.0350914+01:00</Time>
     </Item>
     <Item>
@@ -2192,7 +2185,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb</Output>
       <Time>2015-07-19T15:40:03.6850365+01:00</Time>
     </Item>
     <Item>
@@ -2201,7 +2194,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\HighDensityPhaseShield.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\HighDensityPhaseShield.xnb</Output>
       <Time>2015-07-19T22:41:41.8649956+01:00</Time>
     </Item>
     <Item>
@@ -2210,7 +2203,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb</Output>
       <Time>2015-07-20T16:01:13.9513076+01:00</Time>
     </Item>
     <Item>
@@ -2219,7 +2212,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb</Output>
       <Time>2015-07-20T16:15:46.9419184+01:00</Time>
     </Item>
     <Item>
@@ -2228,7 +2221,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb</Output>
       <Time>2015-07-20T18:10:09.4363062+01:00</Time>
     </Item>
     <Item>
@@ -2237,7 +2230,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb</Output>
       <Time>2015-07-22T01:24:06.4379891+01:00</Time>
     </Item>
     <Item>
@@ -2246,7 +2239,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb</Output>
       <Time>2015-07-20T17:51:45.7087896+01:00</Time>
     </Item>
     <Item>
@@ -2255,7 +2248,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Barracuda.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Barracuda.xnb</Output>
       <Time>2015-07-23T22:51:25.9826421+01:00</Time>
     </Item>
     <Item>
@@ -2264,7 +2257,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
       <Time>2015-07-23T22:52:42.1951784+01:00</Time>
     </Item>
     <Item>
@@ -2273,7 +2266,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb</Output>
       <Time>2015-07-23T22:51:17.6562669+01:00</Time>
     </Item>
     <Item>
@@ -2282,7 +2275,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Harpoon.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Harpoon.xnb</Output>
       <Time>2015-07-23T22:51:13.4364625+01:00</Time>
     </Item>
     <Item>
@@ -2291,7 +2284,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hurricane.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hurricane.xnb</Output>
       <Time>2015-07-23T22:51:07.2633711+01:00</Time>
     </Item>
     <Item>
@@ -2300,7 +2293,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tornado.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tornado.xnb</Output>
       <Time>2015-07-23T22:51:04.2993997+01:00</Time>
     </Item>
     <Item>
@@ -2309,7 +2302,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tsunami.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tsunami.xnb</Output>
       <Time>2015-07-23T22:51:01.0352325+01:00</Time>
     </Item>
     <Item>
@@ -2318,7 +2311,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Austria.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Austria.xnb</Output>
       <Time>2015-07-23T22:51:29.6800955+01:00</Time>
     </Item>
     <Item>
@@ -2327,7 +2320,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Eagle.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Eagle.xnb</Output>
       <Time>2015-07-23T22:51:20.6032193+01:00</Time>
     </Item>
     <Item>
@@ -2336,7 +2329,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hawk.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hawk.xnb</Output>
       <Time>2015-07-23T22:51:10.4134566+01:00</Time>
     </Item>
     <Item>
@@ -2345,7 +2338,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb</Output>
       <Time>2015-07-23T22:52:26.3196375+01:00</Time>
     </Item>
     <Item>
@@ -2354,7 +2347,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb</Output>
       <Time>2015-07-23T22:52:15.6445527+01:00</Time>
     </Item>
     <Item>
@@ -2363,7 +2356,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb</Output>
       <Time>2015-07-23T22:52:09.3203581+01:00</Time>
     </Item>
     <Item>
@@ -2372,7 +2365,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb</Output>
       <Time>2015-07-21T11:47:46.7042055+01:00</Time>
     </Item>
     <Item>
@@ -2381,7 +2374,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb</Output>
       <Time>2015-07-21T12:11:03.2474292+01:00</Time>
     </Item>
     <Item>
@@ -2390,7 +2383,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb</Output>
       <Time>2015-07-23T22:51:42.4125458+01:00</Time>
     </Item>
     <Item>
@@ -2399,7 +2392,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb</Output>
       <Time>2015-07-23T22:51:46.6713718+01:00</Time>
     </Item>
     <Item>
@@ -2408,7 +2401,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflector.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflector.xnb</Output>
       <Time>2015-07-22T16:26:56.9571628+01:00</Time>
     </Item>
     <Item>
@@ -2417,7 +2410,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb</Output>
       <Time>2015-07-22T21:19:14.6999669+01:00</Time>
     </Item>
     <Item>
@@ -2426,7 +2419,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb</Output>
       <Time>2015-07-22T21:19:19.3050215+01:00</Time>
     </Item>
     <Item>
@@ -2435,7 +2428,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb</Output>
       <Time>2015-07-22T16:42:39.3976371+01:00</Time>
     </Item>
     <Item>
@@ -2444,7 +2437,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb</Output>
       <Time>2015-07-22T21:15:54.6714668+01:00</Time>
     </Item>
     <Item>
@@ -2453,7 +2446,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\IonBeamTurret.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\IonBeamTurret.xnb</Output>
       <Time>2015-07-22T18:14:44.6355826+01:00</Time>
     </Item>
     <Item>
@@ -2462,7 +2455,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb</Output>
       <Time>2015-07-22T18:11:30.4831489+01:00</Time>
     </Item>
     <Item>
@@ -2471,7 +2464,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level3Data.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level3Data.xnb</Output>
       <Time>2015-07-23T17:38:22.4571894+01:00</Time>
     </Item>
     <Item>
@@ -2480,7 +2473,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb</Output>
       <Time>2015-07-22T20:01:55.5866179+01:00</Time>
     </Item>
     <Item>
@@ -2489,7 +2482,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb</Output>
       <Time>2015-07-22T20:02:14.3580765+01:00</Time>
     </Item>
     <Item>
@@ -2498,7 +2491,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\WhaleSharkMissileBattery.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\WhaleSharkMissileBattery.xnb</Output>
       <Time>2015-07-22T21:38:59.8270632+01:00</Time>
     </Item>
     <Item>
@@ -2507,7 +2500,7 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\TigerSharkMissileBattery.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\TigerSharkMissileBattery.xnb</Output>
       <Time>2015-07-22T20:57:43.4133353+01:00</Time>
     </Item>
     <Item>
@@ -2516,8 +2509,17 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Gameplay Screens\SensorsScreen.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Gameplay Screens\SensorsScreen.xnb</Output>
       <Time>2015-07-23T11:44:18.245132+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\AuxiliaryThrusters.xml</Source>
+      <Name>XML\Ship Mods\AuxiliaryThrusters</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\AuxiliaryThrusters.xnb</Output>
+      <Time>2015-07-24T00:52:10.4093016+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Weapons\autocannon_fire_01.wav</Source>
@@ -2525,7 +2527,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb</Output>
       <Time>2015-06-08T16:28:18.7937524+01:00</Time>
     </Item>
     <Item>
@@ -2534,7 +2536,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound.xnb</Output>
       <Time>2015-06-13T18:45:59.8130274+01:00</Time>
     </Item>
     <Item>
@@ -2543,7 +2545,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb</Output>
       <Time>2015-06-13T18:49:51.6043499+01:00</Time>
     </Item>
     <Item>
@@ -2552,7 +2554,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound2.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound2.xnb</Output>
       <Time>2015-06-14T17:12:35.8886444+01:00</Time>
     </Item>
     <Item>
@@ -2561,7 +2563,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonHover.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonHover.xnb</Output>
       <Time>2015-06-14T17:12:45.1928066+01:00</Time>
     </Item>
     <Item>
@@ -2570,7 +2572,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\laser_loop.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\laser_loop.xnb</Output>
       <Time>2015-07-20T12:06:35.7552039+01:00</Time>
     </Item>
     <Item>
@@ -2579,7 +2581,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\guardian_pd_fire_01.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\guardian_pd_fire_01.xnb</Output>
       <Time>2015-07-20T12:07:35.444363+01:00</Time>
     </Item>
     <Item>
@@ -2588,7 +2590,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\sabot_srm_fire_01.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\sabot_srm_fire_01.xnb</Output>
       <Time>2015-07-20T12:08:03.310859+01:00</Time>
     </Item>
     <Item>
@@ -2597,7 +2599,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb</Output>
       <Time>2015-07-21T11:24:51.6230935+01:00</Time>
     </Item>
     <Item>
@@ -2606,8 +2608,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma</Extra>
       <Time>2015-06-10T12:39:36.9581421+01:00</Time>
     </Item>
     <Item>
@@ -2616,8 +2618,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma</Extra>
       <Time>2015-06-10T12:40:15.1311661+01:00</Time>
     </Item>
     <Item>
@@ -2626,8 +2628,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma</Extra>
       <Time>2015-06-10T12:40:57.2411252+01:00</Time>
     </Item>
     <Item>
@@ -2636,8 +2638,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma</Extra>
       <Time>2015-06-10T21:02:06.9673375+01:00</Time>
     </Item>
     <Item>
@@ -2646,8 +2648,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma</Extra>
       <Time>2015-06-10T21:03:48.2914114+01:00</Time>
     </Item>
     <Item>
@@ -2656,8 +2658,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma</Extra>
       <Time>2015-06-10T21:08:35.9558337+01:00</Time>
     </Item>
     <Item>
@@ -2666,8 +2668,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma</Extra>
       <Time>2015-06-10T21:10:12.0014139+01:00</Time>
     </Item>
     <Item>
@@ -2676,8 +2678,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma</Extra>
       <Time>2015-06-10T21:14:06.8068466+01:00</Time>
     </Item>
     <Item>
@@ -2686,8 +2688,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.wma</Extra>
       <Time>2015-06-11T17:20:51.3668842+01:00</Time>
     </Item>
     <Item>
@@ -2696,8 +2698,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.wma</Extra>
       <Time>2015-06-11T17:21:04.7428014+01:00</Time>
     </Item>
     <Item>
@@ -2706,8 +2708,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.wma</Extra>
       <Time>2015-06-11T17:21:04.7628144+01:00</Time>
     </Item>
     <Item>
@@ -2716,8 +2718,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.wma</Extra>
       <Time>2015-06-11T17:33:28.7455644+01:00</Time>
     </Item>
     <Item>
@@ -2726,8 +2728,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.wma</Extra>
       <Time>2015-06-11T17:33:28.7215437+01:00</Time>
     </Item>
     <Item>
@@ -2736,8 +2738,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.wma</Extra>
       <Time>2015-06-11T17:33:28.7335559+01:00</Time>
     </Item>
     <Item>
@@ -2746,8 +2748,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.wma</Extra>
       <Time>2015-06-11T17:43:16.7844104+01:00</Time>
     </Item>
     <Item>
@@ -2756,8 +2758,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.wma</Extra>
       <Time>2015-06-11T18:08:22.6566478+01:00</Time>
     </Item>
     <Item>
@@ -2766,8 +2768,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.wma</Extra>
       <Time>2015-06-11T18:08:36.451644+01:00</Time>
     </Item>
     <Item>
@@ -2776,8 +2778,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.wma</Extra>
       <Time>2015-06-11T18:08:36.4226247+01:00</Time>
     </Item>
     <Item>
@@ -2786,8 +2788,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.wma</Extra>
       <Time>2015-06-11T18:46:17.1239048+01:00</Time>
     </Item>
     <Item>
@@ -2796,8 +2798,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.wma</Extra>
       <Time>2015-06-11T18:53:35.3718098+01:00</Time>
     </Item>
     <Item>
@@ -2806,8 +2808,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.wma</Extra>
       <Time>2015-06-11T18:53:51.5175693+01:00</Time>
     </Item>
     <Item>
@@ -2816,8 +2818,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.wma</Extra>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.xnb</Output>
+      <Extra>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.wma</Extra>
       <Time>2015-06-11T18:54:07.1980234+01:00</Time>
     </Item>
     <Item>
@@ -2826,7 +2828,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\TextFont.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\TextFont.xnb</Output>
       <Time>2015-06-12T20:48:08.9642379+01:00</Time>
     </Item>
     <Item>
@@ -2835,145 +2837,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb</Output>
       <Time>2015-06-21T18:10:56.8438911+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb</Output>
-      <Time>2015-05-30T19:02:05.7342191+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb</Output>
-      <Time>2015-05-30T19:04:33.2857663+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb</Output>
-      <Time>2015-05-30T19:03:01.7547853+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb</Output>
-      <Time>2015-05-30T19:03:31.8557626+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb</Output>
-      <Time>2015-05-30T19:04:13.707778+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.png</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb</Output>
-      <Time>2015-05-30T19:02:25.0613636+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Interior Maps\Space\SpaceTile.jpg</Source>
-      <Name>Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="GenerateMipmaps" Type="bool">false</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">Color</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFFFFFF</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb</Output>
-      <Time>2015-05-30T19:02:37.493618+01:00</Time>
-    </Item>
-    <Item>
-      <Source>XML\Ship Mods\AuxiliaryThrusters.xml</Source>
-      <Name>XML\Ship Mods\AuxiliaryThrusters</Name>
-      <Importer>XmlImporter</Importer>
-      <Processor>PassThroughProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\AuxiliaryThrusters.xnb</Output>
-      <Time>2015-07-24T00:52:10.4093016+01:00</Time>
-    </Item>
-    <Item>
-      <Source>Sprites\Ship Mods\auxiliary_thrusters.png</Source>
-      <Name>Sprites\Ship Mods\auxiliary_thrusters</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb</Output>
-      <Time>2015-07-04T17:00:16.4671633+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -2982,14 +2847,14 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxyContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll</Key>
+        <Key>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll</Key>
         <Value>2015-07-23T22:50:28.4061176+01:00</Value>
       </Assembly>
       <Assembly>
@@ -3015,10 +2880,6 @@
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2011-09-01T17:22:30+01:00</Value>
-      </Assembly>
-      <Assembly>
-        <Key>C:\Users\User\Downloads\XTiled-0.8.1.1i\FuncWorks.XNA.XTiledExtensions.dll</Key>
-        <Value>2012-10-11T00:53:43.1183864+01:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>

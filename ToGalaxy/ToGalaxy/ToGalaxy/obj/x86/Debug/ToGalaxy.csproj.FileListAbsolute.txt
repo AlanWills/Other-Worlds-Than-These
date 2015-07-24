@@ -353,3 +353,349 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\b
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\AuxiliaryThrusters.xnb
 C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.exe
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\SelectionIcon.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitle.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_released.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_pressed.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground2.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground3.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\RectangularButton.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Panel.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\MenuPanelBackground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\LoadingScreenBackground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\LoadingScreenTitle.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\StandardShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\spr_shield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSlider.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\accelerated_shields.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_optics.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_turret_gyros.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\augmented_engines.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\automated_repair_unit.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\blast_doors.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\eccm_package.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\ecm_package.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_magazines.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_missile_racks.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\extended_shields.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_coil_adjunct.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_distributor.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_shunt.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_emitter.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_generator.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\generic_mod.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\hardened_shields.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\heavy_armor.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\insulated_engine_assembly.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_targeting_unit.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\monofilament_cable.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\reinforced_bulkheads.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\repair_gantry.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\resistant_flux_conduits.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\stabilized_shields.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\targeting_core.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\unstable_injector.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\advanced_tactics.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\applied_physics.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\combat.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\command_experience.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\computer_systems.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\construction.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\coordinated_maneuvers.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\damage_control.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\evasive_maneuvering.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\field_repairs.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\fleet_logistics.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\flux_dynamics.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\gunnery_implants.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\helmsmanship.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\leadership.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\mechanical_engineering.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\missile_specialization.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\navigation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\ordnance_expert.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\power_grid_manipulation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\target_analysis.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\technology.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\BlackBackground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Ion Storm.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Edge Of The System.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Dust Cloud.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Scattered Stars.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula2.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Hyperspace.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Sensors\sensor_array_dish.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\devilfish.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\ShieldsRestored.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\HullThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Radar.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MassThumbnail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\EngineTrail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\SmokeEffect.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ImpulseEngine.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\JetEngine.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ThrusterEngine.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Earth From Space.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\blaster.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f135.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f171.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f61.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\BlueGalaxy.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\StarrySpace.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\spacestation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SS1.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\PlanetAndSpace.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Interior Maps\DragonflyInterior.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level1Data.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\MainMenuScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Buttons\MenuButton.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LoadingScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\OptionsScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LightEnergyShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Settings\DefaultOptions.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Sensors\SensorsUI.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\LightThruster.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\ShortRangeSensor.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LevelSelectScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level2Data.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\SmallImpulseEngine.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\HeavyThruster.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\LongRangeSensor.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LowFrequencyDeflectorShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\JetThruster.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\BarrakudaMissileBattery.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\ShipUpgradeScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\ShieldsRestored.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\EngineTrail.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Smoke.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\RocketEngine.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\PhaseBeamTurret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\GatlingLaserTurret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\HighDensityPhaseShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Barracuda.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Harpoon.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hurricane.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tornado.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tsunami.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Austria.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Eagle.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hawk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflector.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\IonBeamTurret.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level3Data.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\WhaleSharkMissileBattery.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\TigerSharkMissileBattery.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Gameplay Screens\SensorsScreen.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\AuxiliaryThrusters.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound2.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonHover.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\laser_loop.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\guardian_pd_fire_01.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\sabot_srm_fire_01.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\TextFont.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.wma
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.exe
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.dll
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.pdb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\FuncWorks.XNA.XTiled.xml
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
