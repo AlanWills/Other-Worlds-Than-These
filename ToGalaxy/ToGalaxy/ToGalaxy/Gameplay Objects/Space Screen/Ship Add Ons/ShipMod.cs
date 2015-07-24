@@ -43,17 +43,25 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             set;
         }
 
+        private bool ModFinishedRunning
+        {
+            get
+            {
+                return TimeSinceActivation > ShipModData.RunTime;
+            }
+        }
+
         private bool CanActivate
         {
             get
             {
-                return TimeSinceActivation > ShipModData.Cooldown && ShipModData.Active;
+                return TimeSinceActivation > (ShipModData.RunTime + ShipModData.Cooldown) && ShipModData.Active;
             }
         }
 
         #endregion
 
-        public Func<Ship, bool> ActivationEvent;
+        public Action<Ship, bool> ActivationEvent;
 
         public ShipMod(string dataAsset, Vector2 position, Ship parentShip, Keys key = Keys.None)
             : base(dataAsset, position)
@@ -87,8 +95,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 SetPosition(ParentShip.Position);
             }
 
-            // This loop is merely responsible for indicating the mod has bee activated
-            TimeSinceActivation += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
+            // This is just responsible for indicating the mod has been activated
             if (CanActivate)
             {
                 // If it has a key it is for a player ship
@@ -96,29 +103,20 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 {
                     if (Keyboard.GetState().GetPressedKeys().Contains(ActivationKey))
                     {
-                        if (ActivationEvent != null)
-                        {
-                            TimeSinceActivation = 0;
-                        }
+                        TimeSinceActivation = 0;
                     }
                 }
                 // Otherwise it is for an enemy ship and should be activated when possible
                 else
                 {
-                    if (ActivationEvent != null)
-                    {
-                        TimeSinceActivation = 0;
-                    }
+                    TimeSinceActivation = 0;
                 }
             }
 
-            // This runs the function for 3 seconds
-            if (TimeSinceActivation < 3)
+            if (ActivationEvent != null)
             {
-                if (ActivationEvent != null)
-                {
-                    ActivationEvent(ParentShip);
-                }
+                ActivationEvent(ParentShip, ModFinishedRunning);
+                TimeSinceActivation += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
             }
         }
     }

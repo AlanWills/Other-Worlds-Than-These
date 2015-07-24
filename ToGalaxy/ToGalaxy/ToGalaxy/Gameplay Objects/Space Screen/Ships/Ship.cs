@@ -107,14 +107,21 @@ namespace ToGalaxy.Gameplay_Objects
         {
             get
             {
-                int minTurretRange = int.MaxValue;
-                foreach (Turret turret in Turrets)
+                if (Turrets.Count == 0)
                 {
-                    if (turret.TurretData.Range < minTurretRange)
-                        minTurretRange = turret.TurretData.Range;
+                    return 0;
                 }
+                else
+                {
+                    int minTurretRange = Turrets[0].TurretData.Range;
+                    foreach (Turret turret in Turrets)
+                    {
+                        if (turret.TurretData.Range < minTurretRange)
+                            minTurretRange = turret.TurretData.Range;
+                    }
 
-                return minTurretRange;
+                    return minTurretRange;
+                }
             }
         }
 
@@ -156,8 +163,14 @@ namespace ToGalaxy.Gameplay_Objects
 
                 // Speed is affected by the ships mass - 1000 tonnes provides the engines written functioning capacity, 
                 // less or more will increase/detriment performance
-                return delta * 1000f / ShipData.Mass;
+                return SpeedMultiplier * delta * 1000f / ShipData.Mass;
             }
+        }
+
+        public float SpeedMultiplier
+        {
+            get;
+            set;
         }
 
         public float RotateSpeed
@@ -236,6 +249,7 @@ namespace ToGalaxy.Gameplay_Objects
             ManualSteering = false;
             AutoTurrets = true;
             InterialDampeners = true;
+            SpeedMultiplier = 1;
 
             Turrets = new List<Turret>();
             Engines = new List<Engine>();

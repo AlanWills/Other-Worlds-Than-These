@@ -82,10 +82,8 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             Objects = new List<GameObject>();
         }
 
-        public override void LoadContent()
+        public void SetUpSpaceScreen()
         {
-            base.LoadContent();
-
             if (ScreenDataAsset != "")
             {
                 SpaceScreenData = ScreenManager.Content.Load<SpaceScreenData>(ScreenDataAsset);
@@ -107,6 +105,8 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             PlayerShip.MoveOrder(PlayerShip.Position);
 
             AddGameObject(PlayerShip);
+            AddSensorImage(PlayerShip);
+
             ExtendedScreenManager.Camera.SetGameScreenCamera();
         }
 
@@ -144,8 +144,8 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                 if (i < SpaceScreenData.PresetObjectsPositions.Count)
                 {
                     GameObject presetObject = new GameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
-                    Objects.Add(presetObject);
-                    LoadAndAddGameObject(presetObject);
+
+                    LoadAndAddObject(presetObject);
                 }
             }
         }
@@ -170,8 +170,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                             randomObject.SetRotation(MathHelper.ToRadians(90));
                             randomObject.IncreaseVelocity(new Vector2(0, 1));
 
-                            Objects.Add(randomObject);
-                            LoadAndAddGameObject(randomObject);
+                            LoadAndAddObject(randomObject);
 
                             break;
                         }
@@ -314,8 +313,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                     randomObject.SetRotation(MathHelper.ToRadians(90));
                     randomObject.IncreaseVelocity(new Vector2(0, 1));
 
-                    Objects.Add(randomObject);
-                    LoadAndAddGameObject(randomObject);
+                    LoadAndAddObject(randomObject);
                 }
             }
         }
@@ -324,6 +322,14 @@ namespace ToGalaxy.Screens.Gameplay_Screens
         {
             EnemyShips.Add(enemy);
             AddGameObject(enemy);
+            AddSensorImage(enemy);
+        }
+
+        private void AddObject(GameObject gameObject)
+        {
+            Objects.Add(gameObject);
+            AddGameObject(gameObject);
+            AddSensorImage(gameObject);
         }
 
         private void LoadAndAddEnemy(EnemyShip enemy)
@@ -332,6 +338,19 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             LoadAndAddGameObject(enemy);
             enemy.SetUpTurretSpawnPools();
             enemy.SetUpShipUI(ScreenManager.Content);
+            AddSensorImage(enemy);
+        }
+
+        private void LoadAndAddObject(GameObject gameObject)
+        {
+            Objects.Add(gameObject);
+            LoadAndAddGameObject(gameObject);
+            AddSensorImage(gameObject);
+        }
+
+        private void AddSensorImage(GameObject gameObject)
+        {
+            ExtendedScreenManager.SensorsScreen.AddImage(gameObject);
         }
 
         private void RemoveDeadEnemies()

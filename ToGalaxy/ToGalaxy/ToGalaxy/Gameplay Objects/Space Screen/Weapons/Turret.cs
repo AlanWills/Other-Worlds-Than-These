@@ -98,6 +98,12 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             protected set;
         }
 
+        public float FireTimerMultiplier
+        {
+            get;
+            set;
+        }
+
         public bool CanFire
         {
             get
@@ -155,6 +161,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             ParentShip = parentShip;
             WeaponHardPoint = hardPointLocation;
             FireKey = fireKey;
+            FireTimerMultiplier = 1;
 
             float cosRot = (float)Math.Cos(ParentShip.Rotation);
             float sinRot = (float)Math.Sin(ParentShip.Rotation);
@@ -226,7 +233,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 Rotation = (float)Math.Atan2(difference.X, -difference.Y);
             }
 
-            CurrentFireTimer += (float)gameTime.ElapsedGameTime.Milliseconds / 1000;
+            CurrentFireTimer += FireTimerMultiplier * (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
 
             if (CanFire && difference.Length() <= TurretData.Range)
             {

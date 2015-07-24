@@ -222,6 +222,9 @@ namespace ToGalaxy.Screens
             SensorsScreen = new SensorsScreen(this, SpaceScreen);
             SensorsScreen.LoadContent();
 
+            // Add all the details because this involves adding sensor images which requires the SensorsScreen to load content
+            SpaceScreen.SetUpSpaceScreen();
+
             DoneLoading = true;
         }
 

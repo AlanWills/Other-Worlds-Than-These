@@ -95,13 +95,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Ship Interior Maps\DragonflyInterior.xml">
-      <Name>DragonflyInterior</Name>
-      <Importer>XmlImporter</Importer>
-      <Processor>PassThroughProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="XML\Space Data\Level1Data.xml">
       <Name>Level1Data</Name>
       <Importer>XmlImporter</Importer>
@@ -1200,6 +1193,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Sprites\Ship Interior Maps\Tile Maps\" />
+    <Folder Include="XML\Ship Interior Maps\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Sprites\FX\ShieldsRestored.png">

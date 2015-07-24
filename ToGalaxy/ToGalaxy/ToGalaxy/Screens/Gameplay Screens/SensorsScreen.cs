@@ -97,66 +97,33 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             foreach (GameObject gameObject in SpaceScreen.Objects)
             {
                 float distance = (gameObject.Position - SpaceScreen.PlayerShip.Position).Length();
-                if (!SensorImages.ContainsKey(gameObject))
+                if (distance <= range)
                 {
-                    if (distance <= range)
-                    {
-                        AddImage(gameObject);
-                    }
+                    SensorImages[gameObject].Activate();
                 }
                 else
                 {
-                    if (distance > range)
-                    {
-                        SensorImagesToRemove.Add(gameObject, SensorImages[gameObject]);
-                    }
+                    SensorImages[gameObject].DisableAndHide();
                 }
             }
 
             foreach (EnemyShip enemyShip in SpaceScreen.EnemyShips)
             {
                 float distance = (enemyShip.Position - SpaceScreen.PlayerShip.Position).Length();
-                if (!SensorImages.ContainsKey(enemyShip))
+                if (distance <= range)
                 {
-                    if (distance <= range)
-                    {
-                        AddImage(enemyShip);
-                    }
+                    SensorImages[enemyShip].Activate();
                 }
                 else
                 {
-                    if (distance > range)
-                    {
-                        SensorImagesToRemove.Add(enemyShip, SensorImages[enemyShip]);
-                    }
+                    SensorImages[enemyShip].DisableAndHide();
                 }
-            }
-
-            if (!SensorImages.ContainsKey(SpaceScreen.PlayerShip))
-            {
-                AddImage(SpaceScreen.PlayerShip);
             }
 
             foreach (KeyValuePair<GameObject, Image> sensorImage in SensorImages)
             {
-                if (SpaceScreen.Objects.Contains(sensorImage.Key))
-                {
-                    sensorImage.Value.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
-                }
-                else if (SpaceScreen.EnemyShips.Contains(sensorImage.Key))
-                {
-                    sensorImage.Value.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
-                    sensorImage.Value.SetRotation(sensorImage.Key.Rotation);
-                }
-                else if (SpaceScreen.PlayerShip == (sensorImage.Key as PlayerShip))
-                {
-                    sensorImage.Value.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
-                    sensorImage.Value.SetRotation(sensorImage.Key.Rotation);
-                }
-                else
-                {
-                    SensorImagesToRemove.Add(sensorImage.Key, sensorImage.Value);
-                }
+                sensorImage.Value.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
+                sensorImage.Value.SetRotation(sensorImage.Key.Rotation);
             }
 
             foreach (KeyValuePair<GameObject, Image> image in SensorImagesToRemove)
@@ -168,7 +135,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             SensorImagesToRemove.Clear();
         }
 
-        private void AddImage(GameObject gameObject)
+        public void AddImage(GameObject gameObject)
         {
             // If the object is large enough, just add a smaller copy to the sensors screen
             if (gameObject.Bounds.Width > 80 || gameObject.Bounds.Height > 150)
@@ -226,6 +193,11 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
                 SensorImages.Add(gameObject, sensorImage);
             }
+        }
+
+        public void RemoveImage(GameObject gameObject)
+        {
+            SensorImagesToRemove.Add(gameObject, SensorImages[gameObject]);
         }
     }
 }

@@ -200,7 +200,6 @@ Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
 Content\Sprites\Space\PlanetAndSpace.xnb
 Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb
 Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
-Content\XML\Ship Interior Maps\DragonflyInterior.xnb
 Content\XML\Space Data\Level1Data.xnb
 Content\XML\Crew\HumanCrewMember.xnb
 Content\XML\Weapons\50mmAutoCannon.xnb

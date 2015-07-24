@@ -19,6 +19,12 @@ namespace ToGalaxyCustomData
             set;
         }
 
+        public float RunTime
+        {
+            get;
+            set;
+        }
+
         public float Cooldown
         {
             get;
