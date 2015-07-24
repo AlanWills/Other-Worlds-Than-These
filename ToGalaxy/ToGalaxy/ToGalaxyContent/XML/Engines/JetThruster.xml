@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.EngineData">
+    <Name>Jet Thruster</Name>
+    <TextureAsset>Sprites/Engines/JetEngine</TextureAsset>
+    <EngineSpeed>9</EngineSpeed>
+    <EngineRotateSpeed>0.035</EngineRotateSpeed>
+    <EngineSoundAsset>Sounds/Engines/engine_02_midtek_00_fighter</EngineSoundAsset>
+    <Description>The latest in speed and manoeuvring.  Extremely effective on a fighter class ship for extreme movement, or a versatile engine for a heavier ship.</Description>
+    <Cost>1000</Cost>
+  </Asset>
+</XnaContent>

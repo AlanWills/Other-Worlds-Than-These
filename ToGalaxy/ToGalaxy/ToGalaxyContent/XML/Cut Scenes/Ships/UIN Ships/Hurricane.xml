@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Hurricane</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Hurricane</TextureAsset>
+    <WeaponHardPoints>
+      0 2
+      -17 -2
+      17 -2
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      0 27
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>BarrakudaMissileBattery</Item>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>30</Armour>
+    <Hull>10</Hull>
+    <Mass>1000</Mass>
+    <EngineNames>
+      <Item>LightThruster</Item>
+    </EngineNames>
+    <ShipModSlots>4</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A slow fighter that has the potential to pack some serious firepower.  Strong armour for it's size, but very weak hull.</Description>
+    <Cost>2500</Cost>
+  </Asset>
+</XnaContent>

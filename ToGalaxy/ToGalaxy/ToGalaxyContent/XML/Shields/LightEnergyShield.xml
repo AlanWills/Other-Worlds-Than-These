@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShieldData">
+    <Name>Light Energy Shield</Name>
+    <TextureAsset>Sprites/Shields/StandardShield</TextureAsset>
+    <Strength>40</Strength>
+    <RechargePerSecond>3</RechargePerSecond>
+    <RechargeDelay>8</RechargeDelay>
+    <DepletionDelay>30</DepletionDelay>
+    <Colour>1 1 0 1</Colour>
+    <Description>A very basic shield suitable for a small ship or a pilot on a budget.  Will offer little defence against most weapons.</Description>
+    <Cost>300</Cost>
+  </Asset>
+</XnaContent>

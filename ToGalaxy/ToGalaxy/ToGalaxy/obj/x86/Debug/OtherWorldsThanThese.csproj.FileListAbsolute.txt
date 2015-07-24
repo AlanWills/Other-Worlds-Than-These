@@ -1,0 +1,83 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space\Deep Space.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Dragonfly.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Engine Trails\contrail64b.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Engine Trails\engineflame32.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\icon_selected.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Gnat.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\50mm Auto Cannon\50mm_autocannon_turret_base.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\50mm Auto Cannon\50mm_autocannon_turret_recoil.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Interior Maps\DragonflyInterior.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\SpaceData\DeepSpaceData.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Command Markers\MoveMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Engine Trails\EngineTrail.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Engine Trails\EngineBlaze.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Icons\SelectionIcon.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\CannonBullet.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Command Markers\AttackMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Command Markers\ShipLocationMarker.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Bars\HullBar.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\FuncWorks.XNA.XTiled.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\FuncWorks.XNA.XTiled.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\OtherWorldsThanThese.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.pdb

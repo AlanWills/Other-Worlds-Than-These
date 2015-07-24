@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>6 Point Dual Repeater Turret</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/6pdr-gun</TextureAsset>
+    <Type>Bullet</Type>
+    <FireTimer>0.5</FireTimer>
+    <Range>380</Range>
+    <BulletDamage>2</BulletDamage>
+    <BulletVelocity>0 11</BulletVelocity>
+    <BulletLifeTime>2</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Bullets/SixPointDualRepeaterBullet</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/autocannon_fire_01</TurretSoundEffectAsset>
+    <Description>A fast firing, but short range cannon adept at shredding through low armoured fighters.</Description>
+    <Cost>285</Cost>
+  </Asset>
+</XnaContent>

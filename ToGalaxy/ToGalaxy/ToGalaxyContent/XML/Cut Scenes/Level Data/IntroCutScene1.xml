@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ScreenData">
+    <BackgroundTextureAsset>Sprites/Space/Edge Of The System</BackgroundTextureAsset>
+    <Music>
+      <Item>Blue Space</Item>
+    </Music>
+  </Asset>
+</XnaContent>

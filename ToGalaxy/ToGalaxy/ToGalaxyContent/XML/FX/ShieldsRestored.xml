@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.AnimatedGameObjectData">
+    <Name>Shield</Name>
+    <TextureAsset>Sprites/FX/ShieldsRestored</TextureAsset>
+    <TimePerFrame>0.05</TimePerFrame>
+    <SpriteSheetFrameDimensions>5 4</SpriteSheetFrameDimensions>
+    <DefaultFrame>0</DefaultFrame>
+  </Asset>
+</XnaContent>

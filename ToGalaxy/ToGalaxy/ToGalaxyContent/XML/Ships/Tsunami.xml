@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Tsunami</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Tsunami</TextureAsset>
+    <WeaponHardPoints>
+      0 -3
+      0 10
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      0 23
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>15</Armour>
+    <Hull>10</Hull>
+    <Mass>700</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>3</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A small ship reknowned for it's versatility and speed, but unable to take much punishment.</Description>
+    <Cost>2000</Cost>
+  </Asset>
+</XnaContent>

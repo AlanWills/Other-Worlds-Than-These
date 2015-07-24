@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Gatling Laser Turret</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/gatlinglaser_hardpoint00</TextureAsset>
+    <Type>Bullet</Type>
+    <FireTimer>0.1</FireTimer>
+    <Range>1200</Range>
+    <BulletDamage>1</BulletDamage>
+    <BulletVelocity>0 10</BulletVelocity>
+    <BulletLifeTime>1</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Bullets/LaserBullet</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/guardian_pd_fire_01</TurretSoundEffectAsset>
+    <Description>A fast firing laser turret with a decent range.  Effective against small, fast ships with weak defence, but lacks the damage to deal with more armoured ships.</Description>
+    <Cost>300</Cost>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.MissileData">
+    <Name>Barrakuda Missile</Name>
+    <TextureAsset>Sprites/Weapons/Missiles/barrakudamk2_rocket</TextureAsset>
+    <MissileEngineAsset>RocketEngine</MissileEngineAsset>
+    <MissileEngineHardpoint>0 20</MissileEngineHardpoint>
+  </Asset>
+</XnaContent>

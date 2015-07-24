@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{B82CC462-04D5-44CA-96E9-F9933480610E}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToGalaxyGameLibrary</RootNamespace>
+    <AssemblyName>ToGalaxyGameLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>4dc46ac6-ac8d-4d79-a298-21ccae2d8813</XnaCrossPlatformGroupID>
+    <XnaOutputType>Library</XnaOutputType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\MySong.cs" />
+    <Compile Include="Audio\MySoundEffect.cs" />
+    <Compile Include="Game Objects\AnimatedGameObject.cs" />
+    <Compile Include="Game Objects\GameObject.cs" />
+    <Compile Include="Maths\2DGeometry.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screens and ScreenManager\Camera2D.cs" />
+    <Compile Include="Screens and ScreenManager\Screens\CutSceneScreen.cs" />
+    <Compile Include="Screens and ScreenManager\InGameMouse.cs" />
+    <Compile Include="Screens and ScreenManager\Managers\MusicManager.cs" />
+    <Compile Include="Screens and ScreenManager\Managers\OptionsManager.cs" />
+    <Compile Include="Screens and ScreenManager\Screens\OptionsScreen.cs" />
+    <Compile Include="Screens and ScreenManager\Screens\Screen.cs" />
+    <Compile Include="Screens and ScreenManager\Managers\ScreenManager.cs" />
+    <Compile Include="Screens and ScreenManager\Managers\SoundEffectManager.cs" />
+    <Compile Include="Screens and ScreenManager\Screens\TextCutSceneScreen.cs" />
+    <Compile Include="UI\Bar.cs" />
+    <Compile Include="UI\Button.cs" />
+    <Compile Include="UI\CommandMarker.cs" />
+    <Compile Include="UI\ConfirmationDialogBox.cs" />
+    <Compile Include="UI\DialogBox.cs" />
+    <Compile Include="UI\Image.cs" />
+    <Compile Include="UI\MouseOverUI.cs" />
+    <Compile Include="UI\Panel.cs" />
+    <Compile Include="UI\RefreshUI.cs" />
+    <Compile Include="UI\Slider.cs" />
+    <Compile Include="UI\Text.cs" />
+    <Compile Include="UI\UIElement.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ToGalaxyCustomData\ToGalaxyCustomData.csproj">
+      <Project>{27212171-9b3d-4c92-a098-3a58a69c2067}</Project>
+      <Name>ToGalaxyCustomData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

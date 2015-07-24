@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Multi Repeater Turret</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/6pdr-gun-hard</TextureAsset>
+    <Type>Bullet</Type>
+    <FireTimer>0.2</FireTimer>
+    <Range>300</Range>
+    <BulletDamage>2</BulletDamage>
+    <BulletVelocity>0 10</BulletVelocity>
+    <BulletLifeTime>2</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Bullets/MultiRepeaterBullet</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/autocannon_fire_01</TurretSoundEffectAsset>
+    <Description>A very short range repeater turret that is completely specialised for taking down fast, lightly armoured ships only.</Description>
+    <Cost>310</Cost>
+  </Asset>
+</XnaContent>

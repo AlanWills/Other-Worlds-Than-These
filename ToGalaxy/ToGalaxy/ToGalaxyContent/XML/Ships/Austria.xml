@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Austria</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Austria</TextureAsset>
+    <WeaponHardPoints>
+      -30 30
+      30 30
+      0 90
+      -25 -20
+      -7 -70
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -17 135
+      17 135
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>80</Armour>
+    <Hull>60</Hull>
+    <Mass>2500</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>2</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A corvette class ship which, thanks to it's strong defences, is superb for dealing with fighters.</Description>
+    <Cost>4200</Cost>
+  </Asset>
+</XnaContent>

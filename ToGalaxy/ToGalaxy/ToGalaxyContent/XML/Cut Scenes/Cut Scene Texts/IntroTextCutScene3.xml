@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[string]">
+    <Item>Morta Nebula</Item>
+    <Item>13 light years from home</Item>
+    <Item>Without any warning the 8th fleet is wrenched from hyperspace and quickly enveloped by the clouds of the nebula</Item>
+    <Item>The sensors indicate that numerous craft of all shapes and sizes are bearing down on their position</Item>
+    <Item>In the lead frigate, UIN Spectre, the captain barks orders to the other ships</Item>
+    <Item>A defensive line is hurriedly formed and desperate prayers are whispered</Item>
+  </Asset>
+</XnaContent>

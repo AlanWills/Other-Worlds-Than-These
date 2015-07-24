@@ -1,0 +1,343 @@
+Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb
+Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb
+Content\Sprites\Space\Deep Space.xnb
+Content\Sprites\UI\Mouse\cursor_blue.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb
+Content\Sprites\UI\Mouse\cursor_green.xnb
+Content\Sprites\UI\Mouse\cursor_red.xnb
+Content\Sprites\UI\Command Markers\MoveMarker.xnb
+Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb
+Content\Sprites\UI\Icons\SelectionIcon.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb
+Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb
+Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb
+Content\Sprites\UI\Command Markers\AttackMarker.xnb
+Content\Sprites\FX\Explosion.xnb
+Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb
+Content\Sprites\UI\Bars\ArmourBar.xnb
+Content\Sprites\UI\Bars\ShieldBar.xnb
+Content\Sprites\UI\Bars\HullBar.xnb
+Content\Sprites\UI\Titles\MainMenuTitle.xnb
+Content\Sprites\UI\Buttons\blue_button_released.xnb
+Content\Sprites\UI\Buttons\blue_button_pressed.xnb
+Content\Sprites\Backgrounds\MainMenuBackground2.xnb
+Content\Sprites\Backgrounds\MainMenuBackground3.xnb
+Content\Sprites\Backgrounds\MainMenuBackground.xnb
+Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb
+Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb
+Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb
+Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb
+Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb
+Content\Sprites\UI\Buttons\RectangularButton.xnb
+Content\Sprites\UI\Panels\Panel.xnb
+Content\Sprites\UI\Panels\MenuPanelBackground.xnb
+Content\Sprites\Backgrounds\LoadingScreenBackground.xnb
+Content\Sprites\UI\Titles\LoadingScreenTitle.xnb
+Content\Sprites\Shields\StandardShield.xnb
+Content\Sprites\Shields\spr_shield.xnb
+Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb
+Content\Sprites\UI\Sliders\VolumeSlider.xnb
+Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb
+Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb
+Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb
+Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb
+Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb
+Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb
+Content\Sprites\Ship Mods\accelerated_shields.xnb
+Content\Sprites\Ship Mods\advanced_optics.xnb
+Content\Sprites\Ship Mods\advanced_turret_gyros.xnb
+Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb
+Content\Sprites\Ship Mods\augmented_engines.xnb
+Content\Sprites\Ship Mods\automated_repair_unit.xnb
+Content\Sprites\Ship Mods\blast_doors.xnb
+Content\Sprites\Ship Mods\eccm_package.xnb
+Content\Sprites\Ship Mods\ecm_package.xnb
+Content\Sprites\Ship Mods\expanded_magazines.xnb
+Content\Sprites\Ship Mods\expanded_missile_racks.xnb
+Content\Sprites\Ship Mods\extended_shields.xnb
+Content\Sprites\Ship Mods\flux_coil_adjunct.xnb
+Content\Sprites\Ship Mods\flux_distributor.xnb
+Content\Sprites\Ship Mods\flux_shunt.xnb
+Content\Sprites\Ship Mods\front_shield_emitter.xnb
+Content\Sprites\Ship Mods\front_shield_generator.xnb
+Content\Sprites\Ship Mods\generic_mod.xnb
+Content\Sprites\Ship Mods\hardened_shields.xnb
+Content\Sprites\Ship Mods\heavy_armor.xnb
+Content\Sprites\Ship Mods\insulated_engine_assembly.xnb
+Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb
+Content\Sprites\Ship Mods\integrated_targeting_unit.xnb
+Content\Sprites\Ship Mods\monofilament_cable.xnb
+Content\Sprites\Ship Mods\omni_shield_emitter.xnb
+Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb
+Content\Sprites\Ship Mods\reinforced_bulkheads.xnb
+Content\Sprites\Ship Mods\repair_gantry.xnb
+Content\Sprites\Ship Mods\resistant_flux_conduits.xnb
+Content\Sprites\Ship Mods\stabilized_shields.xnb
+Content\Sprites\Ship Mods\targeting_core.xnb
+Content\Sprites\Ship Mods\unstable_injector.xnb
+Content\Sprites\Player Skills\advanced_tactics.xnb
+Content\Sprites\Player Skills\applied_physics.xnb
+Content\Sprites\Player Skills\combat.xnb
+Content\Sprites\Player Skills\command_experience.xnb
+Content\Sprites\Player Skills\computer_systems.xnb
+Content\Sprites\Player Skills\construction.xnb
+Content\Sprites\Player Skills\coordinated_maneuvers.xnb
+Content\Sprites\Player Skills\damage_control.xnb
+Content\Sprites\Player Skills\evasive_maneuvering.xnb
+Content\Sprites\Player Skills\field_repairs.xnb
+Content\Sprites\Player Skills\fleet_logistics.xnb
+Content\Sprites\Player Skills\flux_dynamics.xnb
+Content\Sprites\Player Skills\gunnery_implants.xnb
+Content\Sprites\Player Skills\helmsmanship.xnb
+Content\Sprites\Player Skills\leadership.xnb
+Content\Sprites\Player Skills\mechanical_engineering.xnb
+Content\Sprites\Player Skills\missile_specialization.xnb
+Content\Sprites\Player Skills\navigation.xnb
+Content\Sprites\Player Skills\ordnance_expert.xnb
+Content\Sprites\Player Skills\power_grid_manipulation.xnb
+Content\Sprites\Player Skills\target_analysis.xnb
+Content\Sprites\Player Skills\technology.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb
+Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb
+Content\Sprites\Backgrounds\BlackBackground.xnb
+Content\Sprites\Space\Nebula.xnb
+Content\Sprites\Space\Ion Storm.xnb
+Content\Sprites\Space\Edge Of The System.xnb
+Content\Sprites\Space\Dust Cloud.xnb
+Content\Sprites\Space\Scattered Stars.xnb
+Content\Sprites\Space\Nebula2.xnb
+Content\Sprites\Space\Hyperspace.xnb
+Content\Sprites\Sensors\sensor_array_dish.xnb
+Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb
+Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb
+Content\Sprites\Weapons\Missiles\devilfish.xnb
+Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb
+Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb
+Content\Sprites\FX\ShieldsRestored.xnb
+Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb
+Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb
+Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb
+Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb
+Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb
+Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb
+Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb
+Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb
+Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb
+Content\Sprites\UI\Thumbnails\HullThumbnail.xnb
+Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb
+Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb
+Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb
+Content\Sprites\UI\Panels\Radar.xnb
+Content\Sprites\UI\Thumbnails\MassThumbnail.xnb
+Content\Sprites\FX\EngineTrail.xnb
+Content\Sprites\FX\SmokeEffect.xnb
+Content\Sprites\Engines\ImpulseEngine.xnb
+Content\Sprites\Engines\JetEngine.xnb
+Content\Sprites\Engines\ThrusterEngine.xnb
+Content\Sprites\Space\Earth From Space.xnb
+Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb
+Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb
+Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb
+Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb
+Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb
+Content\Sprites\Weapons\Bullets\blaster.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb
+Content\Sprites\Ship Sprites\UIN Ships\f135.xnb
+Content\Sprites\Ship Sprites\UIN Ships\f171.xnb
+Content\Sprites\Ship Sprites\UIN Ships\f61.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb
+Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb
+Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb
+Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb
+Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb
+Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb
+Content\Sprites\Weapons\Turrets\6pdr-gun.xnb
+Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb
+Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb
+Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb
+Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb
+Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb
+Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb
+Content\Sprites\Space\BlueGalaxy.xnb
+Content\Sprites\Space\StarrySpace.xnb
+Content\Sprites\Space Objects\Space Stations\spacestation.xnb
+Content\Sprites\Space Objects\Space Stations\SS1.xnb
+Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb
+Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb
+Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb
+Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb
+Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb
+Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
+Content\Sprites\Space\PlanetAndSpace.xnb
+Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb
+Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.xnb
+Content\XML\Ship Interior Maps\DragonflyInterior.xnb
+Content\XML\Space Data\Level1Data.xnb
+Content\XML\Crew\HumanCrewMember.xnb
+Content\XML\Weapons\50mmAutoCannon.xnb
+Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb
+Content\XML\Menu Screens\MainMenuScreen.xnb
+Content\XML\UI\Buttons\MenuButton.xnb
+Content\XML\Menu Screens\LoadingScreen.xnb
+Content\XML\Menu Screens\OptionsScreen.xnb
+Content\XML\Shields\LightEnergyShield.xnb
+Content\XML\Settings\DefaultOptions.xnb
+Content\XML\UI\Sensors\SensorsUI.xnb
+Content\XML\Engines\LightThruster.xnb
+Content\XML\Sensors\ShortRangeSensor.xnb
+Content\XML\Menu Screens\LevelSelectScreen.xnb
+Content\XML\Space Data\Level2Data.xnb
+Content\XML\Engines\SmallImpulseEngine.xnb
+Content\XML\Engines\HeavyThruster.xnb
+Content\XML\Sensors\LongRangeSensor.xnb
+Content\XML\Shields\LowFrequencyDeflectorShield.xnb
+Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb
+Content\XML\Engines\JetThruster.xnb
+Content\XML\Weapons\BarrakudaMissileBattery.xnb
+Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb
+Content\XML\Menu Screens\ShipUpgradeScreen.xnb
+Content\XML\FX\ShieldsRestored.xnb
+Content\XML\FX\EngineTrail.xnb
+Content\XML\FX\Smoke.xnb
+Content\XML\FX\Explosion.xnb
+Content\XML\Engines\RocketEngine.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb
+Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb
+Content\XML\Weapons\PhaseBeamTurret.xnb
+Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb
+Content\XML\Weapons\GatlingLaserTurret.xnb
+Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb
+Content\XML\Shields\HighDensityPhaseShield.xnb
+Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb
+Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb
+Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb
+Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb
+Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb
+Content\XML\Ships\Barracuda.xnb
+Content\XML\Ships\Dragonfly.xnb
+Content\XML\Ships\Gnat.xnb
+Content\XML\Ships\Harpoon.xnb
+Content\XML\Ships\Hurricane.xnb
+Content\XML\Ships\Tornado.xnb
+Content\XML\Ships\Tsunami.xnb
+Content\XML\Ships\Austria.xnb
+Content\XML\Ships\Eagle.xnb
+Content\XML\Ships\Hawk.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb
+Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb
+Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb
+Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb
+Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb
+Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb
+Content\XML\Shields\FiniteChargeDeflector.xnb
+Content\XML\Weapons\SixPointDualRepeaterTurret.xnb
+Content\XML\Weapons\MultiRepeaterTurret.xnb
+Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb
+Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb
+Content\XML\Weapons\IonBeamTurret.xnb
+Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb
+Content\XML\Space Data\Level3Data.xnb
+Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb
+Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
+Content\XML\Weapons\WhaleSharkMissileBattery.xnb
+Content\XML\Weapons\TigerSharkMissileBattery.xnb
+Content\XML\Gameplay Screens\SensorsScreen.xnb
+Content\Sounds\Weapons\autocannon_fire_01.xnb
+Content\Sounds\UI\ButtonPressedSound.xnb
+Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb
+Content\Sounds\UI\ButtonPressedSound2.xnb
+Content\Sounds\UI\ButtonHover.xnb
+Content\Sounds\Weapons\laser_loop.xnb
+Content\Sounds\Weapons\guardian_pd_fire_01.xnb
+Content\Sounds\Weapons\sabot_srm_fire_01.xnb
+Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb
+Content\Music\Ambient Music\Please, answer me my friend.xnb
+Content\Music\Ambient Music\Please, answer me my friend.wma
+Content\Music\Menu Music\Other worlds than these.xnb
+Content\Music\Menu Music\Other worlds than these.wma
+Content\Music\Ambient Music\I didn't do it.xnb
+Content\Music\Ambient Music\I didn't do it.wma
+Content\Music\Menu Music\Air.xnb
+Content\Music\Menu Music\Air.wma
+Content\Music\Menu Music\Dream about space.xnb
+Content\Music\Menu Music\Dream about space.wma
+Content\Music\Ambient Music\Sweet Ice.xnb
+Content\Music\Ambient Music\Sweet Ice.wma
+Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb
+Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma
+Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb
+Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma
+Content\Music\Ambient Music\Forgotten Victory.xnb
+Content\Music\Ambient Music\Forgotten Victory.wma
+Content\Music\Battle Music\Xeon5.xnb
+Content\Music\Battle Music\Xeon5.wma
+Content\Music\Battle Music\Xeon6.xnb
+Content\Music\Battle Music\Xeon6.wma
+Content\Music\Battle Music\n-Dimensions.xnb
+Content\Music\Battle Music\n-Dimensions.wma
+Content\Music\Battle Music\Orbital Colossus.xnb
+Content\Music\Battle Music\Orbital Colossus.wma
+Content\Music\Battle Music\Thrust Sequence.xnb
+Content\Music\Battle Music\Thrust Sequence.wma
+Content\Music\Menu Music\Spacelife.xnb
+Content\Music\Menu Music\Spacelife.wma
+Content\Music\Ambient Music\Space.xnb
+Content\Music\Ambient Music\Space.wma
+Content\Music\Battle Music\Second stand.xnb
+Content\Music\Battle Music\Second stand.wma
+Content\Music\Battle Music\Themka.xnb
+Content\Music\Battle Music\Themka.wma
+Content\Music\Menu Music\Space and Sorrow.xnb
+Content\Music\Menu Music\Space and Sorrow.wma
+Content\Music\Menu Music\Frozen Jam.xnb
+Content\Music\Menu Music\Frozen Jam.wma
+Content\Music\Battle Music\Dance Music.xnb
+Content\Music\Battle Music\Dance Music.wma
+Content\Music\Ambient Music\Blue Space.xnb
+Content\Music\Ambient Music\Blue Space.wma
+Content\Fonts\TextFont.xnb
+Content\Fonts\SmallGameUIFont.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb
+Content\XML\Ship Mods\AuxiliaryThrusters.xnb
+Content\Sprites\Ship Mods\auxiliary_thrusters.xnb

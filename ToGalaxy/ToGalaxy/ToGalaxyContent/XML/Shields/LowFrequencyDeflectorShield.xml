@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShieldData">
+    <Name>Low Frequency Deflector Shield</Name>
+    <TextureAsset>Sprites/Shields/StandardShield</TextureAsset>
+    <Strength>70</Strength>
+    <RechargePerSecond>1</RechargePerSecond>
+    <RechargeDelay>5</RechargeDelay>
+    <DepletionDelay>25</DepletionDelay>
+    <Colour>1 1 0 0</Colour>
+    <Description>A basic deflector shield with reasonable strength, but slow recharge.  Suitable for a smaller ship.</Description>
+    <Cost>450</Cost>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>50mm Auto Cannon</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/50mm_autocannon_turret_base</TextureAsset>
+    <Type>Bullet</Type>
+    <FireTimer>3</FireTimer>
+    <Range>400</Range>
+    <BulletDamage>5</BulletDamage>
+    <BulletVelocity>0 10</BulletVelocity>
+    <BulletLifeTime>3</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Bullets/50mmAutoCannonBullet</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/autocannon_fire_01</TurretSoundEffectAsset>
+    <Description>A basic ship's cannon which has reasonable accuracy and damage.  Great anti-frigate weapon, but inaccurate against faster ships.</Description>
+    <Cost>150</Cost>
+  </Asset>
+</XnaContent>

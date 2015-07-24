@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Tyrant</Name>
+    <TextureAsset>Sprites/Ship Sprites/Pirate Ships/Tyrant</TextureAsset>
+    <WeaponHardPoints>
+      0 -170
+      -50 -135
+      -65 -67
+      70 -10
+      25 50
+      50 80
+      -60 90
+      67 100
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -12 235
+      12 235
+      -36 208
+      36 208
+      -67 176
+      57 184
+      67 176
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>GatlingLaserTurret</Item>
+      <Item>BarrakudaMissileBattery</Item>
+      <Item>50mmAutoCannon</Item>
+      <Item>50mmAutoCannon</Item>
+      <Item>50mmAutoCannon</Item>
+      <Item>GatlingLaserTurret</Item>
+      <Item>PhaseBeamTurret</Item>
+      <Item>PhaseBeamTurret</Item>
+    </TurretNames>
+    <ShieldAsset>HighDensityPhaseShield</ShieldAsset>
+    <Armour>300</Armour>
+    <Hull>300</Hull>
+    <Mass>25000</Mass>
+    <EngineNames>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>LightThruster</Item>
+      <Item>LightThruster</Item>
+    </EngineNames>
+    <ShipModSlots>0</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName>ShortRangeSensor</SensorName>
+    <Description>Dreadnought class ship with extremely strong defences.  Information reports that this ship is used only by the most dangerous pirates.</Description>
+    <Cost>30000</Cost>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Eagle</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Eagle</TextureAsset>
+    <WeaponHardPoints>
+      -46 5
+      46 5
+      0 15
+      -35 70
+      35 70
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -13 245
+      13 245
+      -36 210
+      36 210
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>100</Armour>
+    <Hull>120</Hull>
+    <Mass>5500</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>1</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A frigate class ship that relies on it's brawn and speed to dominate fights.  Little customisation potential, but fantastic for pilots who enjoy fighting.</Description>
+    <Cost>5950</Cost>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.GameObjectData">
+    <Name>Six point Dual Repeater Bullet</Name>
+    <TextureAsset>Sprites/Weapons/Bullets/6pdr-gun-recoil</TextureAsset>
+  </Asset>
+</XnaContent>

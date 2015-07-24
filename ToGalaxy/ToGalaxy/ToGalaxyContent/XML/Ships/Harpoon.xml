@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Harpoon</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Harpoon</TextureAsset>
+    <WeaponHardPoints>
+      10 10
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -2 20
+      2 20
+      -7 17
+      8 19
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>20</Armour>
+    <Hull>10</Hull>
+    <Mass>750</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>1</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A cheap, but very nimble fighter class-ship, usually used as a scout.  Ideal for pilots who prefer to outfly rather than outfight their opponents.</Description>
+    <Cost>1000</Cost>
+  </Asset>
+</XnaContent>

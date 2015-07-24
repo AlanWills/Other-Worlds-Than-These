@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.SensorData">
+    <Name>Long Range Sensor</Name>
+    <TextureAsset>Sprites/Sensors/sensor_array_dish</TextureAsset>
+    <Range>3000</Range>
+    <Description>A sensor which uses fluctuating quantum waves to achieve a much longer range than most others.  Unfortunately, this process is not cheap.</Description>
+    <Cost>1500</Cost>
+  </Asset>
+</XnaContent>

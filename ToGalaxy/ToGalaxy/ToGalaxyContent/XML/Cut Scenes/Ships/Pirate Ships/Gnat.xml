@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Gnat</Name>
+    <TextureAsset>Sprites/Ship Sprites/Pirate Ships/Gnat</TextureAsset>
+    <WeaponHardPoints>
+      -5 5
+      5 5
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -5 15
+      5 15
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>50mmAutoCannon</Item>
+      <Item>50mmAutoCannon</Item>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>12</Armour>
+    <Hull>12</Hull>
+    <Mass>850</Mass>
+    <EngineNames>
+      <Item>LightThruster</Item>
+      <Item>LightThruster</Item>
+    </EngineNames>
+    <ShipModSlots>2</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName>ShortRangeSensor</SensorName>
+    <Description>A very basic fighter class ship.  Favoured by pirates and criminals for it's high speed and low cost.</Description>
+    <Cost>1100</Cost>
+  </Asset>
+</XnaContent>

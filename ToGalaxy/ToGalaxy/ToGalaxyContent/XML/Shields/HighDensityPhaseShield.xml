@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShieldData">
+    <Name>High Density Phase Shield</Name>
+    <TextureAsset>Sprites/Shields/StandardShield</TextureAsset>
+    <Strength>150</Strength>
+    <RechargePerSecond>1</RechargePerSecond>
+    <RechargeDelay>10</RechargeDelay>
+    <DepletionDelay>35</DepletionDelay>
+    <Colour>0 0 1 0</Colour>
+    <Description>A high strength shield used on larger ships that are more likely to take concentrated blasts of heavy punishment.</Description>
+    <Cost>600</Cost>
+  </Asset>
+</XnaContent>

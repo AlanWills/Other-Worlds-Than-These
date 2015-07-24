@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Barrakuda Missile Battery</Name>
+    <TextureAsset>Sprites/Weapons/Missiles/barrakudamk2_rocket</TextureAsset>
+    <Type>Missile</Type>
+    <FireTimer>5</FireTimer>
+    <Range>800</Range>
+    <BulletDamage>10</BulletDamage>
+    <BulletVelocity>0 5</BulletVelocity>
+    <BulletLifeTime>2.5</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Missiles/BarrakudaMissile</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/sabot_srm_fire_01</TurretSoundEffectAsset>
+    <Description>A slow repeating missile battery which can cause incredible damage against un-shielded ships.</Description>
+    <Cost>550</Cost>
+  </Asset>
+</XnaContent>

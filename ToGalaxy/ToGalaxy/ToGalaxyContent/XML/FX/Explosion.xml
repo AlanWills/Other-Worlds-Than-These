@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.AnimatedGameObjectData">
+    <Name>Explosion</Name>
+    <TextureAsset>Sprites/FX/Explosion</TextureAsset>
+    <TimePerFrame>0.05</TimePerFrame>
+    <SpriteSheetFrameDimensions>4 4</SpriteSheetFrameDimensions>
+    <DefaultFrame>0</DefaultFrame>
+  </Asset>
+</XnaContent>

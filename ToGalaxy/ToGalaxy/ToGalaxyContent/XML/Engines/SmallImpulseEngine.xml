@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.EngineData">
+    <Name>Small Impulse Engine</Name>
+    <TextureAsset>Sprites/Engines/ImpulseEngine</TextureAsset>
+    <EngineSpeed>5</EngineSpeed>
+    <EngineRotateSpeed>0.02</EngineRotateSpeed>
+    <EngineSoundAsset>Sounds/Engines/engine_02_midtek_00_fighter</EngineSoundAsset>
+    <Description>A small, but effective engine suitable for a small fighter class ship.</Description>
+    <Cost>200</Cost>
+  </Asset>
+</XnaContent>

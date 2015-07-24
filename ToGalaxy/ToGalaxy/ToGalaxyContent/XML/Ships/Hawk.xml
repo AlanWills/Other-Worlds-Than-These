@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Hawk</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Hawk</TextureAsset>
+    <WeaponHardPoints>
+      0 25
+      -37 68
+      37 68
+      -35 -65
+      35 -65
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -13 245
+      13 245
+      -36 210
+      36 210
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>90</Armour>
+    <Hull>30</Hull>
+    <Mass>3500</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>3</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A ship originally based on the 'Eagle' frigate.  Reductions in armour and hull defences have led to improved manouevering and more space for modifications.</Description>
+    <Cost>5950</Cost>
+  </Asset>
+</XnaContent>

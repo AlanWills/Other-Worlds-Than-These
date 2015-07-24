@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ScreenData">
+    <BackgroundTextureAsset>Sprites/Space/Scattered Stars</BackgroundTextureAsset>
+    <Music>
+      <Item>Other worlds than these</Item>
+    </Music>
+  </Asset>
+</XnaContent>

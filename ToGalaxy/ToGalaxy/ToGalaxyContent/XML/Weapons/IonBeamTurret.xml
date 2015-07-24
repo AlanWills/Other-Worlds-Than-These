@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Ion Beam Turret</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/ion_beam_turret</TextureAsset>
+    <Type>Beam</Type>
+    <FireTimer>7</FireTimer>
+    <Range>1200</Range>
+    <BulletDamage>2</BulletDamage>
+    <BulletVelocity>0 0</BulletVelocity>
+    <BulletLifeTime>0</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Beams/IonBeam</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/laser_loop</TurretSoundEffectAsset>
+    <Description>A powerful beam weapon that deals huge damage over a short time.</Description>
+    <Cost>1200</Cost>
+  </Asset>
+</XnaContent>

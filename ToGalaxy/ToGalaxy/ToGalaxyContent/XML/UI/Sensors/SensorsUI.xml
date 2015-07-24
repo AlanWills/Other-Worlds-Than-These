@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.SensorsUIData">
+    <TextureAsset>Sprites/UI/Panels/Radar</TextureAsset>
+    <PlayerMarkerAsset>Sprites/UI/Command Markers/PlayerSensorMarker</PlayerMarkerAsset>
+    <EnemyMarkerAsset>Sprites/UI/Command Markers/EnemySensorMarker</EnemyMarkerAsset>
+  </Asset>
+</XnaContent>

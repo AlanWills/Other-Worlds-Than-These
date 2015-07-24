@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.GameObjectData">
+    <Name>Cannon Bullet</Name>
+    <TextureAsset>Sprites/Weapons/Bullets/50mm_autocannon_turret_recoil</TextureAsset>
+  </Asset>
+</XnaContent>

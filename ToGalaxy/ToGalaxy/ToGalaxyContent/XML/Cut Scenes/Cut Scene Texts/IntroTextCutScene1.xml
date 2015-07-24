@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[string]">
+    <Item>Athea System</Item>
+    <Item>16 light years from home</Item>
+    <Item>United Intergalactic Navy frigate Inheritance is patrolling the edges of pirate space</Item>
+    <Item>Numerous pirate incursions have stretched the Navy's forces thin in this sector</Item>
+  </Asset>
+</XnaContent>

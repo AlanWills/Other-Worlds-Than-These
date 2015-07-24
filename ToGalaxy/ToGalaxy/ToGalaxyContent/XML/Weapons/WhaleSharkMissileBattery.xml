@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Whale Shark Missile Battery</Name>
+    <TextureAsset>Sprites/Weapons/Missiles/mirv_whaleshark</TextureAsset>
+    <Type>Missile</Type>
+    <FireTimer>10</FireTimer>
+    <Range>600</Range>
+    <BulletDamage>38</BulletDamage>
+    <BulletVelocity>0 2</BulletVelocity>
+    <BulletLifeTime>2</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Missiles/WhaleSharkMissile</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/sabot_srm_fire_01</TurretSoundEffectAsset>
+    <Description>An extremely powerful missile battery that can inflict huge amounts of damage.</Description>
+    <Cost>1050</Cost>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Hulk</Name>
+    <TextureAsset>Sprites/Ship Sprites/Pirate Ships/Hulk</TextureAsset>
+    <WeaponHardPoints>
+      14 4
+      -70 3
+      97 20
+      35 65
+      -30 170
+      45 160
+      15 -65
+      -70 -125
+      25 -140
+      80 -135
+      -30 -194
+      33 -200
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -25 251
+      25 235
+      -50 243
+      50 240
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>PhaseBeamTurret</Item>
+      <Item>50mmAutoCannon</Item>
+      <Item>BarrakudaMissileBattery</Item>
+      <Item>BarrakudaMissileBattery</Item>
+      <Item>PhaseBeamTurret</Item>
+      <Item>50mmAutoCannon</Item>
+      <Item>BarrakudaMissileBattery</Item>
+      <Item>GatlingLaserTurret</Item>
+      <Item>GatlingLaserTurret</Item>
+      <Item>GatlingLaserTurret</Item>
+      <Item>GatlingLaserTurret</Item>
+      <Item>BarrakudaMissileBattery</Item>
+    </TurretNames>
+    <ShieldAsset>HighDensityPhaseShield</ShieldAsset>
+    <Armour>450</Armour>
+    <Hull>450</Hull>
+    <Mass>35000</Mass>
+    <EngineNames>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+      <Item>HeavyThruster</Item>
+    </EngineNames>
+    <ShipModSlots>1</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName>ShortRangeSensor</SensorName>
+    <Description>A ship only rumoured to exist.  No information is know except to avoid at all costs.</Description>
+    <Cost>50000</Cost>
+  </Asset>
+</XnaContent>

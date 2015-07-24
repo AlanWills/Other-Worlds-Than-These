@@ -1,0 +1,71 @@
+Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb
+Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb
+Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb
+Content\Sprites\Space\Deep Space\Deep Space.xnb
+Content\Sprites\UI\Mouse\cursor_blue.xnb
+Content\Sprites\Ship Sprites\Dragonfly.xnb
+Content\Sprites\UI\Engine Trails\contrail64b.xnb
+Content\Sprites\UI\Engine Trails\engineflame32.xnb
+Content\Sprites\UI\Mouse\cursor_green.xnb
+Content\Sprites\UI\Mouse\cursor_red.xnb
+Content\Sprites\UI\Command Markers\MoveMarker.xnb
+Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb
+Content\Sprites\UI\Icons\icon_selected.xnb
+Content\Sprites\Ship Sprites\Gnat.xnb
+Content\Sprites\Weapons\50mm Auto Cannon\50mm_autocannon_turret_base.xnb
+Content\Sprites\Weapons\50mm Auto Cannon\50mm_autocannon_turret_recoil.xnb
+Content\Sprites\UI\Command Markers\AttackMarker.xnb
+Content\Sprites\FX\Explosion.xnb
+Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb
+Content\Sprites\UI\Bars\ArmourBar.xnb
+Content\Sprites\UI\Bars\ShieldBar.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior.xnb
+Content\XML\Ship Interior Maps\DragonflyInterior.xnb
+Content\XML\SpaceData\DeepSpaceData.xnb
+Content\XML\Ships\Dragonfly.xnb
+Content\XML\UI\Command Markers\MoveMarker.xnb
+Content\XML\UI\Engine Trails\EngineTrail.xnb
+Content\XML\UI\Engine Trails\EngineBlaze.xnb
+Content\XML\UI\Icons\SelectionIcon.xnb
+Content\XML\Crew\HumanCrewMember.xnb
+Content\XML\Weapons\50mmAutoCannon.xnb
+Content\XML\Ships\Gnat.xnb
+Content\XML\Weapons\CannonBullet.xnb
+Content\XML\UI\Command Markers\AttackMarker.xnb
+Content\XML\FX\Explosion.xnb
+Content\XML\UI\Command Markers\ShipLocationMarker.xnb
+Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb
+Content\Sounds\Weapons\autocannon_fire_01.xnb
+Content\Music\Battle Music\Xeon5.xnb
+Content\Music\Battle Music\Xeon6.xnb
+Content\Music\Ambient Music\Forgotten Victory.xnb
+Content\Music\Ambient Music\Please, answer me my friend.xnb
+Content\Music\Menu Music\Other worlds than these.xnb
+Content\Music\Ambient Music\I didn't do it.xnb
+Content\Music\Menu Music\Air.xnb
+Content\Music\Menu Music\Dream about space.xnb
+Content\Music\Ambient Music\Sweet Ice.xnb
+Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb
+Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\00.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\01.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\02.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\03.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\04.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\05.xnb
+Content\Sprites\Ship Interior Maps\Tile Maps\DragonflyInterior\06.xnb
+Content\XML\UI\Bars\HullBar.xnb
+Content\Sprites\UI\Bars\HullBar.xnb
+Content\Music\Ambient Music\Please, answer me my friend.wma
+Content\Music\Menu Music\Other worlds than these.wma
+Content\Music\Ambient Music\I didn't do it.wma
+Content\Music\Menu Music\Air.wma
+Content\Music\Menu Music\Dream about space.wma
+Content\Music\Ambient Music\Sweet Ice.wma
+Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma
+Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma

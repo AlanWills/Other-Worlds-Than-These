@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Phase Beam Turret</Name>
+    <TextureAsset>Sprites/Weapons/Turrets/phase_beam_turret</TextureAsset>
+    <Type>Beam</Type>
+    <FireTimer>3</FireTimer>
+    <Range>1000</Range>
+    <BulletDamage>1</BulletDamage>
+    <BulletVelocity>0 0</BulletVelocity>
+    <BulletLifeTime>0</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Beams/PhaseBeam</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/laser_loop</TurretSoundEffectAsset>
+    <Description>A weak, but long range beam weapon that excels at melting through large, slow ships.</Description>
+    <Cost>1000</Cost>
+  </Asset>
+</XnaContent>

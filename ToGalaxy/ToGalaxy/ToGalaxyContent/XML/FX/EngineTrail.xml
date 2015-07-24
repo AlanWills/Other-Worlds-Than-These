@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.AnimatedGameObjectData">
+    <Name>Engine Trail</Name>
+    <TextureAsset>Sprites/FX/EngineTrail</TextureAsset>
+    <TimePerFrame>0.05</TimePerFrame>
+    <SpriteSheetFrameDimensions>8 1</SpriteSheetFrameDimensions>
+    <DefaultFrame>0</DefaultFrame>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGalaxy", "ToGalaxy\ToGalaxy\ToGalaxy.csproj", "{52FEE999-8298-445B-B417-D8DE22B7A572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGalaxyContent", "ToGalaxy\ToGalaxyContent\ToGalaxyContent.contentproj", "{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGalaxyGameLibrary", "ToGalaxyGameLibrary\ToGalaxyGameLibrary.csproj", "{B82CC462-04D5-44CA-96E9-F9933480610E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGalaxyCustomData", "ToGalaxyCustomData\ToGalaxyCustomData.csproj", "{27212171-9B3D-4C92-A098-3A58A69C2067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Debug|x86.ActiveCfg = Debug|x86
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Debug|x86.Build.0 = Debug|x86
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Release|Any CPU.ActiveCfg = Release|x86
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Release|x86.ActiveCfg = Release|x86
+		{52FEE999-8298-445B-B417-D8DE22B7A572}.Release|x86.Build.0 = Release|x86
+		{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}.Debug|x86.ActiveCfg = Debug|x86
+		{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}.Release|Any CPU.ActiveCfg = Release|x86
+		{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}.Release|x86.ActiveCfg = Release|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Debug|x86.ActiveCfg = Debug|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Debug|x86.Build.0 = Debug|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Release|Any CPU.ActiveCfg = Release|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Release|x86.ActiveCfg = Release|x86
+		{B82CC462-04D5-44CA-96E9-F9933480610E}.Release|x86.Build.0 = Release|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Debug|x86.ActiveCfg = Debug|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Debug|x86.Build.0 = Debug|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Release|Any CPU.ActiveCfg = Release|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Release|x86.ActiveCfg = Release|x86
+		{27212171-9B3D-4C92-A098-3A58A69C2067}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

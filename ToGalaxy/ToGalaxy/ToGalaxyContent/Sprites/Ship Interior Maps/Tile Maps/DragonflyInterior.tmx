@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="5" height="7" tilewidth="512" tileheight="512" nextobjectid="1">
+ <tileset firstgid="1" name="Engines" tilewidth="512" tileheight="512">
+  <image source="../Engines/Engine/EngineSpriteSheet.png" trans="ffffff" width="1536" height="1536"/>
+ </tileset>
+ <tileset firstgid="10" name="Z Pod Empties" tilewidth="512" tileheight="512">
+  <image source="../Z Pod Empties/ZPodEmptiesSpriteSheet.png" trans="ffffff" width="1024" height="1536"/>
+ </tileset>
+ <tileset firstgid="16" name="Habitation" tilewidth="512" tileheight="512">
+  <image source="../Structure/Hab/HabSpriteSheet.png" trans="ffffff" width="1024" height="1536"/>
+ </tileset>
+ <tileset firstgid="22" name="Structure" tilewidth="512" tileheight="512">
+  <image source="../Structure/Structure/StructureSpriteSheet.png" trans="ffffff" width="1024" height="1536"/>
+ </tileset>
+ <tileset firstgid="28" name="Weapons" tilewidth="512" tileheight="512">
+  <image source="../Weapons/WeaponsSpriteSheet.png" trans="ffffff" width="1536" height="2048"/>
+ </tileset>
+ <tileset firstgid="40" name="Pilot" tilewidth="512" tileheight="512">
+  <image source="../Pilot/PilotSpriteSheet.png" trans="ffffff" width="1536" height="1536"/>
+ </tileset>
+ <tileset firstgid="49" name="Space" tilewidth="512" tileheight="512">
+  <image source="../Space/SpaceTile.jpg" trans="ffffff" width="750" height="750"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="5" height="7">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMMSC5YBYD4gVkcS4gFgKSiOrlUTj8wGxAJSGiXGg0dgwAIgPBVg=
+  </data>
+ </layer>
+</map>

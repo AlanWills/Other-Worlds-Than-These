@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Barracuda</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Barracuda</TextureAsset>
+    <WeaponHardPoints>
+      -10 7
+      10 7
+      -30 32
+      30 32
+      0 -47
+      0 -81
+      0 45
+      0 81
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -27 140
+      27 140
+      -32 107
+      32 107
+    </EngineHardPoints>
+    <TurretNames>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>100</Armour>
+    <Hull>100</Hull>
+    <Mass>10000</Mass>
+    <EngineNames>
+    </EngineNames>
+    <ShipModSlots>2</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A tough and sleek frigate class ship.  Multiple weapon placements makes it a very versatile ship for dealing with large and small ships alike.</Description>
+    <Cost>8000</Cost>
+  </Asset>
+</XnaContent>

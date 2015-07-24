@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShieldData">
+    <Name>Alternating Frequency Deflector Shield</Name>
+    <TextureAsset>Sprites/Shields/StandardShield</TextureAsset>
+    <Strength>30</Strength>
+    <RechargePerSecond>8</RechargePerSecond>
+    <RechargeDelay>3</RechargeDelay>
+    <DepletionDelay>15</DepletionDelay>
+    <Colour>1 0 1 0</Colour>
+    <Description>A weak shield, but with very quick recharge.  Suitable for ships which rely on dodging most shots.</Description>
+    <Cost>900</Cost>
+  </Asset>
+</XnaContent>

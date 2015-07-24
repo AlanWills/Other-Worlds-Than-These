@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.EngineData">
+    <Name>Light Thruster</Name>
+    <TextureAsset>Sprites/Engines/ThrusterEngine</TextureAsset>
+    <EngineSpeed>3</EngineSpeed>
+    <EngineRotateSpeed>0.018</EngineRotateSpeed>
+    <EngineSoundAsset>Sounds/Engines/engine_02_midtek_00_fighter</EngineSoundAsset>
+    <Description>A cheap but low end engine only really suitable for the smallest of ships.</Description>
+    <Cost>180</Cost>
+  </Asset>
+</XnaContent>

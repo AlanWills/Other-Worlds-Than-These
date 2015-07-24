@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ButtonData">
+    <TextureAsset>Sprites/UI/Buttons/ColourButtonTrial1</TextureAsset>
+    <HighlightedTextureAsset></HighlightedTextureAsset>
+    <PressedTextureAsset></PressedTextureAsset>
+    <HighlightedSoundAsset>Sounds/UI/ButtonHover</HighlightedSoundAsset>
+    <PressedSoundAsset>Sounds/UI/ButtonPressedSound</PressedSoundAsset>
+  </Asset>
+</XnaContent>

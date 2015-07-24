@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ScreenData">
+    <BackgroundTextureAsset>Sprites/Space/Nebula2</BackgroundTextureAsset>
+    <Music>
+      <Item>Orbital Colossus</Item>
+      <Item>n-Dimensions</Item>
+    </Music>
+  </Asset>
+</XnaContent>

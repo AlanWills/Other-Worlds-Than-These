@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.AnimatedGameObjectData">
+    <Name>Smoke</Name>
+    <TextureAsset>Sprites/FX/SmokeEffect</TextureAsset>
+    <TimePerFrame>0.1</TimePerFrame>
+    <SpriteSheetFrameDimensions>4 4</SpriteSheetFrameDimensions>
+    <DefaultFrame>0</DefaultFrame>
+  </Asset>
+</XnaContent>

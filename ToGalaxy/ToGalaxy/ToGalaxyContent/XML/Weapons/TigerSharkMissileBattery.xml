@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.TurretData">
+    <Name>Tiger Shark Missile Battery</Name>
+    <TextureAsset>Sprites/Weapons/Missiles/cruise_tigershark</TextureAsset>
+    <Type>Missile</Type>
+    <FireTimer>7</FireTimer>
+    <Range>1000</Range>
+    <BulletDamage>15</BulletDamage>
+    <BulletVelocity>0 8</BulletVelocity>
+    <BulletLifeTime>5</BulletLifeTime>
+    <BulletAsset>XML/Bullets, Beams and Missiles/Missiles/TigerSharkMissile</BulletAsset>
+    <TurretSoundEffectAsset>Sounds/Weapons/sabot_srm_fire_01</TurretSoundEffectAsset>
+    <Description>A long range, but low damage missile that will find it's mark easier than most other missiles.</Description>
+    <Cost>900</Cost>
+  </Asset>
+</XnaContent>

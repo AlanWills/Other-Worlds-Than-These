@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Tornado</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Tornado</TextureAsset>
+    <WeaponHardPoints>
+      -10 3
+      10 3
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      0 28
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>50mmAutoCannon</Item>
+      <Item>PhaseBeamTurret</Item>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>40</Armour>
+    <Hull>35</Hull>
+    <Mass>1000</Mass>
+    <EngineNames>
+      <Item>HeavyThruster</Item>
+    </EngineNames>
+    <ShipModSlots>4</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A small and light fighter with only a small number of weapon and engine slots.  It makes up for this with the potential for extensive Ship Mod installation.</Description>
+    <Cost>2300</Cost>
+  </Asset>
+</XnaContent>

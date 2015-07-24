@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.EngineData">
+    <Name>Rocket Engine</Name>
+    <TextureAsset>Sprites/Engines/JetEngine</TextureAsset>
+    <EngineSpeed>0.8</EngineSpeed>
+    <EngineRotateSpeed>0.03</EngineRotateSpeed>
+    <EngineSoundAsset></EngineSoundAsset>
+    <Description>An engine that comes default equipped to all missile weapons.  Very low speed, which makes it usable on light projectiles only.</Description>
+    <Cost>100</Cost>
+  </Asset>
+</XnaContent>

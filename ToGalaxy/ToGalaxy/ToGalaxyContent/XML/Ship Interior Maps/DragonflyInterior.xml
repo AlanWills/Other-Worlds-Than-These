@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipInteriorScreenData">
+    <BackgroundTextureAsset></BackgroundTextureAsset>
+    <Music></Music>
+    <TileMapAsset>Sprites/Ship Interior Maps/Tile Maps/DragonflyInterior</TileMapAsset>
+  </Asset>
+</XnaContent>

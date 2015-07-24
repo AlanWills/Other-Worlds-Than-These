@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.BeamData">
+    <Name>Phase Beam</Name>
+    <TextureAsset>Sprites/Weapons/Beams/Phase Beam/beamcoreb</TextureAsset>
+    <BeamColour>1 0 0 1</BeamColour>
+    <FringeTextureAsset>Sprites/Weapons/Beams/Phase Beam/beamfringeb</FringeTextureAsset>
+    <FringeColour>1 0 0 1</FringeColour>
+    <BeamFireTime>5</BeamFireTime>
+  </Asset>
+</XnaContent>

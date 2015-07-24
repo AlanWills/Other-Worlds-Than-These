@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[string]">
+    <Item>J'hal System</Item>
+    <Item>12 light years from home</Item>
+    <Item>The Inheritance limps its way to the UIN repair station in the J'hal system</Item>
+    <Item>After debriefing with UIN command, the 8th fleet is ordered to return to the Athea system to investigate this latest pirate incursion</Item>
+  </Asset>
+</XnaContent>

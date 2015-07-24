@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipData">
+    <Name>Dragonfly</Name>
+    <TextureAsset>Sprites/Ship Sprites/UIN Ships/Dragonfly</TextureAsset>
+    <WeaponHardPoints>
+      -9 -2
+      9 -2
+    </WeaponHardPoints>
+    <EngineHardPoints>
+      -5 26
+      5 26
+    </EngineHardPoints>
+    <TurretNames>
+      <Item>50mmAutoCannon</Item>
+      <Item>50mmAutoCannon</Item>
+    </TurretNames>
+    <ShieldAsset></ShieldAsset>
+    <Armour>20</Armour>
+    <Hull>30</Hull>
+    <Mass>950</Mass>
+    <EngineNames>
+      <Item>LightThruster</Item>
+      <Item>LightThruster</Item>
+    </EngineNames>
+    <ShipModSlots>2</ShipModSlots>
+    <ShipModNames></ShipModNames>
+    <SensorName></SensorName>
+    <Description>A great all round fighter which is able to take decent punishment.  Great anti-fighter ship and recommended as a first time buy.</Description>
+    <Cost>1500</Cost>
+  </Asset>
+</XnaContent>
