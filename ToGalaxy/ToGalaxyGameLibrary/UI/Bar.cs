@@ -78,7 +78,7 @@ namespace ToGalaxyGameLibrary.UI
             {
                 if (Texture != null)
                 {
-                    spriteBatch.Draw(Texture, Position, SourceRectangle, Colour * Opacity, Rotation, new Vector2(Texture.Width * Scale.X / 2, Texture.Height * Scale.Y / 2), new Vector2(1, 1), SpriteEffects.None, 0);
+                    spriteBatch.Draw(Texture, Position, SourceRectangle, Colour * Opacity, Rotation, new Vector2(Texture.Width * Scale.X / 2f, Texture.Height * Scale.Y / 2f), new Vector2(1, 1), SpriteEffects.None, 0);
                 }
             }
         }

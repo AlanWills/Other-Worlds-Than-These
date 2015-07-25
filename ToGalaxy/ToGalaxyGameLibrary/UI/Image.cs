@@ -16,10 +16,10 @@ namespace ToGalaxyGameLibrary.UI
             private set;
         }
 
-        private Vector2 Dimensions
+        public Vector2 Dimensions
         {
             get;
-            set;
+            private set;
         }
 
         public Image(string dataAsset, Vector2 position, string name, float rotation = 0)

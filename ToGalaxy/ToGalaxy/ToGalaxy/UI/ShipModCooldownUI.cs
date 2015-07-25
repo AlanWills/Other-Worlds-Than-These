@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ToGalaxy.Gameplay_Objects;
+using ToGalaxyGameLibrary;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxy.UI
@@ -45,8 +46,13 @@ namespace ToGalaxy.UI
                             Ship.ShipMods[0].ShipModData.Name + " Ship Mod Refresh UI",
                             true);
                 // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the RefreshUI
+                // ABSOLUTELY MUST LEAVE THE LOAD CONTENT SEPARATELY
                 LoadAndAddUIElement(shipModRefreshUI);
                 shipModRefreshUI.LoadContent(content);
+                if (Ship.ShipMods[0].ShipModData.Active)
+                {
+                    AddKeyText(Ship.ShipMods[0].ActivationKey.ToString(), shipModRefreshUI);
+                }
                 ShipModRefreshUI.Add(shipModRefreshUI);
 
                 for (int i = 1; i < Ship.ShipMods.Count; i++)
@@ -60,11 +66,26 @@ namespace ToGalaxy.UI
                         Ship.ShipMods[i].ShipModData.Name + " Ship Mod Refresh UI",
                         true);
                     // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the RefreshUI
-                    LoadAndAddUIElementRelativeTo(shipModRefreshUI, ShipModRefreshUI[i - 1]);
+                    // ABSOLUTELY MUST LEAVE THE LOAD CONTENT SEPARATELY
+                    AddUIElementRelativeTo(shipModRefreshUI, ShipModRefreshUI[i - 1]);
                     shipModRefreshUI.LoadContent(content);
+                    if (Ship.ShipMods[i].ShipModData.Active)
+                    {
+                        AddKeyText(Ship.ShipMods[i].ActivationKey.ToString(), shipModRefreshUI);
+                    }
                     ShipModRefreshUI.Add(shipModRefreshUI);
                 }
             }
+        }
+
+        private void AddKeyText(string key, RefreshUI refreshUI)
+        {
+            Text text = new Text(
+                key,
+                new Vector2(0, -refreshUI.Dimensions.Y + 10),
+                Color.White,
+                "Ship Mod Key");
+            LoadAndAddUIElementRelativeTo(text, refreshUI);
         }
 
         public override void Update(GameTime gameTime)

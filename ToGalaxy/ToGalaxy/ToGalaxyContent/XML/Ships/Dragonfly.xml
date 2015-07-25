@@ -12,12 +12,16 @@
       5 26
     </EngineHardPoints>
     <TurretNames>
+      <Item>BarrakudaMissileBattery</Item>
+      <Item>BarrakudaMissileBattery</Item>
     </TurretNames>
-    <ShieldAsset></ShieldAsset>
+    <ShieldAsset>AlternatingFrequencyDeflectorShield</ShieldAsset>
     <Armour>20</Armour>
     <Hull>30</Hull>
     <Mass>950</Mass>
     <EngineNames>
+      <Item>LightThruster</Item>
+      <Item>LightThruster</Item>
     </EngineNames>
     <ShipModSlots>2</ShipModSlots>
     <ShipModNames>

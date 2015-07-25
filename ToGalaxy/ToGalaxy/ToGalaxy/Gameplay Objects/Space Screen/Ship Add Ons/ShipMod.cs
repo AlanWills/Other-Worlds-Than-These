@@ -31,10 +31,10 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 
         #region Activation Properties
 
-        private Keys ActivationKey
+        public Keys ActivationKey
         {
             get;
-            set;
+            private set;
         }
 
         public float TimeSinceActivation
@@ -71,11 +71,11 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 
         public Action<Ship, bool, float> ActivationEvent;
 
-        public ShipMod(string dataAsset, Vector2 position, Ship parentShip, Keys key = Keys.None)
+        public ShipMod(string dataAsset, Vector2 position, Ship parentShip)
             : base(dataAsset, position)
         {
             ParentShip = parentShip;
-            ActivationKey = key;
+            ActivationKey = Keys.None;
         }
 
         public override void LoadContent(ContentManager content)
@@ -85,9 +85,14 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             if (DataAsset != "")
             {
                 ShipModData = content.Load<ShipModData>(DataAsset);
-                TimeSinceActivation = ShipModData.Cooldown;
+                TimeSinceActivation = ShipModData.Cooldown + ShipModData.RunTime;
                 ActivationEvent = ModFunctionManager.ModEvents[ShipModData.ModFunctionName];
             }
+        }
+
+        public void SetActivationKey(Keys key)
+        {
+            ActivationKey = key;
         }
 
         public override void Draw(SpriteBatch spriteBatch)

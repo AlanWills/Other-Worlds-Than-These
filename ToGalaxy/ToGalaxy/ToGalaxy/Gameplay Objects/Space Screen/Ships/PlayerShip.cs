@@ -50,13 +50,20 @@ namespace ToGalaxy.Gameplay_Objects
             {
                 ShipMods.Clear();
 
+                int keyCounter = 0;
                 List<Keys> activationKeys = new List<Keys>(){ Keys.Q, Keys.E, Keys.R, Keys.T, Keys.Y };
                 for (int i = 0; i < ShipData.ShipModNames.Count; i++)
                 {
                     if (i < ShipData.ShipModSlots)
                     {
-                        ShipMod shipMod = new ShipMod("XML/Ship Mods/" + ShipData.ShipModNames[i], Position, this, activationKeys[i]);
+                        ShipMod shipMod = new ShipMod("XML/Ship Mods/" + ShipData.ShipModNames[i], Position, this);
                         shipMod.LoadContent(content);
+
+                        if (shipMod.ShipModData.Active)
+                        {
+                            shipMod.SetActivationKey(activationKeys[keyCounter]);
+                            keyCounter++;
+                        }
 
                         ShipMods.Add(shipMod);
                     }
