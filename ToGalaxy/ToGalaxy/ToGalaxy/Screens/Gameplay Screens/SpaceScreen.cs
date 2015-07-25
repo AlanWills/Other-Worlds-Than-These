@@ -464,10 +464,5 @@ namespace ToGalaxy.Screens.Gameplay_Screens
         }
 
         #endregion
-
-        public override void Draw(SpriteBatch spriteBatch)
-        {
-            base.Draw(spriteBatch);
-        }
     }
 }

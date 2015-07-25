@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Missile Targeting Computer</Name>
+    <TextureAsset>Sprites/Ship Mods/ecm_package</TextureAsset>
+    <ModFunctionName>Homing Missiles</ModFunctionName>
+    <Type>Offensive</Type>
+    <Active>true</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>1</Cooldown>
+    <Cost>1800</Cost>
+    <Description>Installing on-board targeting computers for all missile payloads allows dynamic targeting.  This causes missiles to home on to their targets and improves accuracy of all missile turrets.  REQUIRES INTEGRATED TARGETING UNIT!</Description>
+  </Asset>
+</XnaContent>

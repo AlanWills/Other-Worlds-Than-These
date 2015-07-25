@@ -191,14 +191,14 @@ namespace ToGalaxy.Screens
 
         public override void DrawCameraIndependentObjects(SpriteBatch spriteBatch)
         {
-            base.DrawCameraIndependentObjects(spriteBatch);
-
             if (GamePlayScreensActive)
             {
                 // ShipInteriorScreen.DrawCameraIndependentObjects(spriteBatch);
                 SensorsScreen.DrawCameraIndependentObjects(spriteBatch);
                 SpaceScreen.DrawCameraIndependentObjects(spriteBatch);
             }
+
+            base.DrawCameraIndependentObjects(spriteBatch);
         }
 
         public void AddNewMainMenuScreen()

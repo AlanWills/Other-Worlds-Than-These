@@ -12,6 +12,12 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 {
     public class MissileTurret : Turret
     {
+        public bool Homing
+        {
+            get;
+            set;
+        }
+
         private Missile Missile
         {
             get;
@@ -64,11 +70,16 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 {
                     if (Target != null)
                     {
-                        // Use this for non-homing missiles
-                        // firedBullet.SetBulletTargetDestination(Target.Position);
-
-                        // Otherwise for homing missiles
+                        // For homing missiles
+                        if (Homing)
+                        {
                         firedBullet.SetTarget(Target);
+                        }
+                        else
+                        {
+                            // Use this for non-homing missiles
+                            firedBullet.SetBulletTargetDestination(Target.Position);
+                        }
                     }
                     else
                     {

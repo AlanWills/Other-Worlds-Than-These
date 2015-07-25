@@ -334,3 +334,9 @@ Content\Music\Ambient Music\Blue Space.xnb
 Content\Music\Ambient Music\Blue Space.wma
 Content\Fonts\TextFont.xnb
 Content\Fonts\SmallGameUIFont.xnb
+Content\XML\Ship Mods\Offensive\IntegratedTargetingUnit.xnb
+Content\XML\Ship Mods\Offensive\MissileTargetingComputer.xnb
+Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb
+Content\XML\Ship Mods\Utility\NavigationComputer.xnb
+Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb
+Content\XML\Ship Mods\Defensive\HardenedShields.xnb

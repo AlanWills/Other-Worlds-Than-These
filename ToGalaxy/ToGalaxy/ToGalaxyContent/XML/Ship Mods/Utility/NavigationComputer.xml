@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Navigation Computer</Name>
+    <TextureAsset>Sprites/Ship Mods/targeting_core</TextureAsset>
+    <ModFunctionName>Auto Movement</ModFunctionName>
+    <Type>Utility</Type>
+    <Active>true</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>1</Cooldown>
+    <Cost>5000</Cost>
+    <Description>Installing a navigation computer allows the pilot to choose between manual and autonomous movement.  A very expensive mod, but frees up time to focus on other jobs.</Description>
+  </Asset>
+</XnaContent>

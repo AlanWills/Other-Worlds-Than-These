@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Hardened Shields</Name>
+    <TextureAsset>Sprites/Ship Mods/hardened_shields</TextureAsset>
+    <ModFunctionName>Passive Shield Strength Increase</ModFunctionName>
+    <Type>Defensive</Type>
+    <Active>false</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>0</Cooldown>
+    <Cost>1500</Cost>
+    <Description>By installing larger capacitors, the base strength of the shield can be increased slightly.</Description>
+  </Asset>
+</XnaContent>

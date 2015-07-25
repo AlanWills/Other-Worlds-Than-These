@@ -1194,7 +1194,6 @@
   <ItemGroup>
     <Folder Include="Sprites\Ship Interior Maps\Tile Maps\" />
     <Folder Include="XML\Ship Interior Maps\" />
-    <Folder Include="XML\Ship Mods\Defensive\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Sprites\FX\ShieldsRestored.png">
@@ -1992,6 +1991,48 @@
   <ItemGroup>
     <Compile Include="XML\Ship Mods\Offensive\AutomatedReloader.xml">
       <Name>AutomatedReloader</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Offensive\IntegratedTargetingUnit.xml">
+      <Name>IntegratedTargetingUnit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Offensive\MissileTargetingComputer.xml">
+      <Name>MissileTargetingComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Utility\FluxResistantConduits.xml">
+      <Name>FluxResistantConduits</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Utility\NavigationComputer.xml">
+      <Name>NavigationComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Utility\IntertialDampenerBypass.xml">
+      <Name>IntertialDampenerBypass</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Defensive\HardenedShields.xml">
+      <Name>HardenedShields</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
     </Compile>

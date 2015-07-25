@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Integrated Targeting Unit</Name>
+    <TextureAsset>Sprites/Ship Mods/integrated_targeting_unit</TextureAsset>
+    <ModFunctionName>Auto Target Turrets</ModFunctionName>
+    <Type>Offensive</Type>
+    <Active>true</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>1</Cooldown>
+    <Cost>5000</Cost>
+    <Description>An incredibly expensive mod.  Installing the integrated targeting unit into the ship's computer allows the pilot to choose between manual or automatic targeting.  Right click on an enemy to issue a target command.</Description>
+  </Asset>
+</XnaContent>

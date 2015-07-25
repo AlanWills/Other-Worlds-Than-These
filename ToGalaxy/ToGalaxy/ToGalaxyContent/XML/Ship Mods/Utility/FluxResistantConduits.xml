@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Flux Resistant Conduits</Name>
+    <TextureAsset>Sprites/Ship Mods/resistant_flux_conduits</TextureAsset>
+    <ModFunctionName>Passive Increase Move and Rotate Speed</ModFunctionName>
+    <Type>Utility</Type>
+    <Active>false</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>0</Cooldown>
+    <Cost>750</Cost>
+    <Description>A cheap, but incredibly useful mod recommended for a beginner pilot.  By installing flux resistant conduits on the engines, more power can be channeled through them.  This giives a small buff to both the ship's linear and angular speeds.</Description>
+  </Asset>
+</XnaContent>

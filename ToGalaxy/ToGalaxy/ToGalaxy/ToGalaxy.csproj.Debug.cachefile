@@ -312,6 +312,12 @@ Content\Music\Battle Music\Dance Music.xnb
 Content\Music\Ambient Music\Blue Space.xnb
 Content\Fonts\TextFont.xnb
 Content\Fonts\SmallGameUIFont.xnb
+Content\XML\Ship Mods\Offensive\IntegratedTargetingUnit.xnb
+Content\XML\Ship Mods\Offensive\MissileTargetingComputer.xnb
+Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb
+Content\XML\Ship Mods\Utility\NavigationComputer.xnb
+Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb
+Content\XML\Ship Mods\Defensive\HardenedShields.xnb
 Content\Music\Ambient Music\Please, answer me my friend.wma
 Content\Music\Menu Music\Other worlds than these.wma
 Content\Music\Ambient Music\I didn't do it.wma

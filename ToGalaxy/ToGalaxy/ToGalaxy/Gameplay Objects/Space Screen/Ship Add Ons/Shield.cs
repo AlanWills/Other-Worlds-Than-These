@@ -41,6 +41,12 @@ namespace ToGalaxy.Gameplay_Objects
             private set;
         }
 
+        public float ShieldStrengthMultiplier
+        {
+            get;
+            set;
+        }
+
         public ShieldState ShieldState
         {
             get
@@ -68,6 +74,7 @@ namespace ToGalaxy.Gameplay_Objects
             : base(dataAsset, startingPosition)
         {
             ParentShip = parentShip;
+            ShieldStrengthMultiplier = 1;
         }
 
         public override void LoadContent(ContentManager content)
@@ -81,7 +88,7 @@ namespace ToGalaxy.Gameplay_Objects
 
             if (ShieldData != null)
             {
-                ShieldStrength = ShieldData.Strength;
+                ShieldStrength = (int)(ShieldData.Strength * ShieldStrengthMultiplier);
                 Colour = new Color(ShieldData.Colour);
                 chargeDelayTimer = ShieldData.RechargeDelay;
                 SetOpacity(resetOpacity);
@@ -109,7 +116,7 @@ namespace ToGalaxy.Gameplay_Objects
 
                 if (regenTimer >= ShieldData.DepletionDelay)
                 {
-                    ShieldStrength = ShieldData.Strength;
+                    ShieldStrength = (int)(ShieldData.Strength * ShieldStrengthMultiplier);
                     timeSinceDamageTaken = 0;
                     regenTimer = 0;
                 }
@@ -117,7 +124,7 @@ namespace ToGalaxy.Gameplay_Objects
             // The time since damage taken is greater than how long we have to wait to start recharging
             else if (timeSinceDamageTaken >= chargeDelayTimer)
             {
-                if (ShieldStrength < ShieldData.Strength)
+                if (ShieldStrength < (int)(ShieldData.Strength * ShieldStrengthMultiplier))
                 {
                     // Shields partially depleted so we regen as specified in the data
                     regenTimer += (float)gameTime.ElapsedGameTime.Milliseconds / 1000;

@@ -1183,7 +1183,7 @@ namespace ToGalaxy.Screens.Menu_Screens
 
                 Text descriptionText = new Text(
                     shipModData.Description,
-                    new Vector2(0, CurrentObjectInfoPanel.Dimensions.Y / 2),
+                    new Vector2(0, 2 * CurrentObjectInfoPanel.Dimensions.Y / 5),
                     4 * CurrentObjectInfoPanel.Dimensions.X / 5,
                     Color.White,
                     shipModName + " Description");
@@ -1198,7 +1198,7 @@ namespace ToGalaxy.Screens.Menu_Screens
 
                 Text costText = new Text(
                     costString,
-                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 5),
+                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 4),
                     Color.White,
                     "Cost");
                 CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(costText, descriptionText);

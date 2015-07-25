@@ -2249,7 +2249,7 @@
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
-      <Time>2015-07-25T20:43:19.9735766+01:00</Time>
+      <Time>2015-07-25T20:50:20.2883949+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Ships\Gnat.xml</Source>
@@ -2848,6 +2848,60 @@
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb</Output>
       <Time>2015-06-21T18:10:56.8438911+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\IntegratedTargetingUnit.xml</Source>
+      <Name>XML\Ship Mods\Offensive\IntegratedTargetingUnit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\IntegratedTargetingUnit.xnb</Output>
+      <Time>2015-07-25T21:48:11.7690053+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\MissileTargetingComputer.xml</Source>
+      <Name>XML\Ship Mods\Offensive\MissileTargetingComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\MissileTargetingComputer.xnb</Output>
+      <Time>2015-07-25T21:19:04.1360219+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\FluxResistantConduits.xml</Source>
+      <Name>XML\Ship Mods\Utility\FluxResistantConduits</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb</Output>
+      <Time>2015-07-25T21:32:32.8111858+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\NavigationComputer.xml</Source>
+      <Name>XML\Ship Mods\Utility\NavigationComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\NavigationComputer.xnb</Output>
+      <Time>2015-07-25T21:52:22.176911+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\IntertialDampenerBypass.xml</Source>
+      <Name>XML\Ship Mods\Utility\IntertialDampenerBypass</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb</Output>
+      <Time>2015-07-25T21:58:32.4700141+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\HardenedShields.xml</Source>
+      <Name>XML\Ship Mods\Defensive\HardenedShields</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\HardenedShields.xnb</Output>
+      <Time>2015-07-25T22:12:01.8942529+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

@@ -34,13 +34,13 @@ namespace ToGalaxy.Gameplay_Objects
         public bool ManualSteering
         {
             get;
-            protected set;
+            set;
         }
 
         public bool InterialDampeners
         {
             get;
-            protected set;
+            set;
         }
 
         public Vector2 Destination
@@ -128,7 +128,7 @@ namespace ToGalaxy.Gameplay_Objects
         public bool AutoTurrets
         {
             get;
-            protected set;
+            set;
         }
 
         #endregion
@@ -187,6 +187,12 @@ namespace ToGalaxy.Gameplay_Objects
                 // less or more will increase/detriment performance
                 return rotateDelta * 1000f / ShipData.Mass;
             }
+        }
+
+        public float RotateSpeedMultiplier
+        {
+            get;
+            set;
         }
 
         #endregion
@@ -250,6 +256,7 @@ namespace ToGalaxy.Gameplay_Objects
             AutoTurrets = true;
             InterialDampeners = true;
             SpeedMultiplier = 1;
+            RotateSpeedMultiplier = 1;
 
             Turrets = new List<Turret>();
             Engines = new List<Engine>();

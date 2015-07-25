@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Inertial Dampener Bypass</Name>
+    <TextureAsset>Sprites/Ship Mods/flux_coil_adjunct</TextureAsset>
+    <ModFunctionName>Inertial Dampeners</ModFunctionName>
+    <Type>Utility</Type>
+    <Active>true</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>1</Cooldown>
+    <Cost>1000</Cost>
+    <Description>Inertial Dampeners come as standard on all ships, but cannot be turned off for safety reasons.  Installing a bypass allows them to be disabled, allowing for increased maneouverability.  However, the ship becomes much harder to fly, so this is a mod recommended only for confident flyers.</Description>
+  </Asset>
+</XnaContent>
