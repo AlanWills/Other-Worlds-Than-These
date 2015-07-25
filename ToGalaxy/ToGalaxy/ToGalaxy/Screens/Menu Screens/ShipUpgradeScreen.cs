@@ -136,8 +136,8 @@ namespace ToGalaxy.Screens.Menu_Screens
                                 GameObjectData gameObjectData = ScreenManager.Content.Load<GameObjectData>("XML/" + panelName + "/" + key);
                                 Image objectImage = new Image(
                                     gameObjectData.TextureAsset,
-                                    new Vector2(-2 * panel.Dimensions.X / 5 + x * panel.Dimensions.X / xDimensions, -2 * panel.Dimensions.Y / 5 + y * panel.Dimensions.Y / yDimensions),
-                                    panel.Dimensions.X / (2 * xDimensions),
+                                    new Vector2(-2 * panel.Dimensions.X / 5 + x * panel.Dimensions.X / (xDimensions + 1), -2 * panel.Dimensions.Y / 5 + y * panel.Dimensions.Y / yDimensions),
+                                    panel.Dimensions.X / (2 * xDimensions + 1),
                                     panel.Dimensions.Y / (2 * yDimensions),
                                     panelName + "/" + key);
                                 objectImage.InteractEvent += DisplayShopObjectInformation;
@@ -690,13 +690,21 @@ namespace ToGalaxy.Screens.Menu_Screens
                 CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(weaponSlotsImage, weaponSlotsText);
                 weaponSlotsImage.SetHoverInfoText("Weapon Slots");
 
+                Text shipModSlotsText = new Text(
+                    shipData.ShipModSlots.ToString(),
+                    new Vector2(0, 4 * massText.TextOrigin.Y),
+                    Color.White,
+                    shipName + " Ship Mods Slot");
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(shipModSlotsText, weaponSlotsText);
+                shipModSlotsText.SetHoverInfoText("Ship Mod Slots");
+
                 Text descriptionText = new Text(
                     shipData.Description,
-                    new Vector2(0, CurrentObjectInfoPanel.Dimensions.Y / 5),
+                    new Vector2(0, CurrentObjectInfoPanel.Dimensions.Y / 7),
                     4 * CurrentObjectInfoPanel.Dimensions.X / 5,
                     Color.White,
                     shipName + " Description");
-                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, weaponSlotsText);
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, shipModSlotsText);
 
                 int cost = shipData.Cost;
                 if (PlayerShip != null)
@@ -707,7 +715,7 @@ namespace ToGalaxy.Screens.Menu_Screens
 
                 Text costText = new Text(
                     costString,
-                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 5),
+                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 6),
                     Color.White,
                     "Cost");
                 CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(costText, descriptionText);
