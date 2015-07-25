@@ -113,6 +113,7 @@
     <Compile Include="Screens\Menu Screens\ShipUpgradeScreen.cs" />
     <Compile Include="UI\SensorsUI.cs" />
     <Compile Include="UI\ShipInformationPanel.cs" />
+    <Compile Include="UI\ShipModCooldownUI.cs" />
     <Compile Include="UI\ShipMouseOverUI.cs" />
     <Compile Include="UI\SpaceScreenHud.cs" />
     <Compile Include="UI\WeaponsCooldownUI.cs" />

@@ -40,7 +40,7 @@ namespace ToGalaxy.UI
             {
                 RefreshUI weaponRefreshUI = new RefreshUI(
                             Ship.Turrets[0].TurretData.TextureAsset,
-                            new Vector2(5, 35 - Dimensions.Y / 2),
+                            new Vector2(5 - Dimensions.X / 2, 25),
                             30,
                             50,
                             Ship.Turrets[0].TurretData.FireTimer,
@@ -55,7 +55,7 @@ namespace ToGalaxy.UI
                 {
                     weaponRefreshUI = new RefreshUI(
                         Ship.Turrets[i].TurretData.TextureAsset,
-                        new Vector2(0, 55),
+                        new Vector2(35, 0),
                         30,
                         50,
                         Ship.Turrets[i].TurretData.FireTimer,

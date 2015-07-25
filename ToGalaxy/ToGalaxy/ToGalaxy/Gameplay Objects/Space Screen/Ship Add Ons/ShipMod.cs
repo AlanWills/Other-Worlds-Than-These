@@ -37,10 +37,10 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             set;
         }
 
-        private float TimeSinceActivation
+        public float TimeSinceActivation
         {
             get;
-            set;
+            private set;
         }
 
         private bool ModFinishedRunning

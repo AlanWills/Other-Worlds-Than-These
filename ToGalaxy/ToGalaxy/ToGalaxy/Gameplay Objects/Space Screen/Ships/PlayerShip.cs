@@ -48,6 +48,8 @@ namespace ToGalaxy.Gameplay_Objects
         {
             if (ShipData.ShipModSlots > 0)
             {
+                ShipMods.Clear();
+
                 List<Keys> activationKeys = new List<Keys>(){ Keys.Q, Keys.E, Keys.R, Keys.T, Keys.Y };
                 for (int i = 0; i < ShipData.ShipModNames.Count; i++)
                 {

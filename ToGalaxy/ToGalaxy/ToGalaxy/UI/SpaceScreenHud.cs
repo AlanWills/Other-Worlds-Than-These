@@ -30,6 +30,12 @@ namespace ToGalaxy.UI
             set;
         }
 
+        private ShipModCooldownUI ShipModCooldownUI
+        {
+            get;
+            set;
+        }
+
         private SpaceScreen SpaceScreen
         {
             get;
@@ -76,26 +82,39 @@ namespace ToGalaxy.UI
             WeaponCooldownUI = new WeaponsCooldownUI(
                 "",
                 SpaceScreen.PlayerShip,
-                new Vector2(20 - ShipInfoPanel.Dimensions.X / 2, -(ShipInfoPanel.Dimensions.Y / 2 + (SpaceScreen.PlayerShip.Turrets.Count * 55 + 5) / 2)),
-                new Vector2(40, SpaceScreen.PlayerShip.Turrets.Count * 55 + 5),
+                new Vector2(ShipInfoPanel.Dimensions.X / 2 + SpaceScreen.PlayerShip.Turrets.Count * 35, 0),
+                new Vector2(SpaceScreen.PlayerShip.Turrets.Count * 35 + 5, 50),
                 Color.White,
                 "Weapons Cooldown UI",
                 0.8f);
             // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the WeaponsCooldownUI
             AddUIElementRelativeTo(WeaponCooldownUI, ShipInfoPanel);
             WeaponCooldownUI.LoadContent(content);
+
+            ShipModCooldownUI = new ShipModCooldownUI(
+                "",
+                SpaceScreen.PlayerShip,
+                new Vector2(WeaponCooldownUI.Dimensions.X / 2 + SpaceScreen.PlayerShip.ShipMods.Count * 55, 0),
+                new Vector2(SpaceScreen.PlayerShip.ShipMods.Count * 55 + 5, 50),
+                Color.White,
+                "Ship Mods Cooldown UI",
+                0.8f);
+            AddUIElementRelativeTo(ShipModCooldownUI, WeaponCooldownUI);
+            ShipModCooldownUI.LoadContent(content);
         }
 
         public void ShowShipInfo(Ship ship)
         {
             ShipInfoPanel.SetShip(ship);
             WeaponCooldownUI.Activate();
+            ShipModCooldownUI.Activate();
         }
 
         public void ClearShipInfo()
         {
             ShipInfoPanel.SetShip(null);
             WeaponCooldownUI.DisableAndHide();
+            ShipModCooldownUI.DisableAndHide();
         }
     }
 }
