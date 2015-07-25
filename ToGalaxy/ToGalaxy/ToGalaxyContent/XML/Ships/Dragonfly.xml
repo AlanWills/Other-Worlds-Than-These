@@ -21,7 +21,7 @@
     </EngineNames>
     <ShipModSlots>2</ShipModSlots>
     <ShipModNames>
-      <Item>AuxiliaryThrusters</Item>
+      <Item>Utility/AuxiliaryThrusters</Item>
     </ShipModNames>
     <SensorName></SensorName>
     <Description>A great all round fighter which is able to take decent punishment.  Great anti-fighter ship and recommended as a first time buy.</Description>

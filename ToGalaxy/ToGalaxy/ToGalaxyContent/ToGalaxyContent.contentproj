@@ -1194,6 +1194,7 @@
   <ItemGroup>
     <Folder Include="Sprites\Ship Interior Maps\Tile Maps\" />
     <Folder Include="XML\Ship Interior Maps\" />
+    <Folder Include="XML\Ship Mods\Defensive\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Sprites\FX\ShieldsRestored.png">
@@ -1975,8 +1976,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Ship Mods\AuxiliaryThrusters.xml">
+    <Compile Include="XML\Ship Mods\Utility\AuxiliaryThrusters.xml">
       <Name>AuxiliaryThrusters</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Offensive\WeaponPreIgniter.xml">
+      <Name>WeaponPreIgniter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Ship Mods\Offensive\AutomatedReloader.xml">
+      <Name>AutomatedReloader</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
     </Compile>

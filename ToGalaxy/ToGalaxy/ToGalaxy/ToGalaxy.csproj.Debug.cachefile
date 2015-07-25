@@ -276,7 +276,9 @@ Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
 Content\XML\Weapons\WhaleSharkMissileBattery.xnb
 Content\XML\Weapons\TigerSharkMissileBattery.xnb
 Content\XML\Gameplay Screens\SensorsScreen.xnb
-Content\XML\Ship Mods\AuxiliaryThrusters.xnb
+Content\XML\Ship Mods\Utility\AuxiliaryThrusters.xnb
+Content\XML\Ship Mods\Offensive\WeaponPreIgniter.xnb
+Content\XML\Ship Mods\Offensive\AutomatedReloader.xnb
 Content\Sounds\Weapons\autocannon_fire_01.xnb
 Content\Sounds\UI\ButtonPressedSound.xnb
 Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb

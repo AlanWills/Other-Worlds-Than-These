@@ -2249,7 +2249,7 @@
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
-      <Time>2015-07-23T22:52:42.1951784+01:00</Time>
+      <Time>2015-07-25T13:33:54.9594236+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Ships\Gnat.xml</Source>
@@ -2504,13 +2504,31 @@
       <Time>2015-07-23T11:44:18.245132+01:00</Time>
     </Item>
     <Item>
-      <Source>XML\Ship Mods\AuxiliaryThrusters.xml</Source>
-      <Name>XML\Ship Mods\AuxiliaryThrusters</Name>
+      <Source>XML\Ship Mods\Utility\AuxiliaryThrusters.xml</Source>
+      <Name>XML\Ship Mods\Utility\AuxiliaryThrusters</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\AuxiliaryThrusters.xnb</Output>
-      <Time>2015-07-24T14:47:28.781528+01:00</Time>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AuxiliaryThrusters.xnb</Output>
+      <Time>2015-07-25T12:13:12.1492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\WeaponPreIgniter.xml</Source>
+      <Name>XML\Ship Mods\Offensive\WeaponPreIgniter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\WeaponPreIgniter.xnb</Output>
+      <Time>2015-07-25T12:13:02.2116056+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\AutomatedReloader.xml</Source>
+      <Name>XML\Ship Mods\Offensive\AutomatedReloader</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\AutomatedReloader.xnb</Output>
+      <Time>2015-07-25T12:13:16.5941505+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Weapons\autocannon_fire_01.wav</Source>
@@ -2846,7 +2864,7 @@
     <Assemblies>
       <Assembly>
         <Key>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll</Key>
-        <Value>2015-07-24T14:42:53.2703743+01:00</Value>
+        <Value>2015-07-25T13:02:49.6742232+01:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>

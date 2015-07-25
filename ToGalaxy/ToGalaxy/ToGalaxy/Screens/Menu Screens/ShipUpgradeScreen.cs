@@ -59,12 +59,12 @@ namespace ToGalaxy.Screens.Menu_Screens
             Vector2 shipPanelButtonPosition = new Vector2(120, ScreenManager.Viewport.Height / 20);
             Vector2 buttonSpacing = new Vector2(ScreenManager.Viewport.Width / 8, 0);
 
-            CreateAndPopulatePanel("Ship", shipPanelButtonPosition);
-            CreateAndPopulatePanel("Weapon", shipPanelButtonPosition + buttonSpacing);
-            CreateAndPopulatePanel("Engine", shipPanelButtonPosition + 2 * buttonSpacing);
-            CreateAndPopulatePanel("Shield", shipPanelButtonPosition + 3 * buttonSpacing);
-            CreateAndPopulatePanel("Sensor", shipPanelButtonPosition + 4 * buttonSpacing);
-            CreateAndPopulatePanel("Ship Mod", shipPanelButtonPosition + 5 * buttonSpacing);
+            CreateAndPopulatePanel("Ships", shipPanelButtonPosition);
+            CreateAndPopulatePanel("Weapons", shipPanelButtonPosition + buttonSpacing);
+            CreateAndPopulatePanel("Engines", shipPanelButtonPosition + 2 * buttonSpacing);
+            CreateAndPopulatePanel("Shields", shipPanelButtonPosition + 3 * buttonSpacing);
+            CreateAndPopulatePanel("Sensors", shipPanelButtonPosition + 4 * buttonSpacing);
+            CreateAndPopulateShipModPanel("Ship Mods", shipPanelButtonPosition + 5 * buttonSpacing);
 
             CurrentObjectInfoPanel = new Panel(
                 "Sprites/UI/Panels/MenuPanelBackground",
@@ -101,12 +101,12 @@ namespace ToGalaxy.Screens.Menu_Screens
             moneyImage.SetHoverInfoText("Current Money");
 
             CreateNextMissionButton();
-            ActivatePanel("Ship");
+            ActivatePanel("Ships");
             SetUpCurrentShipInformation();
             DisplayCurrentShipInformation();
         }
 
-        private void CreateAndPopulatePanel(string panelName, Vector2 buttonPosition)
+        private void CreateAndPopulatePanel(string panelName, Vector2 buttonPosition, bool createSwitchButton = true)
         {
             Panel panel = new Panel(
                 "Sprites/UI/Panels/MenuPanelBackground",
@@ -117,7 +117,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             UpgradePanels.Add(panelName, panel);
 
             // Populate panel here
-            DirectoryInfo directory = new DirectoryInfo(ScreenManager.Content.RootDirectory + "/XML/" + panelName + "s");
+            DirectoryInfo directory = new DirectoryInfo(ScreenManager.Content.RootDirectory + "/XML/" + panelName);
             if (directory.Exists)
             {
                 FileInfo[] files = directory.GetFiles("*.xnb*");
@@ -133,7 +133,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                             string key = Path.GetFileNameWithoutExtension(files[y * xDimensions + x].Name);
                             if (panelName != "Shield")
                             {
-                                GameObjectData gameObjectData = ScreenManager.Content.Load<GameObjectData>("XML/" + panelName + "s/" + key);
+                                GameObjectData gameObjectData = ScreenManager.Content.Load<GameObjectData>("XML/" + panelName + "/" + key);
                                 Image objectImage = new Image(
                                     gameObjectData.TextureAsset,
                                     new Vector2(-2 * panel.Dimensions.X / 5 + x * panel.Dimensions.X / xDimensions, -2 * panel.Dimensions.Y / 5 + y * panel.Dimensions.Y / yDimensions),
@@ -146,7 +146,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                             }
                             else
                             {
-                                ShieldData shieldData = ScreenManager.Content.Load<ShieldData>("XML/" + panelName + "s/" + key);
+                                ShieldData shieldData = ScreenManager.Content.Load<ShieldData>("XML/" + panelName + "/" + key);
                                 Image objectImage = new Image(
                                     shieldData.TextureAsset,
                                     new Vector2(-2 * panel.Dimensions.X / 5 + x * panel.Dimensions.X / xDimensions, -2 * panel.Dimensions.Y / 5 + y * panel.Dimensions.Y / yDimensions),
@@ -162,6 +162,61 @@ namespace ToGalaxy.Screens.Menu_Screens
                     }
                 }
             }
+
+            if (createSwitchButton)
+            {
+                CreatePanelSwitchButton(panelName, buttonPosition);
+            }
+
+            AddScreenUIElement(panel);
+        }
+
+        private void CreateAndPopulateShipModPanel(string panelName, Vector2 buttonPosition)
+        {
+            Panel panel = new Panel(
+                "Sprites/UI/Panels/MenuPanelBackground",
+                new Vector2(ScreenManager.Viewport.Width / 3, 21 * ScreenManager.Viewport.Height / 40),
+                new Vector2(3 * ScreenManager.Viewport.Width / 5, 17 * ScreenManager.Viewport.Height / 20),
+                Color.White,
+                panelName + " Panel",
+                0);
+            UpgradePanels.Add(panelName, panel);
+
+            Button modTypeSwitchButton = new Button(
+                "XML/UI/Buttons/MenuButton",
+                new Vector2(-panel.Dimensions.X / 3, -panel.Dimensions.Y / 2),
+                Button.defaultColour,
+                Button.highlightedColour,
+                "Ship Mods/Offensive",
+                "Offensive");
+            modTypeSwitchButton.InteractEvent += ChangePanelEvent;
+            panel.LoadAndAddUIElement(modTypeSwitchButton, modTypeSwitchButton.Position);
+
+            modTypeSwitchButton = new Button(
+                "XML/UI/Buttons/MenuButton",
+                new Vector2(0, -panel.Dimensions.Y / 2),
+                Button.defaultColour,
+                Button.highlightedColour,
+                "Ship Mods/Defensive",
+                "Defensive");
+            modTypeSwitchButton.InteractEvent += ChangePanelEvent;
+            panel.LoadAndAddUIElement(modTypeSwitchButton, modTypeSwitchButton.Position);
+            AddScreenUIElement(modTypeSwitchButton);
+
+            modTypeSwitchButton = new Button(
+                "XML/UI/Buttons/MenuButton",
+                new Vector2(panel.Dimensions.X / 3, -panel.Dimensions.Y / 2),
+                Button.defaultColour,
+                Button.highlightedColour,
+                "Ship Mods/Utility",
+                "Utility");
+            modTypeSwitchButton.InteractEvent += ChangePanelEvent;
+            panel.LoadAndAddUIElement(modTypeSwitchButton, modTypeSwitchButton.Position);
+            AddScreenUIElement(modTypeSwitchButton);
+
+            CreateAndPopulatePanel("Ship Mods/Defensive", buttonPosition, false);
+            CreateAndPopulatePanel("Ship Mods/Offensive", buttonPosition, false);
+            CreateAndPopulatePanel("Ship Mods/Utility", buttonPosition, false);
 
             CreatePanelSwitchButton(panelName, buttonPosition);
             AddScreenUIElement(panel);
@@ -380,27 +435,27 @@ namespace ToGalaxy.Screens.Menu_Screens
                 {
                     switch (splitString[0])
                     {
-                        case "Ship":
+                        case "Ships":
                             DisplayShipInformation(splitString[1]);
                             break;
 
-                        case "Weapon":
+                        case "Weapons":
                             DisplayWeaponInformation(splitString[1]);
                             break;
 
-                        case "Engine":
+                        case "Engines":
                             DisplayEngineInformation(splitString[1]);
                             break;
 
-                        case "Shield":
+                        case "Shields":
                             DisplayShieldInformation(splitString[1]);
                             break;
 
-                        case "Sensor":
+                        case "Sensors":
                             DisplaySensorInformation(splitString[1]);
                             break;
 
-                        case "Ship Mod":
+                        case "Ship Mods":
                             DisplayShipModInformation(splitString[1]);
                             break;
 
@@ -1282,7 +1337,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                                     new Color(0, 0.318f, 0.49f),
                                     new Color(0, 0.71f, 0.988f),
                                     panelName,
-                                    panelName + "s");
+                                    panelName);
             panelButton.InteractEvent += ChangePanelEvent;
             panelButton.EnableAndDisableEvent += PlayerShipDependentActivationEvent;
             AddScreenUIElement(panelButton);
@@ -1291,7 +1346,6 @@ namespace ToGalaxy.Screens.Menu_Screens
         private void ChangePanelEvent(object sender, EventArgs e)
         {
             Button button = sender as Button;
-
             if (button != null)
             {
                 ActivatePanel(button.Name);
@@ -1472,6 +1526,10 @@ namespace ToGalaxy.Screens.Menu_Screens
                 if (panel.Key == panelToActivate)
                 {
                     panel.Value.Activate();
+                    if (panelToActivate.Contains("Defensive") || panelToActivate.Contains("Offensive") || panelToActivate.Contains("Utility"))
+                    {
+                        UpgradePanels["Ship Mods"].Activate();
+                    }
                 }
                 else
                 {
