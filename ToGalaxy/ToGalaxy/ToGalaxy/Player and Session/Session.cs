@@ -50,5 +50,10 @@ namespace ToGalaxy.Player_and_Session
         {
             Money += money;
         }
+
+        public void SetCurrentLevel(int level)
+        {
+            CurrentLevel = level;
+        }
     }
 }

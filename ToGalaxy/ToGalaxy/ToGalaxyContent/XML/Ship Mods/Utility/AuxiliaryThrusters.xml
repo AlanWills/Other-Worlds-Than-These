@@ -3,7 +3,7 @@
   <Asset Type="ToGalaxyCustomData.ShipModData">
     <Name>Auxiliary Thrusters</Name>
     <TextureAsset>Sprites/Ship Mods/auxiliary_thrusters</TextureAsset>
-    <ModFunctionName>Speed Increase</ModFunctionName>
+    <ModFunctionName>Increase Speed</ModFunctionName>
     <Type>Utility</Type>
     <Active>true</Active>
     <RunTime>3</RunTime>

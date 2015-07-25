@@ -10,7 +10,7 @@ namespace ToGalaxy
 {
     public static class ModFunctionManager
     {
-        public static Dictionary<string, Action<Ship, bool>> ModEvents
+        public static Dictionary<string, Action<Ship, bool, float>> ModEvents
         {
             get;
             private set;
@@ -18,14 +18,14 @@ namespace ToGalaxy
 
         public static void SetUpEvents()
         {
-            ModEvents = new Dictionary<string, Action<Ship, bool>>();
+            ModEvents = new Dictionary<string, Action<Ship, bool, float>>();
 
             ModEvents.Add("Increase Speed", IncreaseSpeedEvent);
             ModEvents.Add("Over Heat Turrets", OverHeatTurretsEvent);
             ModEvents.Add("Passive Turret Fire Rate Steroid", PassiveTurretFireRateEvent);
         }
 
-        private static void IncreaseSpeedEvent(Ship ship, bool finishedRunning)
+        private static void IncreaseSpeedEvent(Ship ship, bool finishedRunning, float timeSinceActivation)
         {
             if (!finishedRunning)
             {
@@ -37,7 +37,7 @@ namespace ToGalaxy
             }
         }
 
-        public static void OverHeatTurretsEvent(Ship ship, bool finishedRunning)
+        public static void OverHeatTurretsEvent(Ship ship, bool finishedRunning, float timeSinceActivation)
         {
             foreach (Turret turret in ship.Turrets)
             {
@@ -45,14 +45,18 @@ namespace ToGalaxy
                 {
                     turret.FireTimerMultiplier = 5f;
                 }
+                else if (timeSinceActivation < 10)
+                {
+                    turret.FireTimerMultiplier = 0.5f;
+                }
                 else
                 {
-                    turret.FireTimerMultiplier = 0.2f;
+                    turret.FireTimerMultiplier = 1f;
                 }
             }
         }
 
-        public static void PassiveTurretFireRateEvent(Ship ship, bool finishedRunning)
+        public static void PassiveTurretFireRateEvent(Ship ship, bool finishedRunning, float timeSinceActivation)
         {
             foreach (Turret turret in ship.Turrets)
             {

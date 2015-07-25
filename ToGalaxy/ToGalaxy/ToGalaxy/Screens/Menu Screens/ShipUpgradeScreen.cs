@@ -131,7 +131,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                         if (y * xDimensions + x < files.Length)
                         {
                             string key = Path.GetFileNameWithoutExtension(files[y * xDimensions + x].Name);
-                            if (panelName != "Shield")
+                            if (panelName != "Shields")
                             {
                                 GameObjectData gameObjectData = ScreenManager.Content.Load<GameObjectData>("XML/" + panelName + "/" + key);
                                 Image objectImage = new Image(
@@ -1141,7 +1141,45 @@ namespace ToGalaxy.Screens.Menu_Screens
                     Color.Yellow,
                     "Name");
                 CurrentObjectInfoPanel.LoadAndAddUIElement(name);
-                name.SetHoverInfoText("Sensor Name");
+                name.SetHoverInfoText("Ship Mod Name");
+
+                Text activeOrPassiveText;
+                if (shipModData.Active)
+                {
+                    activeOrPassiveText = new Text(
+                        "Active",
+                        new Vector2(0, 4 * name.TextOrigin.Y),
+                        Color.White,
+                        "Active Or Passive Text");
+                    CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(activeOrPassiveText, name);
+                    activeOrPassiveText.SetHoverInfoText("Mod Type");
+
+                    Text runTimeText = new Text(
+                        shipModData.RunTime.ToString(),
+                        new Vector2(0, 4 * name.TextOrigin.Y),
+                        Color.White,
+                        "Run Time Text");
+                    CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(runTimeText, activeOrPassiveText);
+                    runTimeText.SetHoverInfoText("Mod Run Time");
+
+                    Text coolDownText = new Text(
+                        shipModData.Cooldown.ToString(),
+                        new Vector2(0, 4 * name.TextOrigin.Y),
+                        Color.White,
+                        "Cool Down Text");
+                    CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(coolDownText, runTimeText);
+                    coolDownText.SetHoverInfoText("Mod Cool Down");
+                }
+                else
+                {
+                    activeOrPassiveText = new Text(
+                        "Passive",
+                        new Vector2(0, 4 * name.TextOrigin.Y),
+                        Color.White,
+                        "Active Or Passive Text");
+                    CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(activeOrPassiveText, name);
+                    activeOrPassiveText.SetHoverInfoText("Mod Type");
+                }
 
                 Text descriptionText = new Text(
                     shipModData.Description,
@@ -1149,7 +1187,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                     4 * CurrentObjectInfoPanel.Dimensions.X / 5,
                     Color.White,
                     shipModName + " Description");
-                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, name);
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, activeOrPassiveText);
 
                 int cost = shipModData.Cost;
                 if (PlayerShip.Sensors != null)

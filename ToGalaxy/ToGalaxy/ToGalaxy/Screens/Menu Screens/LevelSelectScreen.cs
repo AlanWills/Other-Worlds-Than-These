@@ -146,6 +146,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             if (button != null)
             {
                 CurrentLevel = Convert.ToInt32(button.Name) + 1;
+                ExtendedScreenManager.Session.SetCurrentLevel(CurrentLevel);
                 UpdateUI();
             }
         }

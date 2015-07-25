@@ -69,7 +69,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 
         #endregion
 
-        public Action<Ship, bool> ActivationEvent;
+        public Action<Ship, bool, float> ActivationEvent;
 
         public ShipMod(string dataAsset, Vector2 position, Ship parentShip, Keys key = Keys.None)
             : base(dataAsset, position)
@@ -86,7 +86,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             {
                 ShipModData = content.Load<ShipModData>(DataAsset);
                 TimeSinceActivation = ShipModData.Cooldown;
-                ActivationEvent = ModFunctionManager.ModEvents["Increase Speed"];
+                ActivationEvent = ModFunctionManager.ModEvents[ShipModData.ModFunctionName];
             }
         }
 
@@ -123,7 +123,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 
             if (ActivationEvent != null)
             {
-                ActivationEvent(ParentShip, ModFinishedRunning);
+                ActivationEvent(ParentShip, ModFinishedRunning, TimeSinceActivation);
                 TimeSinceActivation += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
             }
         }
