@@ -9,6 +9,6 @@
     <RunTime>3</RunTime>
     <Cooldown>10</Cooldown>
     <Cost>750</Cost>
-    <Description>By streamlining the reloading of the turret increased fire rate can be achieved for a short period.  However, to prevent serious damage to the turret fire rate is reduced afterwards.</Description>
+    <Description>By streamlining the reloading of the turret increased fire rate can be achieved for a short period.  However, to prevent serious damage to the turret, fire rate is reduced afterwards.</Description>
   </Asset>
 </XnaContent>

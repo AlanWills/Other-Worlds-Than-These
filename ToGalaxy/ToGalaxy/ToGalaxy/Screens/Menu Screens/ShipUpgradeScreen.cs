@@ -403,7 +403,6 @@ namespace ToGalaxy.Screens.Menu_Screens
             // CurrentShipInfoPanel.LoadAndAddUIElementRelativeTo(sellSensorButton, sensorText);
         }
 
-
         public override void LoadContent()
         {
             SetUpUI();
@@ -431,38 +430,35 @@ namespace ToGalaxy.Screens.Menu_Screens
             if (objectImage != null)
             {
                 string[] splitString = objectImage.Name.Split('/');
-                if (splitString.Length == 2)
+                switch (splitString[0])
                 {
-                    switch (splitString[0])
-                    {
-                        case "Ships":
-                            DisplayShipInformation(splitString[1]);
-                            break;
+                    case "Ships":
+                        DisplayShipInformation(splitString[1]);
+                        break;
 
-                        case "Weapons":
-                            DisplayWeaponInformation(splitString[1]);
-                            break;
+                    case "Weapons":
+                        DisplayWeaponInformation(splitString[1]);
+                        break;
 
-                        case "Engines":
-                            DisplayEngineInformation(splitString[1]);
-                            break;
+                    case "Engines":
+                        DisplayEngineInformation(splitString[1]);
+                        break;
 
-                        case "Shields":
-                            DisplayShieldInformation(splitString[1]);
-                            break;
+                    case "Shields":
+                        DisplayShieldInformation(splitString[1]);
+                        break;
 
-                        case "Sensors":
-                            DisplaySensorInformation(splitString[1]);
-                            break;
+                    case "Sensors":
+                        DisplaySensorInformation(splitString[1]);
+                        break;
 
-                        case "Ship Mods":
-                            DisplayShipModInformation(splitString[1]);
-                            break;
+                    case "Ship Mods":
+                        DisplayShipModInformation(splitString[1] + "/" + splitString[2]);
+                        break;
 
-                        default:
-                            CurrentObjectInfoPanel.Clear();
-                            break;
-                    }
+                    default:
+                        CurrentObjectInfoPanel.Clear();
+                        break;
                 }
             }
         }
@@ -1118,7 +1114,68 @@ namespace ToGalaxy.Screens.Menu_Screens
 
         private void DisplayShipModInformation(string shipModName)
         {
+            CurrentObjectInfoPanel.Clear();
 
+            ShipModData shipModData = ScreenManager.Content.Load<ShipModData>("XML/Ship Mods/" + shipModName);
+            if (shipModData != null)
+            {
+                Image shieldImage = new Image(
+                    shipModData.TextureAsset,
+                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 3, -CurrentObjectInfoPanel.Dimensions.Y / 4),
+                    CurrentObjectInfoPanel.Dimensions.X / 6,
+                    CurrentObjectInfoPanel.Dimensions.X / 6,
+                    shipModName + " Image");
+                CurrentObjectInfoPanel.LoadAndAddUIElement(shieldImage);
+
+                Text name = new Text(
+                    shipModData.Name,
+                    new Vector2(0, -2 * CurrentObjectInfoPanel.Dimensions.Y / 5),
+                    Color.Yellow,
+                    "Name");
+                CurrentObjectInfoPanel.LoadAndAddUIElement(name);
+                name.SetHoverInfoText("Sensor Name");
+
+                Text descriptionText = new Text(
+                    shipModData.Description,
+                    new Vector2(0, CurrentObjectInfoPanel.Dimensions.Y / 2),
+                    4 * CurrentObjectInfoPanel.Dimensions.X / 5,
+                    Color.White,
+                    shipModName + " Description");
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, name);
+
+                int cost = shipModData.Cost;
+                if (PlayerShip.Sensors != null)
+                {
+                    cost -= PlayerShip.Sensors.SensorData.Cost / 2;
+                }
+                string costString = cost.ToString();
+
+                Text costText = new Text(
+                    costString,
+                    new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 5),
+                    Color.White,
+                    "Cost");
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(costText, descriptionText);
+
+                Image moneyImage = new Image(
+                    "Sprites/UI/Thumbnails/MoneyThumbnail",
+                    new Vector2(-costText.TextOrigin.X - 20, 0),
+                    new Vector2(1, 1),
+                    Color.Cyan,
+                    "Cost Thumbnail");
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(moneyImage, costText);
+
+                Button buyButton = new Button(
+                    "XML/UI/Buttons/MenuButton",
+                    new Vector2(costText.TextOrigin.X + CurrentObjectInfoPanel.Dimensions.X / 3, 0),
+                    Button.defaultColour,
+                    Button.highlightedColour,
+                    shipModName + " " + costString,
+                    "Purchase");
+                buyButton.InteractEvent += BuyShipModEvent;
+                buyButton.EnableAndDisableEvent += SameShipModPurchaseActivationEvent;
+                CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(buyButton, costText);
+            }
         }
 
         #endregion
@@ -1257,6 +1314,27 @@ namespace ToGalaxy.Screens.Menu_Screens
 
                 PlayerShip.ShipData.SensorName = strings[0];
                 PlayerShip.LoadSensors(ScreenManager.Content);
+                DisplayCurrentShipInformation();
+
+                Text currentMoney = (Text)GetScreenUIElement("Current Money");
+                if (currentMoney != null)
+                {
+                    currentMoney.ChangeText(ExtendedScreenManager.Session.Money.ToString());
+                }
+            }
+        }
+
+        private void BuyShipModEvent(object sender, EventArgs e)
+        {
+            Button button = sender as Button;
+            if (button != null)
+            {
+                string[] strings = button.Name.Split(' ');
+
+                ExtendedScreenManager.Session.AddMoney(-Convert.ToInt32(strings[1]));
+
+                PlayerShip.ShipData.ShipModNames.Add(strings[0]);
+                PlayerShip.LoadShipMods(ScreenManager.Content);
                 DisplayCurrentShipInformation();
 
                 Text currentMoney = (Text)GetScreenUIElement("Current Money");
@@ -1493,6 +1571,34 @@ namespace ToGalaxy.Screens.Menu_Screens
                     {
                         buyButton.Activate();
                         SufficientMoneyActivationEvent(sender, e);
+                    }
+                    else
+                    {
+                        buyButton.DisableAndHide();
+                    }
+                }
+            }
+        }
+
+        private void SameShipModPurchaseActivationEvent(object sender, EventArgs e)
+        {
+            Button buyButton = sender as Button;
+            if (buyButton != null)
+            {
+                Text objectName = (Text)CurrentObjectInfoPanel.GetScreenUIElement("Name");
+                if (objectName != null)
+                {
+                    if (PlayerShip.ShipData.ShipModNames.Count < PlayerShip.ShipData.ShipModSlots)
+                    {
+                        if (!PlayerShip.ShipData.ShipModNames.Contains(buyButton.Name.Split(' ')[0]))
+                        {
+                            buyButton.Activate();
+                            SufficientMoneyActivationEvent(sender, e);
+                        }
+                        else
+                        {
+                            buyButton.DisableAndHide();
+                        }
                     }
                     else
                     {

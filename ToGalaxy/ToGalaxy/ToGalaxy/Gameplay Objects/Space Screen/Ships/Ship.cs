@@ -363,6 +363,8 @@ namespace ToGalaxy.Gameplay_Objects
         {
             if (ShipData.ShipModSlots > 0)
             {
+                ShipMods.Clear();
+
                 for (int i = 0; i < ShipData.ShipModNames.Count; i++)
                 {
                     if (i < ShipData.ShipModSlots)
