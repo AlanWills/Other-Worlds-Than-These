@@ -963,7 +963,6 @@ C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\T
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb
-C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflector.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb
@@ -1055,3 +1054,9 @@ C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\T
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\UpgradedShieldGenerator.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AdvancedOptics.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflectorShield.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene4.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ComRelay.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb
+C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb

@@ -1761,8 +1761,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Shields\FiniteChargeDeflector.xml">
-      <Name>FiniteChargeDeflector</Name>
+    <Compile Include="XML\Shields\FiniteChargeDeflectorShield.xml">
+      <Name>FiniteChargeDeflectorShield</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
     </Compile>
@@ -2063,6 +2063,41 @@
       <Name>EmergencyTemporalShift</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xml">
+      <Name>IntroTextCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Cut Scenes\Level Data\IntroCutScene4.xml">
+      <Name>IntroCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sprites\Space Objects\Space Stations\ComRelay.png">
+      <Name>ComRelay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sprites\Space Objects\Space Stations\ConstructionRig.png">
+      <Name>ConstructionRig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sprites\Space Objects\Space Stations\NavBuoy.png">
+      <Name>NavBuoy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />

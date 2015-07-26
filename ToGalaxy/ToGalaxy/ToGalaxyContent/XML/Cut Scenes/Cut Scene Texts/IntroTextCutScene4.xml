@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[string]">
+    <Item>J'hal System</Item>
+    <Item>12 light years from home</Item>
+    <Item>The news of the annihilation of the 8th fleet has just reached the J'henna station</Item>
+  </Asset>
+</XnaContent>

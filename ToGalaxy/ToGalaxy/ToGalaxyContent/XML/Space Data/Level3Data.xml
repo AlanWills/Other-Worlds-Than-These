@@ -31,7 +31,8 @@
       0 0
     </PresetObjectsPositions>
     <Exit></Exit>
-    <Description>You finally make it to UIN Outpost Turin - one of a chain of battle stations bordering your home system.  Here is the chance to outfit and re-supply your vessel.</Description>
+    <MustActivateObjects></MustActivateObjects>
+    <Description>You finally arrive in the Arno system, only to find it swarming with pirates.  The UIN Outpost Turin is one of a chain of battle stations bordering your home system and is heavily armed to deal with enemy incursions.  You must take on the pirates and make it there at ALL costs.</Description>
     <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/cargo_loading</LevelThumbnailAsset>
   </Asset>
 </XnaContent>

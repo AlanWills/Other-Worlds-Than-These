@@ -50,6 +50,7 @@ namespace ToGalaxy.Screens.Menu_Screens
         {
             ExtendedScreenManager = screenManager;
             PlayerShip = ExtendedScreenManager.Session.PlayerShip;
+            ScreenManager.Camera.SetFixedScreenCamera(true);
 
             UpgradePanels = new Dictionary<string, Panel>();
         }
@@ -1189,15 +1190,8 @@ namespace ToGalaxy.Screens.Menu_Screens
                     shipModName + " Description");
                 CurrentObjectInfoPanel.LoadAndAddUIElementRelativeTo(descriptionText, activeOrPassiveText);
 
-                int cost = shipModData.Cost;
-                if (PlayerShip.Sensors != null)
-                {
-                    cost -= PlayerShip.Sensors.SensorData.Cost / 2;
-                }
-                string costString = cost.ToString();
-
                 Text costText = new Text(
-                    costString,
+                    shipModData.Cost.ToString(),
                     new Vector2(-CurrentObjectInfoPanel.Dimensions.X / 8, CurrentObjectInfoPanel.Dimensions.Y / 4),
                     Color.White,
                     "Cost");
@@ -1216,7 +1210,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                     new Vector2(costText.TextOrigin.X + CurrentObjectInfoPanel.Dimensions.X / 3, 0),
                     Button.defaultColour,
                     Button.highlightedColour,
-                    shipModName + " " + costString,
+                    shipModName + " " + shipModData.Cost,
                     "Purchase");
                 buyButton.InteractEvent += BuyShipModEvent;
                 buyButton.EnableAndDisableEvent += SameShipModPurchaseActivationEvent;

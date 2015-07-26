@@ -146,8 +146,15 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                 {
                     if (SpaceScreenData.PresetObjectsNames[i] == SpaceScreenData.Exit)
                     {
-                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i], Keys.Enter);
+                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
                         interactablePresetObject.InteractEvent += PlayerExitEvent;
+
+                        LoadAndAddObject(interactablePresetObject);
+                    }
+                    else if (SpaceScreenData.MustActivateObjects.Contains(SpaceScreenData.PresetObjectsNames[i]))
+                    {
+                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
+                        interactablePresetObject.InteractEvent += ActivateObjectEvent;
 
                         LoadAndAddObject(interactablePresetObject);
                     }
@@ -481,11 +488,30 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             GameObject exit = sender as GameObject;
             if (exit != null)
             {
-                if ((PlayerShip.Position - exit.Position).Length() < Math.Max(exit.Bounds.Width, exit.Bounds.Height) + 30)
+                if (SpaceScreenData.MustActivateObjects.Count == 0)
                 {
-                    ExtendedScreenManager.Session.SetCurrentLevel(ExtendedScreenManager.Session.CurrentLevel + 1);
-                    ExtendedScreenManager.LoadAndAddScreen(new ShipUpgradeScreen(ExtendedScreenManager, "XML/Menu Screens/ShipUpgradeScreen"));
-                    this.Die();
+                    if ((PlayerShip.Position - exit.Position).Length() < Math.Max(exit.Bounds.Width, exit.Bounds.Height) + 30)
+                    {
+                        ExtendedScreenManager.Session.SetCurrentLevel(ExtendedScreenManager.Session.CurrentLevel + 1);
+                        ExtendedScreenManager.LoadAndAddScreen(new ShipUpgradeScreen(ExtendedScreenManager, "XML/Menu Screens/ShipUpgradeScreen"));
+                        this.Die();
+                    }
+                }
+            }
+        }
+
+        private void ActivateObjectEvent(object sender, EventArgs e)
+        {
+            GameObject activateableObject = sender as GameObject;
+            if (activateableObject != null)
+            {
+                if ((PlayerShip.Position - activateableObject.Position).Length() < Math.Max(activateableObject.Bounds.Width, activateableObject.Bounds.Height) + 30)
+                {
+                    string[] name = activateableObject.DataAsset.Split('/');
+                    if (SpaceScreenData.MustActivateObjects.Contains(name[name.Length - 2] + "/" + name.Last()))
+                    {
+                        SpaceScreenData.MustActivateObjects.Remove(name[name.Length - 2] + "/" + name.Last());
+                    }
                 }
             }
         }

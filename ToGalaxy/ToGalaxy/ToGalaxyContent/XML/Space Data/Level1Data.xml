@@ -22,15 +22,15 @@
       <Item>Gnat</Item>
     </EnemiesNames>
     <EnemiesPositions>
-      100 100
-      130 110
-      160 105
+      0 100
+      130 1000
+      500 2000
       2000 900
-      2300 870
-      2200 800
+      2300 0
+      3000 800
       -1000 -1000
-      -1000 -1300
-      -1200 -1200
+      -1800 -300
+      -2500 -200
     </EnemiesPositions>
     <RandomObjectsNames>
       <Item>Asteroids/TinyAsteroid</Item>
@@ -46,12 +46,17 @@
     </RandomObjectsProbability>
     <PresetObjectsNames>
       <Item>Space Stations/Hypergate</Item>
+      <Item>Space Stations/ComRelay</Item>
     </PresetObjectsNames>
     <PresetObjectsPositions>
       -5000 -3000
+      2500 2200
     </PresetObjectsPositions>
     <Exit>Space Stations/Hypergate</Exit>
-    <Description>After departing UIN station J'henna, your hyperspace malfunctions leaving you stranded on the outskirts of the J'hal system.</Description>
+    <MustActivateObjects>
+      <Item>Space Stations/ComRelay</Item>
+    </MustActivateObjects>
+    <Description>After departing UIN station J'henna, your hyperspace malfunctions leaving you stranded on the outskirts of the J'hal system.  Pirate presence here is small, but you have no warp capabilities.  You must find another way to reach Turin station before it is too late.</Description>
     <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/exiting_hyperspace</LevelThumbnailAsset>
   </Asset>
 </XnaContent>

@@ -54,23 +54,18 @@ namespace ToGalaxy.Screens
             private set;
         }
 
-        private bool gamePlayScreensActive = false;
         private bool GamePlayScreensActive
         {
             get
             {
-                return gamePlayScreensActive && GamePlayScreensInitialized;
-            }
-            set
-            {
+                bool gamePlayScreensActive = false;
+
                 if (GamePlayScreensInitialized && SpaceScreen.ScreenState != ScreenState.Dead && SensorsScreen.ScreenState != ScreenState.Dead)
                 {
-                    gamePlayScreensActive = value;
+                    gamePlayScreensActive = true;
                 }
-                else
-                {
-                    gamePlayScreensActive = false;
-                }
+
+                return gamePlayScreensActive && GamePlayScreensInitialized;
             }
         }
 
@@ -226,7 +221,6 @@ namespace ToGalaxy.Screens
             // ShipInteriorScreen.ScreenState = ScreenState.Hidden;
             SensorsScreen.ScreenState = ScreenState.Hidden;
             SpaceScreen.ScreenState = ScreenState.Active;
-            GamePlayScreensActive = true;
         }
     }
 }

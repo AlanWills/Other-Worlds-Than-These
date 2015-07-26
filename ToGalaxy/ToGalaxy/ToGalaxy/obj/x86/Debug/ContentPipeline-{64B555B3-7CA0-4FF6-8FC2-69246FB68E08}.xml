@@ -1820,13 +1820,40 @@
       <Time>2015-07-23T16:25:50.3205698+01:00</Time>
     </Item>
     <Item>
+      <Source>Sprites\Space Objects\Space Stations\ComRelay.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\ComRelay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ComRelay.xnb</Output>
+      <Time>2015-07-26T22:30:53.7502537+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\ConstructionRig.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\ConstructionRig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb</Output>
+      <Time>2015-07-26T22:30:57.8439714+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\NavBuoy.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\NavBuoy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb</Output>
+      <Time>2015-07-26T22:31:05.9883737+01:00</Time>
+    </Item>
+    <Item>
       <Source>XML\Space Data\Level1Data.xml</Source>
       <Name>XML\Space Data\Level1Data</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level1Data.xnb</Output>
-      <Time>2015-07-26T16:47:45.8942236+01:00</Time>
+      <Time>2015-07-26T22:33:31.7512137+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Crew\HumanCrewMember.xml</Source>
@@ -1952,7 +1979,7 @@
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level2Data.xnb</Output>
-      <Time>2015-07-26T14:06:54.6026089+01:00</Time>
+      <Time>2015-07-26T23:23:50.9174608+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Engines\SmallImpulseEngine.xml</Source>
@@ -2249,7 +2276,7 @@
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
-      <Time>2015-07-25T20:50:20.2883949+01:00</Time>
+      <Time>2015-07-26T18:59:55.7838943+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Ships\Gnat.xml</Source>
@@ -2387,12 +2414,12 @@
       <Time>2015-07-23T22:51:46.6713718+01:00</Time>
     </Item>
     <Item>
-      <Source>XML\Shields\FiniteChargeDeflector.xml</Source>
-      <Name>XML\Shields\FiniteChargeDeflector</Name>
+      <Source>XML\Shields\FiniteChargeDeflectorShield.xml</Source>
+      <Name>XML\Shields\FiniteChargeDeflectorShield</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflector.xnb</Output>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflectorShield.xnb</Output>
       <Time>2015-07-22T16:26:56.9571628+01:00</Time>
     </Item>
     <Item>
@@ -2456,7 +2483,7 @@
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level3Data.xnb</Output>
-      <Time>2015-07-26T14:06:51.8137571+01:00</Time>
+      <Time>2015-07-26T23:19:40.316902+01:00</Time>
     </Item>
     <Item>
       <Source>XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xml</Source>
@@ -2619,6 +2646,24 @@
       <Options>None</Options>
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb</Output>
       <Time>2015-07-26T13:32:38.3196635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xml</Source>
+      <Name>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xnb</Output>
+      <Time>2015-07-26T21:53:16.9963269+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\IntroCutScene4.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\IntroCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene4.xnb</Output>
+      <Time>2015-07-26T21:53:37.8851928+01:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Weapons\autocannon_fire_01.wav</Source>
@@ -2954,7 +2999,7 @@
     <Assemblies>
       <Assembly>
         <Key>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll</Key>
-        <Value>2015-07-26T14:27:12.6990331+01:00</Value>
+        <Value>2015-07-26T22:48:56.0963047+01:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>

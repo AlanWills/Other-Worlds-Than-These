@@ -15,7 +15,7 @@
       <Item>BarrakudaMissileBattery</Item>
       <Item>BarrakudaMissileBattery</Item>
     </TurretNames>
-    <ShieldAsset>AlternatingFrequencyDeflectorShield</ShieldAsset>
+    <ShieldAsset>HighDensityPhaseShield</ShieldAsset>
     <Armour>20</Armour>
     <Hull>30</Hull>
     <Mass>950</Mass>

@@ -68,6 +68,12 @@ namespace ToGalaxyCustomData
             set;
         }
 
+        public List<string> MustActivateObjects
+        {
+            get;
+            set;
+        }
+
         public string Description
         {
             get;

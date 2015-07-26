@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShieldData">
+    <Name>Finite Charge Deflector Shield</Name>
+    <TextureAsset>Sprites/Shields/StandardShield</TextureAsset>
+    <Strength>300</Strength>
+    <RechargePerSecond>0</RechargePerSecond>
+    <RechargeDelay>0</RechargeDelay>
+    <DepletionDelay>0</DepletionDelay>
+    <Colour>0 0 0.5 0</Colour>
+    <Description>A specialist shield which is so strong that it draws too much power from the ship's reactor to recharge.</Description>
+    <Cost>2500</Cost>
+  </Asset>
+</XnaContent>

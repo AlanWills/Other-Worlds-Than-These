@@ -18,13 +18,13 @@ namespace ToGalaxyGameLibrary.Game_Objects
             set;
         }
 
-        public InteractableGameObject(string dataAsset, Keys key)
+        public InteractableGameObject(string dataAsset, Keys key = Keys.Enter)
             : base(dataAsset)
         {
             InteractKey = key;
         }
 
-        public InteractableGameObject(string dataAsset, Vector2 position, Keys key)
+        public InteractableGameObject(string dataAsset, Vector2 position, Keys key = Keys.Enter)
             : base(dataAsset, position)
         {
             InteractKey = key;

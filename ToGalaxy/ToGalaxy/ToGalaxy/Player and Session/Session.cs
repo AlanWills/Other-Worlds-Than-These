@@ -30,7 +30,7 @@ namespace ToGalaxy.Player_and_Session
 
         public Session()
         {
-            CurrentLevel = 1;
+            CurrentLevel = 3;
             Money = 300000;
         }
 

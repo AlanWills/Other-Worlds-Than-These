@@ -98,10 +98,12 @@
     <Compile Include="Screens\Cut Scene Screens\Cut Scenes\IntroCutScene1.cs" />
     <Compile Include="Screens\Cut Scene Screens\Cut Scenes\IntroCutScene2.cs" />
     <Compile Include="Screens\Cut Scene Screens\Cut Scenes\IntroCutScene3.cs" />
+    <Compile Include="Screens\Cut Scene Screens\Cut Scenes\IntroCutScene4.cs" />
     <Compile Include="Screens\Cut Scene Screens\Text Cut Scenes\IntroTextCutScene1.cs" />
     <Compile Include="Screens\Cut Scene Screens\SpaceScreenCutScene.cs" />
     <Compile Include="Screens\Cut Scene Screens\Text Cut Scenes\IntroTextCutScene2.cs" />
     <Compile Include="Screens\Cut Scene Screens\Text Cut Scenes\IntroTextCutScene3.cs" />
+    <Compile Include="Screens\Cut Scene Screens\Text Cut Scenes\IntroTextCutScene4.cs" />
     <Compile Include="Screens\ExtendedScreenManager.cs" />
     <Compile Include="Screens\Gameplay Screens\EnemyShip.cs" />
     <Compile Include="Screens\Gameplay Screens\SensorsScreen.cs" />

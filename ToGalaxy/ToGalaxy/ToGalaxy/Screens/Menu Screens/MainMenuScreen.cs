@@ -8,6 +8,7 @@ using System.Text;
 using ToGalaxy.Gameplay_Objects;
 using ToGalaxy.Gameplay_Objects.Space_Screen;
 using ToGalaxy.Screens.Cut_Scene_Screens;
+using ToGalaxy.Screens.Cut_Scene_Screens.Cut_Scenes;
 using ToGalaxy.Screens.Cut_Scene_Screens.Text_Cut_Scenes;
 using ToGalaxyGameLibrary.Game_Objects;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
@@ -110,6 +111,7 @@ namespace ToGalaxy.Screens.Menu_Screens
         private void NewGameEvent(object sender, EventArgs e)
         {
             ExtendedScreenManager.LoadAndAddScreen(new ShipUpgradeScreen(ExtendedScreenManager, "XML/Menu Screens/ShipUpgradeScreen"));
+            // ExtendedScreenManager.LoadAndAddScreen(new IntroCutScene4(ExtendedScreenManager));
             Die();
         }
 
