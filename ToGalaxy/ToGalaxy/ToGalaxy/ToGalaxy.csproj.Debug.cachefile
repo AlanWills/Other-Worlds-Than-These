@@ -318,6 +318,10 @@ Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb
 Content\XML\Ship Mods\Utility\NavigationComputer.xnb
 Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb
 Content\XML\Ship Mods\Defensive\HardenedShields.xnb
+Content\XML\Ship Mods\Defensive\EmergencyShieldGenerator.xnb
+Content\XML\Ship Mods\Defensive\UpgradedShieldGenerator.xnb
+Content\XML\Ship Mods\Utility\AdvancedOptics.xnb
+Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb
 Content\Music\Ambient Music\Please, answer me my friend.wma
 Content\Music\Menu Music\Other worlds than these.wma
 Content\Music\Ambient Music\I didn't do it.wma

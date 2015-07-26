@@ -24,10 +24,17 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             set;
         }
 
+        public float RangeMultiplier
+        {
+            get;
+            set;
+        }
+
         public Sensor(string dataAsset, GameObject parentGameObject)
             : base(dataAsset, parentGameObject.Position)
         {
             ParentGameObject = parentGameObject;
+            RangeMultiplier = 1;
         }
 
         public override void LoadContent(ContentManager content)

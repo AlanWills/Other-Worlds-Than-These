@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Emergency Temporal Shift</Name>
+    <TextureAsset>Sprites/Ship Mods/augmented_engines</TextureAsset>
+    <ModFunctionName>Emergency Temporal Shift</ModFunctionName>
+    <Type>Utility</Type>
+    <Active>true</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>45</Cooldown>
+    <Cost>5000</Cost>
+    <Description>A rather risky and untested mod that is only available on the black market.  Activate to engage a prototype warp core that will instantly transport your ship to a random location on the map.  Great for escaping fights.</Description>
+  </Asset>
+</XnaContent>

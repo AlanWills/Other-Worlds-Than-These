@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using ToGalaxy.Gameplay_Objects;
 using ToGalaxy.Gameplay_Objects.Space_Screen;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager;
 
 namespace ToGalaxy
 {
@@ -29,6 +30,10 @@ namespace ToGalaxy
             ModEvents.Add("Auto Movement", AutoMovementEvent);
             ModEvents.Add("Inertial Dampeners", InertialDampenersEvent);
             ModEvents.Add("Passive Shield Strength Increase", PassiveIncreaseShieldStrengthEvent);
+            ModEvents.Add("Shield Strength Increase", IncreaseShieldStrengthEvent);
+            ModEvents.Add("Passive Shield Restore Rate Increase", PassiveIncreaseShieldRestoreRate);
+            ModEvents.Add("Passive Sensor Range Increase", PassiveIncreaseSensorRange);
+            ModEvents.Add("Emergency Temporal Shift", EmergencyTemporalShiftEvent);
         }
 
         #region Offensive
@@ -91,6 +96,28 @@ namespace ToGalaxy
             }
         }
 
+        private static void PassiveIncreaseShieldRestoreRate(Ship ship, bool finishedRunning, float timeSinceActivation)
+        {
+            if (ship.Shield != null)
+            {
+                ship.Shield.regenTimer *= 1.2f;
+                ship.Shield.chargeDelayTimer *= 0.9f;
+                ship.Shield.timeSinceDamageTaken *= 1.2f;
+            }
+        }
+
+        private static void IncreaseShieldStrengthEvent(Ship ship, bool finishedRunning, float timeSinceActivation)
+        {
+            if (ship.Shield != null)
+            {
+                if (!finishedRunning)
+                {
+                    ship.Shield.ShieldStrength += (int)(timeSinceActivation * ship.Shield.ShieldData.Strength / 20f);
+                    ship.Shield.ShieldStrength = Math.Min(ship.Shield.ShieldStrength, ship.Shield.ShieldData.Strength);
+                }
+            }
+        }
+
         #endregion
 
         #region Utility
@@ -126,6 +153,25 @@ namespace ToGalaxy
             if (!finishedRunning)
             {
                 ship.InterialDampeners = !ship.InterialDampeners;
+            }
+        }
+
+        private static void PassiveIncreaseSensorRange(Ship ship, bool finishedRunning, float timeSinceActivation)
+        {
+            if (ship.Sensors != null)
+            {
+                ship.Sensors.RangeMultiplier = 1.5f;
+            }
+        }
+
+        private static void EmergencyTemporalShiftEvent(Ship ship, bool finishedRunning, float timeSinceActivation)
+        {
+            if (!finishedRunning)
+            {
+                Random random = new Random();
+
+                ship.SetPosition(new Vector2(random.Next(-3000, 3000), random.Next(-3000, 3000)));
+                ship.SetDestination(ship.Position);
             }
         }
 

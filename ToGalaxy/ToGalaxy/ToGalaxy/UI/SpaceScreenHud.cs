@@ -71,7 +71,7 @@ namespace ToGalaxy.UI
                     "XML/UI/Sensors/SensorsUI",
                     Vector2.Zero,
                     SpaceScreen,
-                    SpaceScreen.PlayerShip.Sensors.SensorData.Range,
+                    (int)(SpaceScreen.PlayerShip.Sensors.SensorData.Range * SpaceScreen.PlayerShip.Sensors.RangeMultiplier),
                     Color.White,
                     "Sensors UI",
                     0.7f);

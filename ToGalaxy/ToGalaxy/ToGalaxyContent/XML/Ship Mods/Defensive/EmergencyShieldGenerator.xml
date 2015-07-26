@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Emergency Shield Generator</Name>
+    <TextureAsset>Sprites/Ship Mods/omni_shield_emitter</TextureAsset>
+    <ModFunctionName>Shield Strength Increase</ModFunctionName>
+    <Type>Defensive</Type>
+    <Active>true</Active>
+    <RunTime>5</RunTime>
+    <Cooldown>28</Cooldown>
+    <Cost>1700</Cost>
+    <Description>Installing an emergency shield generator allows extra power to be diverted to the emitter.  This provides a temporary boost to the current strength of the shields.</Description>
+  </Asset>
+</XnaContent>

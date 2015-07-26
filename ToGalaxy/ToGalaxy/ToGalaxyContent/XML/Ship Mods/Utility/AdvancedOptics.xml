@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Advanced Optics</Name>
+    <TextureAsset>Sprites/Ship Mods/advanced_optics</TextureAsset>
+    <ModFunctionName>Passive Sensor Range Increase</ModFunctionName>
+    <Type>Utility</Type>
+    <Active>false</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>0</Cooldown>
+    <Cost>2000</Cost>
+    <Description>By installing the latest nano-fibre optic technology the range of the ship's sensors are permanently increased.  REQUIRES SENSORS</Description>
+  </Asset>
+</XnaContent>

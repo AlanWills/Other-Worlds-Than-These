@@ -2903,6 +2903,42 @@
       <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\HardenedShields.xnb</Output>
       <Time>2015-07-25T22:12:01.8942529+01:00</Time>
     </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\EmergencyShieldGenerator.xml</Source>
+      <Name>XML\Ship Mods\Defensive\EmergencyShieldGenerator</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\EmergencyShieldGenerator.xnb</Output>
+      <Time>2015-07-26T12:01:51.238709+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\UpgradedShieldGenerator.xml</Source>
+      <Name>XML\Ship Mods\Defensive\UpgradedShieldGenerator</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\UpgradedShieldGenerator.xnb</Output>
+      <Time>2015-07-26T12:24:54.7468996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\AdvancedOptics.xml</Source>
+      <Name>XML\Ship Mods\Utility\AdvancedOptics</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AdvancedOptics.xnb</Output>
+      <Time>2015-07-26T12:35:35.1353656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\EmergencyTemporalShift.xml</Source>
+      <Name>XML\Ship Mods\Utility\EmergencyTemporalShift</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb</Output>
+      <Time>2015-07-26T13:32:38.3196635+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}</ContentProjectGUID>

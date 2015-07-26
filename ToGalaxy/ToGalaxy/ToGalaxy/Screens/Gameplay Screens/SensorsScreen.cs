@@ -92,7 +92,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         private void UpdateUI()
         {
-            float range = SpaceScreen.PlayerShip.Sensors != null ? SpaceScreen.PlayerShip.Sensors.SensorData.Range : SpaceScreen.PlayerShip.MinimumTurretRange;
+            float range = SpaceScreen.PlayerShip.Sensors != null ? SpaceScreen.PlayerShip.Sensors.SensorData.Range * SpaceScreen.PlayerShip.Sensors.RangeMultiplier : SpaceScreen.PlayerShip.MinimumTurretRange;
 
             foreach (GameObject gameObject in SpaceScreen.Objects)
             {

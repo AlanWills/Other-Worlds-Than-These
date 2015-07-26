@@ -38,7 +38,7 @@ namespace ToGalaxy.Gameplay_Objects
         public int ShieldStrength
         {
             get;
-            private set;
+            set;
         }
 
         public float ShieldStrengthMultiplier
@@ -67,8 +67,7 @@ namespace ToGalaxy.Gameplay_Objects
         }
 
         private const float resetOpacity = 0.1f;
-        private float timeSinceDamageTaken = 0;
-        public float chargeDelayTimer = 0, regenTimer = 0;
+        public float chargeDelayTimer = 0, regenTimer = 0, timeSinceDamageTaken = 0;
 
         public Shield(string dataAsset, Vector2 startingPosition, Ship parentShip)
             : base(dataAsset, startingPosition)

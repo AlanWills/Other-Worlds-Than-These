@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.ShipModData">
+    <Name>Upgraded Shield Generator</Name>
+    <TextureAsset>Sprites/Ship Mods/front_shield_generator</TextureAsset>
+    <ModFunctionName>Passive Shield Restore Rate Increase</ModFunctionName>
+    <Type>Defensive</Type>
+    <Active>false</Active>
+    <RunTime>0</RunTime>
+    <Cooldown>0</Cooldown>
+    <Cost>2000</Cost>
+    <Description>By upgrading the shield generator, restore rates are passively increased and the time taken to recharge or restore are reduced slightly.</Description>
+  </Asset>
+</XnaContent>

@@ -682,9 +682,9 @@ namespace ToGalaxy.Gameplay_Objects
                     foreach (Ship ship in objects)
                     {
                         float range = ship.MinimumTurretRange;
-                        if (Sensors != null && Sensors.SensorData.Range > ship.MinimumTurretRange)
+                        if (Sensors != null && Sensors.SensorData.Range * Sensors.RangeMultiplier > ship.MinimumTurretRange)
                         {
-                            range = Sensors.SensorData.Range;
+                            range = Sensors.SensorData.Range * Sensors.RangeMultiplier;
                         }
 
                         if ((Position - ship.Position).Length() <= range)
@@ -734,9 +734,9 @@ namespace ToGalaxy.Gameplay_Objects
                     foreach (Ship ship in objects)
                     {
                         float range = ship.MinimumTurretRange;
-                        if (Sensors != null && Sensors.SensorData.Range > ship.MinimumTurretRange)
+                        if (Sensors != null && Sensors.SensorData.Range * Sensors.RangeMultiplier > ship.MinimumTurretRange)
                         {
-                            range = Sensors.SensorData.Range;
+                            range = Sensors.SensorData.Range * Sensors.RangeMultiplier;
                         }
 
                         if ((Position - ship.Position).Length() <= range)
