@@ -17,6 +17,7 @@ namespace ToGalaxy
 {
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+    //test commit please ignore
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         ExtendedScreenManager screenManager;
