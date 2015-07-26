@@ -62,6 +62,12 @@ namespace ToGalaxyCustomData
             set;
         }
 
+        public string Exit
+        {
+            get;
+            set;
+        }
+
         public string Description
         {
             get;

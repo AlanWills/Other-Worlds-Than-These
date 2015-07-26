@@ -48,7 +48,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager.Screens
             DialogBox dialogBox = new DialogBox(
                 "",
                 eventArgs.ObjectName,
-                new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2),
+                ScreenManager.ScreenCentre,
                 new Vector2(3 * ScreenManager.Viewport.Width / 4, ScreenManager.Viewport.Height),
                 Color.Black,
                 "Dialog Box",

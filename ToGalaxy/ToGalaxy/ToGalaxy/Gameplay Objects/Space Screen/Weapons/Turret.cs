@@ -250,7 +250,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 }
                 else
                 {
-                    if (Mouse.GetState().RightButton == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(FireKey))
+                    if (Mouse.GetState().RightButton == ButtonState.Pressed || ScreenManager.Input.IsKeyDown(FireKey))
                     {
                         FireBullet();
                     }

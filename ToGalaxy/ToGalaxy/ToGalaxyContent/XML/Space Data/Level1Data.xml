@@ -8,14 +8,29 @@
       <Item>Gnat</Item>
     </RandomEnemiesNames>
     <RandomEncounterProbability>
-      0.06
+      0.01
     </RandomEncounterProbability>
     <EnemiesNames>
       <Item>Gnat</Item>
       <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
     </EnemiesNames>
     <EnemiesPositions>
-      0 100
+      100 100
+      130 110
+      160 105
+      2000 900
+      2300 870
+      2200 800
+      -1000 -1000
+      -1000 -1300
+      -1200 -1200
     </EnemiesPositions>
     <RandomObjectsNames>
       <Item>Asteroids/TinyAsteroid</Item>
@@ -33,8 +48,9 @@
       <Item>Space Stations/Hypergate</Item>
     </PresetObjectsNames>
     <PresetObjectsPositions>
-      -5800 -3000
+      -5000 -3000
     </PresetObjectsPositions>
+    <Exit>Space Stations/Hypergate</Exit>
     <Description>After departing UIN station J'henna, your hyperspace malfunctions leaving you stranded on the outskirts of the J'hal system.</Description>
     <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/exiting_hyperspace</LevelThumbnailAsset>
   </Asset>

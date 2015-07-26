@@ -50,14 +50,10 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         #endregion
 
-        private KeyboardState previousKeyboardState;
-
         public ShipInteriorScreen(ExtendedScreenManager screenManager, string dataAsset)
             : base(screenManager, dataAsset)
         {
             Crew = new List<CrewMember>();
-            previousKeyboardState = Keyboard.GetState();
-
             ScreenState = ScreenState.Hidden;
         }
 
@@ -116,9 +112,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         private void CheckForScreenSwap()
         {
-            KeyboardState keyboardState = Keyboard.GetState();
-
-            if ((keyboardState.IsKeyDown(Keys.F)) && (previousKeyboardState.IsKeyUp(Keys.F)))
+            if ((ScreenManager.Input.IsKeyDown(Keys.F)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.F)))
             {
                 if (ScreenState == ScreenState.Active)
                 {
@@ -130,8 +124,6 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                     ScreenManager.Camera.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2 - Map.Bounds.Center.X, ScreenManager.Viewport.Height / 2 - Map.Bounds.Center.Y));
                 }
             }
-
-            previousKeyboardState = keyboardState;
         }
 
         public override void DrawBackground(SpriteBatch spriteBatch)

@@ -510,8 +510,6 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             {
                 gameObject.Die();
             }
-
-            GameObjects.Clear();
         }
 
         public void Dispose()

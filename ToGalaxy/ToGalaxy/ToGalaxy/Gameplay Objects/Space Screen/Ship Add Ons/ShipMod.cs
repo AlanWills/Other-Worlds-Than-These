@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using ToGalaxyCustomData;
 using ToGalaxyGameLibrary.Game_Objects;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager;
 
 namespace ToGalaxy.Gameplay_Objects.Space_Screen
 {
@@ -49,13 +50,16 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
             {
                 // If it is a passive it is never finished running
                 // If it is active, we check if it has exceeded the running time
-                bool finished = false;
-                if (ShipModData.Active)
+                //bool finished = false;
+                /*if (ShipModData.Active)
                 {
                     finished = TimeSinceActivation > ShipModData.RunTime;
-                }
+                }*/
 
-                return finished;
+                // return finished;
+                // At the moment we are having to implement the passive function once to add the correct amount to the multiplier.
+                // I'm hoping to change it to have the passives running all the time somehow.
+                return TimeSinceActivation > ShipModData.RunTime;
             }
         }
 
@@ -114,7 +118,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 // If it has a key it is for a player ship
                 if (ActivationKey != Keys.None)
                 {
-                    if (Keyboard.GetState().GetPressedKeys().Contains(ActivationKey))
+                    if (ScreenManager.Input.PressedKeys.Contains(ActivationKey))
                     {
                         TimeSinceActivation = 0;
                     }

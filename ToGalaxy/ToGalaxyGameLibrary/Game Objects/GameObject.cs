@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -204,7 +205,7 @@ namespace ToGalaxyGameLibrary.Game_Objects
 
         public virtual void Update(GameTime gameTime)
         {
-            if (Status == GameObjectStatus.Alive)
+            if (IsAlive())
             {
                 if (Velocity.LengthSquared() >= 0.1f)
                 {
@@ -225,7 +226,7 @@ namespace ToGalaxyGameLibrary.Game_Objects
 
         public virtual void CheckMouseInteraction(InGameMouse mouse)
         {
-            if (Status == GameObjectStatus.Alive)
+            if (IsAlive())
             {
                 if (mouse.IsLeftClicked)
                 {

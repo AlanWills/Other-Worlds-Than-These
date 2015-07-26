@@ -63,9 +63,11 @@
     <Compile Include="Audio\MySoundEffect.cs" />
     <Compile Include="Game Objects\AnimatedGameObject.cs" />
     <Compile Include="Game Objects\GameObject.cs" />
+    <Compile Include="Game Objects\InteractableGameObject.cs" />
     <Compile Include="Maths\2DGeometry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Screens and ScreenManager\Camera2D.cs" />
+    <Compile Include="Screens and ScreenManager\Managers\InputManager.cs" />
     <Compile Include="Screens and ScreenManager\Screens\CutSceneScreen.cs" />
     <Compile Include="Screens and ScreenManager\InGameMouse.cs" />
     <Compile Include="Screens and ScreenManager\Managers\MusicManager.cs" />

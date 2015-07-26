@@ -63,7 +63,7 @@ namespace ToGalaxy.Screens
             }
             set
             {
-                if (GamePlayScreensInitialized)
+                if (GamePlayScreensInitialized && SpaceScreen.ScreenState != ScreenState.Dead && SensorsScreen.ScreenState != ScreenState.Dead)
                 {
                     gamePlayScreensActive = value;
                 }
@@ -81,13 +81,11 @@ namespace ToGalaxy.Screens
         }
 
         private float pauseTimer = 0;
-        private KeyboardState previousKeyboardState;
 
         public ExtendedScreenManager(Game game, GraphicsDeviceManager graphicsDeviceManager, ContentManager content, Viewport viewport, Session session)
             : base(game, graphicsDeviceManager, content, viewport)
         {
             Session = session;
-            previousKeyboardState = Keyboard.GetState();
 
             ModFunctionManager.SetUpEvents();
         }
@@ -109,11 +107,9 @@ namespace ToGalaxy.Screens
 
         private void CheckForScreenPause(GameTime gameTime)
         {
-            KeyboardState keyboardState = Keyboard.GetState();
-
             pauseTimer += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
 
-            if ((keyboardState.IsKeyDown(Keys.P)) && (previousKeyboardState.IsKeyUp(Keys.P)))
+            if ((ScreenManager.Input.IsKeyDown(Keys.P)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.P)))
             {
                 if (pauseTimer > 0.2f)
                 {
@@ -144,9 +140,7 @@ namespace ToGalaxy.Screens
 
         private void CheckForScreenSwap()
         {
-            KeyboardState keyboardState = Keyboard.GetState();
-
-            if ((keyboardState.IsKeyDown(Keys.Space)) && (previousKeyboardState.IsKeyUp(Keys.Space)))
+            if ((ScreenManager.Input.IsKeyDown(Keys.Space)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.Space)))
             {
                 if (SpaceScreen.ScreenState == ScreenState.Active)
                 {
@@ -158,11 +152,9 @@ namespace ToGalaxy.Screens
                 {
                     SpaceScreen.ScreenState = ScreenState.Active;
                     SensorsScreen.ScreenState = ScreenState.Hidden;
-                    Camera.SetGameScreenCamera();
-                    Camera.SetPosition(SpaceScreen.PlayerShip.Position);
+                    Camera.SetCameraToFocusOnObject(SpaceScreen.PlayerShip);
                 }
             }
-            previousKeyboardState = keyboardState;
         }
 
         public override void Draw(SpriteBatch spriteBatch)
@@ -204,7 +196,6 @@ namespace ToGalaxy.Screens
         public void AddNewMainMenuScreen()
         {
             LoadAndAddScreen(new MainMenuScreen(this, "XML/Menu Screens/MainMenuScreen"));
-            // LoadAndAddScreen(new IntroTextCutScene1(this));
         }
 
         public void LoadNewGameplayScreens(int currentLevel)

@@ -167,10 +167,10 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 EngineTrail.Play();
                 EngineSoundEffect.Play();
 
-                if (smokeTimer > 0.005f)
+                if (smokeTimer > 0.1f)
                 {
                     AnimatedGameObject smoke = EngineSmoke.Clone();
-                    smoke.SetPosition(EngineTrail.Position + new Vector2(-sinRot * EngineTrail.FrameDimensions.Y * EngineTrail.Scale.Y / 2, cosRot * EngineTrail.FrameDimensions.Y * EngineTrail.Scale.Y / 2));
+                    smoke.SetPosition(EngineTrail.Position + new Vector2(-sinRot * EngineTrail.FrameDimensions.Y * EngineTrail.Scale.Y * 0.5f, cosRot * EngineTrail.FrameDimensions.Y * EngineTrail.Scale.Y * 0.5f));
                     smoke.SetRotation(EngineTrail.Rotation + MathHelper.Pi);
                     SmokeToAdd.Add(smoke);
                     smokeTimer = 0;

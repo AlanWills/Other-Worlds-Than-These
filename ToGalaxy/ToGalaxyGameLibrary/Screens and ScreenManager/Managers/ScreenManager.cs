@@ -9,6 +9,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 using ToGalaxyCustomData;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 
 namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 {
@@ -66,6 +67,12 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             private set;
         }
 
+        public static Vector2 ScreenCentre
+        {
+            get;
+            set;
+        }
+
         public Camera2D Camera
         {
             get;
@@ -73,6 +80,12 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         }
 
         public static InGameMouse Mouse
+        {
+            get;
+            private set;
+        }
+
+        public static InputManager Input
         {
             get;
             private set;
@@ -102,12 +115,14 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             GraphicsDeviceManager = graphicsDeviceManager;
             Content = content;
             Viewport = viewport;
+            ScreenCentre = new Vector2(Viewport.Width * 0.5f, Viewport.Height * 0.5f);
 
             ActiveScreens = new List<Screen>();
             ScreensToAdd = new List<Screen>();
             ScreensToRemove = new List<Screen>();
             Camera = new Camera2D(this);
             Mouse = new InGameMouse(this);
+            Input = new InputManager();
             Music = new MusicManager("Music");
             SoundEffects = new SoundEffectManager("Sounds");
         }
@@ -124,6 +139,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             Music.Update();
             Camera.Update();
             Mouse.Update(gameTime);
+            Input.Update();
 
             foreach (Screen screen in ScreensToAdd)
             {

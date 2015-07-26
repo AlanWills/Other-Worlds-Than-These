@@ -414,7 +414,7 @@ namespace ToGalaxy.Screens.Menu_Screens
         {
             base.Update(gameTime);
 
-            if (Keyboard.GetState().IsKeyDown(Keys.Escape))
+            if (ScreenManager.Input.IsKeyDown(Keys.Escape))
             {
                 ExtendedScreenManager.AddNewMainMenuScreen();
                 Die();

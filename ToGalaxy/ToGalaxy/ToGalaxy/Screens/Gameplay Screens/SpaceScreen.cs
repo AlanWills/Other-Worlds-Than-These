@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using ToGalaxy.Gameplay_Objects;
 using ToGalaxy.Gameplay_Objects.Space_Screen;
+using ToGalaxy.Screens.Menu_Screens;
 using ToGalaxy.UI;
 using ToGalaxyCustomData;
 using ToGalaxyGameLibrary.Game_Objects;
@@ -101,13 +102,13 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             PlayerShip = ExtendedScreenManager.Session.PlayerShip;
             PlayerShip.SetUpTurretSpawnPools();
             PlayerShip.SetUpShipUI(ScreenManager.Content);
-            PlayerShip.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2));
+            PlayerShip.SetPosition(ScreenManager.ScreenCentre);
             PlayerShip.MoveOrder(PlayerShip.Position);
 
             AddGameObject(PlayerShip);
             AddSensorImage(PlayerShip);
 
-            ExtendedScreenManager.Camera.SetGameScreenCamera();
+            ExtendedScreenManager.Camera.SetCameraToFocusOnObject(PlayerShip);
         }
 
         private void SetUpStartingEnemies()
@@ -143,9 +144,19 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             {
                 if (i < SpaceScreenData.PresetObjectsPositions.Count)
                 {
-                    GameObject presetObject = new GameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
+                    if (SpaceScreenData.PresetObjectsNames[i] == SpaceScreenData.Exit)
+                    {
+                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i], Keys.Enter);
+                        interactablePresetObject.InteractEvent += PlayerExitEvent;
 
-                    LoadAndAddObject(presetObject);
+                        LoadAndAddObject(interactablePresetObject);
+                    }
+                    else
+                    {
+                        GameObject presetObject = new GameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
+
+                        LoadAndAddObject(presetObject);
+                    }
                 }
             }
         }
@@ -184,8 +195,8 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             HUD = new SpaceScreenHud(
                 "",
                 this,
-                new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2),
-                new Vector2(ScreenManager.Viewport.Width, ScreenManager.Viewport.Height),
+                ScreenManager.ScreenCentre,
+                2 * ScreenManager.ScreenCentre,
                 Color.White,
                 "HUD");
             AddScreenUIElement(HUD);
@@ -464,5 +475,19 @@ namespace ToGalaxy.Screens.Gameplay_Screens
         }
 
         #endregion
+
+        private void PlayerExitEvent(object sender, EventArgs e)
+        {
+            GameObject exit = sender as GameObject;
+            if (exit != null)
+            {
+                if ((PlayerShip.Position - exit.Position).Length() < Math.Max(exit.Bounds.Width, exit.Bounds.Height) + 30)
+                {
+                    ExtendedScreenManager.Session.SetCurrentLevel(ExtendedScreenManager.Session.CurrentLevel + 1);
+                    ExtendedScreenManager.LoadAndAddScreen(new ShipUpgradeScreen(ExtendedScreenManager, "XML/Menu Screens/ShipUpgradeScreen"));
+                    this.Die();
+                }
+            }
+        }
     }
 }

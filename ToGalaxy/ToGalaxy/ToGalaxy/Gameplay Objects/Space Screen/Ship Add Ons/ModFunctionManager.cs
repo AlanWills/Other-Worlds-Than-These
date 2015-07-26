@@ -126,11 +126,18 @@ namespace ToGalaxy
         {
             if (!finishedRunning)
             {
-                ship.SpeedMultiplier = 3f;
+                ship.SpeedMultiplier = 5f;
             }
             else
             {
-                ship.SpeedMultiplier = 1f;
+                if (ship.ShipData.ShipModNames.Contains("Utility/FluxResistantConduits"))
+                {
+                    ship.SpeedMultiplier = 1.25f;
+                }
+                else
+                {
+                    ship.SpeedMultiplier = 1f;
+                }
             }
         }
 
@@ -160,7 +167,10 @@ namespace ToGalaxy
         {
             if (ship.Sensors != null)
             {
-                ship.Sensors.RangeMultiplier = 1.5f;
+                if (!finishedRunning)
+                {
+                    ship.Sensors.RangeMultiplier += 0.5f;
+                }
             }
         }
 

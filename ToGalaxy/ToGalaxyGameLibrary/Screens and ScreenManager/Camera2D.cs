@@ -98,7 +98,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         #region Functions for Setting Camera Type
 
         // Used for space screen - default camera is manual movement using arrow keys/mouse
-        public void SetGameScreenCamera()
+        public void SetManualCamera()
         {
             CameraType = CameraType.Manual;
         }
@@ -142,8 +142,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         {
             if (CameraType == CameraType.Focused)
             {
-                KeyboardState keyboardState = Keyboard.GetState();
-                if (keyboardState.IsKeyDown(Keys.PageUp))
+                if (ScreenManager.Input.IsKeyDown(Keys.PageUp))
                 {
                     Zoom -= 0.01f;
                     if (Zoom < 0.75f)
@@ -151,7 +150,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
                         Zoom = 0.75f;
                     }
                 }
-                if (keyboardState.IsKeyDown(Keys.PageDown))
+                if (ScreenManager.Input.IsKeyDown(Keys.PageDown))
                 {
                     Zoom += 0.01f;
                     if (Zoom > 1.5f)
@@ -171,8 +170,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             }
             else if (CameraType == CameraType.Manual)
             {
-                KeyboardState keyboardState = Keyboard.GetState();
-                if (keyboardState.IsKeyDown(Keys.PageUp))
+                if (ScreenManager.Input.IsKeyDown(Keys.PageUp))
                 {
                     Zoom -= 0.01f;
                     if (Zoom < 0.5f)
@@ -180,7 +178,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
                         Zoom = 0.5f;
                     }
                 }
-                if (keyboardState.IsKeyDown(Keys.PageDown))
+                if (ScreenManager.Input.IsKeyDown(Keys.PageDown))
                 {
                     Zoom += 0.01f;
                     if (Zoom > 2f)
@@ -219,30 +217,26 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 
         private void UpdateFocusedCamera()
         {
-            Position = new Vector2(
-                                    ScreenManager.Viewport.Width / 2 - FocusedObject.Position.X,
-                                    ScreenManager.Viewport.Height / 2 - FocusedObject.Position.Y);
+            Position = ScreenManager.ScreenCentre - FocusedObject.Position;
         }
 
         private void UpdateManualCamera()
         {
-            KeyboardState keyboard = Keyboard.GetState();
-
             float xMove = 0, yMove = 0;
 
-            if (keyboard.IsKeyDown(Keys.Left))
+            if (ScreenManager.Input.IsKeyDown(Keys.Left))
             {
                 xMove += ScrollDelta;
             }
-            if (keyboard.IsKeyDown(Keys.Right))
+            if (ScreenManager.Input.IsKeyDown(Keys.Right))
             {
                 xMove -= ScrollDelta;
             }
-            if (keyboard.IsKeyDown(Keys.Up))
+            if (ScreenManager.Input.IsKeyDown(Keys.Up))
             {
                 yMove += ScrollDelta;
             }
-            if (keyboard.IsKeyDown(Keys.Down))
+            if (ScreenManager.Input.IsKeyDown(Keys.Down))
             {
                 yMove -= ScrollDelta;
             }
@@ -277,18 +271,14 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 
         public void SetPosition(Vector2 position)
         {
-            Position = new Vector2(
-                                    ScreenManager.Viewport.Width / 2 - position.X,
-                                    ScreenManager.Viewport.Height / 2 - position.Y);
+            Position = ScreenManager.ScreenCentre - position;
             UpdateBackground();
             UpdateViewRectangle();
         }
 
         public void MoveToDestination(Vector2 destination, float lerpDelta = 3f)
         {
-            Destination = new Vector2(
-                                    ScreenManager.Viewport.Width / 2 - destination.X,
-                                    ScreenManager.Viewport.Height / 2 - destination.Y);
+            Destination = ScreenManager.ScreenCentre - destination;
             LerpDelta = lerpDelta;
             CameraType = CameraType.MovingToPoint;
         }

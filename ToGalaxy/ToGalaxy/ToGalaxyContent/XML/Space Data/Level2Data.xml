@@ -30,6 +30,7 @@
     <PresetObjectsPositions>
 
     </PresetObjectsPositions>
+    <Exit></Exit>
     <Description>You exit the hyperspace gate somewhere in the Morta Nebula - it was here the 8th fleet was destroyed.  You keep your eyes fixed on the swirling gas, desperate to see no other movement.</Description>
     <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/space_wreckage_compressed</LevelThumbnailAsset>
   </Asset>

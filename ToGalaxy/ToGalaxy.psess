@@ -86,6 +86,15 @@
     <Report>
       <Path>ToGalaxy150724(2).vspx</Path>
     </Report>
+    <Report>
+      <Path>ToGalaxy150726.vspx</Path>
+    </Report>
+    <Report>
+      <Path>ToGalaxy150726(1).vspx</Path>
+    </Report>
+    <Report>
+      <Path>ToGalaxy150726(2).vspx</Path>
+    </Report>
   </Reports>
   <Launches>
     <ProjBinary>

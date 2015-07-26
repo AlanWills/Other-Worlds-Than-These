@@ -87,7 +87,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             ConfirmationDialogBox confirmFullScreen = new ConfirmationDialogBox(
                                         "Sprites/UI/Panels/MenuPanelBackground",
                                         "Are you sure?",
-                                        new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2),
+                                        ScreenManager.ScreenCentre,
                                         new Vector2(500, 185),
                                         Color.White,
                                         "Confirm Full Screen Dialog Box");
@@ -130,8 +130,8 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         public override void Update(GameTime gameTime)
         {
             base.Update(gameTime);
-            
-            if (Keyboard.GetState().IsKeyDown(Keys.Escape))
+
+            if (ScreenManager.Input.IsKeyDown(Keys.Escape))
             {
                 ScreenManager.BackToPreviousScreen();
                 Die();

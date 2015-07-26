@@ -135,8 +135,8 @@ namespace ToGalaxy.UI
 
         private Vector2 CalculateSensorPosition(GameObject gameObject)
         {
-            float tempSensPosX = (gameObject.Position.X + Camera.Position.X - SpaceScreen.ExtendedScreenManager.Viewport.Width / 2) / (float)Range;
-            float tempSensPosY = (gameObject.Position.Y + Camera.Position.Y - SpaceScreen.ExtendedScreenManager.Viewport.Height / 2) / (float)Range;
+            float tempSensPosX = (gameObject.Position.X + Camera.Position.X - ScreenManager.ScreenCentre.X) / (float)Range;
+            float tempSensPosY = (gameObject.Position.Y + Camera.Position.Y - ScreenManager.ScreenCentre.Y) / (float)Range;
 
             tempSensPosX = MathHelper.Clamp(tempSensPosX, -1, 1);
             tempSensPosY = MathHelper.Clamp(tempSensPosY, -1, 1);

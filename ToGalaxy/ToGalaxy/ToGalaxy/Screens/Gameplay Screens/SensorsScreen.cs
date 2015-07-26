@@ -59,7 +59,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
         {
             Image spaceScreenBackground = new Image(
                 SpaceScreen.ScreenData.BackgroundTextureAsset,
-                new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2),
+                ScreenManager.ScreenCentre,
                 ScreenManager.Viewport.Width,
                 ScreenManager.Viewport.Height,
                 "Space Screen Background");
@@ -122,7 +122,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
             foreach (KeyValuePair<GameObject, Image> sensorImage in SensorImages)
             {
-                sensorImage.Value.SetPosition(new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
+                sensorImage.Value.SetPosition(ScreenManager.ScreenCentre + sensorImage.Key.Position / Camera2D.BackgroundMultiplier);
                 sensorImage.Value.SetRotation(sensorImage.Key.Rotation);
             }
 
@@ -183,7 +183,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
                 Image sensorImage = new Image(
                     "",
-                    new Vector2(ScreenManager.Viewport.Width / 2, ScreenManager.Viewport.Height / 2) +  gameObject.Position / (Camera2D.BackgroundMultiplier),
+                    ScreenManager.ScreenCentre +  gameObject.Position / (Camera2D.BackgroundMultiplier),
                     "Sensor Image");
 
                 if (gameObject.Data != null) { sensorImage.SetHoverInfoText(gameObject.Data.Name); }
