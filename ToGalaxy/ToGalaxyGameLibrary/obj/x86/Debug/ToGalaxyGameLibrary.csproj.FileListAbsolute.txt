@@ -22,3 +22,11 @@ C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGa
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.dll
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.csprojResolveAssemblyReference.cache
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyGameLibrary.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyGameLibrary.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyCustomData.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\bin\x86\Debug\ToGalaxyCustomData.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxyGameLibrary\obj\x86\Debug\ToGalaxyGameLibrary.pdb

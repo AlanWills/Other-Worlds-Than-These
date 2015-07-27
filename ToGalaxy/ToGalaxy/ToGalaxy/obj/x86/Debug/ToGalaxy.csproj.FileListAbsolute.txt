@@ -1060,3 +1060,366 @@ C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\T
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ComRelay.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb
 C:\Users\User\Documents\GitHub\Games\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\SelectionIcon.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitle.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_released.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_pressed.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground2.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground3.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\RectangularButton.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Panel.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\MenuPanelBackground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\LoadingScreenBackground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\LoadingScreenTitle.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\StandardShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\spr_shield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSlider.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\accelerated_shields.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_optics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_turret_gyros.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\augmented_engines.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\automated_repair_unit.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\blast_doors.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\eccm_package.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\ecm_package.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_magazines.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_missile_racks.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\extended_shields.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_coil_adjunct.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_distributor.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_shunt.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_emitter.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_generator.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\generic_mod.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\hardened_shields.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\heavy_armor.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\insulated_engine_assembly.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_targeting_unit.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\monofilament_cable.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\reinforced_bulkheads.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\repair_gantry.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\resistant_flux_conduits.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\stabilized_shields.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\targeting_core.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\unstable_injector.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\advanced_tactics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\applied_physics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\combat.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\command_experience.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\computer_systems.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\construction.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\coordinated_maneuvers.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\damage_control.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\evasive_maneuvering.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\field_repairs.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\fleet_logistics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\flux_dynamics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\gunnery_implants.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\helmsmanship.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\leadership.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\mechanical_engineering.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\missile_specialization.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\navigation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\ordnance_expert.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\power_grid_manipulation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\target_analysis.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\technology.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\BlackBackground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Ion Storm.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Edge Of The System.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Dust Cloud.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Scattered Stars.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula2.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Hyperspace.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Sensors\sensor_array_dish.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\devilfish.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\ShieldsRestored.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\HullThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Radar.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MassThumbnail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\EngineTrail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\SmokeEffect.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ImpulseEngine.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\JetEngine.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ThrusterEngine.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Earth From Space.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\blaster.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f135.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f171.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f61.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\BlueGalaxy.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\StarrySpace.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\spacestation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SS1.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\PlanetAndSpace.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ComRelay.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level1Data.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\MainMenuScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Buttons\MenuButton.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LoadingScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\OptionsScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LightEnergyShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Settings\DefaultOptions.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Sensors\SensorsUI.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\LightThruster.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\ShortRangeSensor.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LevelSelectScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level2Data.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\SmallImpulseEngine.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\HeavyThruster.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\LongRangeSensor.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LowFrequencyDeflectorShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\JetThruster.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\BarrakudaMissileBattery.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\ShipUpgradeScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\ShieldsRestored.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\EngineTrail.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Smoke.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\RocketEngine.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\PhaseBeamTurret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\GatlingLaserTurret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\HighDensityPhaseShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Barracuda.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Harpoon.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hurricane.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tornado.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tsunami.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Austria.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Eagle.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hawk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflectorShield.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\IonBeamTurret.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Level3Data.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\WhaleSharkMissileBattery.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\TigerSharkMissileBattery.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Gameplay Screens\SensorsScreen.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AuxiliaryThrusters.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\WeaponPreIgniter.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\AutomatedReloader.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\IntegratedTargetingUnit.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\MissileTargetingComputer.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\NavigationComputer.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\HardenedShields.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\EmergencyShieldGenerator.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\UpgradedShieldGenerator.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AdvancedOptics.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene4.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound2.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonHover.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\laser_loop.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\guardian_pd_fire_01.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\sabot_srm_fire_01.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\TextFont.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.wma
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.exe
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxy.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\FuncWorks.XNA.XTiled.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.dll
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyCustomData.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\ToGalaxyGameLibrary.pdb
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\FuncWorks.XNA.XTiled.xml
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.csprojResolveAssemblyReference.cache
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.exe
+I:\Dropbox\Programming\Alan's Work\Other Worlds\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\ToGalaxy.pdb
