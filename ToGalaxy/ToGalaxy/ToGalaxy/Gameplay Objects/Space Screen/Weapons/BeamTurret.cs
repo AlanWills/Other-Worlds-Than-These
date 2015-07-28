@@ -45,26 +45,30 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
 
         public override void Update(GameTime gameTime)
         {
-            // Going to need to change this based on the weapon hardpoints
+            //Going to need to change this based on the weapon hardpoints
             float cosRot = (float)Math.Cos(ParentShip.Rotation);
             float sinRot = (float)Math.Sin(ParentShip.Rotation);
+            //Calculate Turret Position
             Position = ParentShip.Position + new Vector2(cosRot * WeaponHardPoint.X - sinRot * WeaponHardPoint.Y, sinRot * WeaponHardPoint.X + cosRot * WeaponHardPoint.Y);
-
+            //Target Offset
             Vector2 difference = Vector2.Zero;
             if (ParentShip.AutoTurrets)
             {
                 if (Target != null)
                 {
+                    //Calculate target displacement and rotation
                     difference = Target.Position - Position;
                     Rotation = (float)Math.Atan2(difference.X, -difference.Y);
                 }
                 else
                 {
+                    //Return to default rotation
                     SetRotation(ParentShip.Rotation);
                 }
             }
             else
             {
+                //Duplicate Code but with mouse pointer rather than diffference
                 difference = TargetLocation - Position;
                 Rotation = (float)Math.Atan2(difference.X, -difference.Y);
             }
