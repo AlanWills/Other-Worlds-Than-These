@@ -1,0 +1,5 @@
+ToGalaxy/ToGalaxy/ToGalaxy/bin/
+*.swp
+*.sln
+*.csproj
+*FileListAbsolute.txt
