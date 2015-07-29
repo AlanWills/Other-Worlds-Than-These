@@ -386,6 +386,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             foreach (EnemyShip enemy in enemiesToRemove)
             {
                 EnemyShips.Remove(enemy);
+                ExtendedScreenManager.SensorsScreen.RemoveImage(enemy);
                 LoadAndAddGameObject(new AnimatedGameObject("XML/FX/Explosion", enemy.Position, true, false));
 
                 foreach (KeyValuePair<string, List<EnemyShip>> randomShipList in RandomEnemyShipSpawnPool)

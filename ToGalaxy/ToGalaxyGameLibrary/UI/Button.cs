@@ -96,6 +96,7 @@ namespace ToGalaxyGameLibrary.UI
         // Default colours which tend to be used a lot
         public static Color defaultColour = new Color(0, 0.318f, 0.49f);
         public static Color highlightedColour = new Color(0, 0.71f, 0.988f);
+        public static string defaultButtonAsset = "XML/UI/Buttons/MenuButton";
 
         float currentTimeDown = 0;
         float timeSinceHighlighted = 1;

@@ -203,7 +203,7 @@ Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb
 Content\Sprites\Space Objects\Space Stations\ComRelay.xnb
 Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb
 Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb
-Content\XML\Space Data\Level1Data.xnb
+Content\XML\Space Data\Space Data\Level1Data.xnb
 Content\XML\Crew\HumanCrewMember.xnb
 Content\XML\Weapons\50mmAutoCannon.xnb
 Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb
@@ -217,7 +217,7 @@ Content\XML\UI\Sensors\SensorsUI.xnb
 Content\XML\Engines\LightThruster.xnb
 Content\XML\Sensors\ShortRangeSensor.xnb
 Content\XML\Menu Screens\LevelSelectScreen.xnb
-Content\XML\Space Data\Level2Data.xnb
+Content\XML\Space Data\Space Data\Level2Data.xnb
 Content\XML\Engines\SmallImpulseEngine.xnb
 Content\XML\Engines\HeavyThruster.xnb
 Content\XML\Sensors\LongRangeSensor.xnb
@@ -273,7 +273,7 @@ Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb
 Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb
 Content\XML\Weapons\IonBeamTurret.xnb
 Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb
-Content\XML\Space Data\Level3Data.xnb
+Content\XML\Space Data\Space Data\Level3Data.xnb
 Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb
 Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb
 Content\XML\Weapons\WhaleSharkMissileBattery.xnb
@@ -294,6 +294,7 @@ Content\XML\Ship Mods\Utility\AdvancedOptics.xnb
 Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb
 Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xnb
 Content\XML\Cut Scenes\Level Data\IntroCutScene4.xnb
+Content\XML\Space Data\Dialog Data\Level1Dialog.xnb
 Content\Sounds\Weapons\autocannon_fire_01.xnb
 Content\Sounds\UI\ButtonPressedSound.xnb
 Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb

@@ -359,6 +359,27 @@ namespace ToGalaxyGameLibrary.UI
             HoverInfo.AddUIElement(infoText, infoText.Position);
         }
 
+        public void SetHoverInfoText(string text, Vector2 position)
+        {
+            Text infoText = new Text(
+                text,
+                Vector2.Zero,
+                100,
+                Color.White,
+                "Hover Info Text");
+            infoText.LoadContent(ScreenManager.Content);
+
+            HoverInfo = new Panel(
+                "Sprites/UI/Panels/Panel",
+                position,
+                2 * infoText.TextOrigin,
+                Color.Black,
+                "Hover Info",
+                0.5f);
+            HoverInfo.LoadContent(ScreenManager.Content);
+            HoverInfo.AddUIElement(infoText, infoText.Position);
+        }
+
         #endregion
     }
 }

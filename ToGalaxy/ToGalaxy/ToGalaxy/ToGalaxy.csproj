@@ -113,6 +113,7 @@
     <Compile Include="Screens\Menu Screens\LoadingScreen.cs" />
     <Compile Include="Screens\Menu Screens\MainMenuScreen.cs" />
     <Compile Include="Screens\Menu Screens\ShipUpgradeScreen.cs" />
+    <Compile Include="UI\DialogInformationPanel.cs" />
     <Compile Include="UI\SensorsUI.cs" />
     <Compile Include="UI\ShipInformationPanel.cs" />
     <Compile Include="UI\ShipModCooldownUI.cs" />

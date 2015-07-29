@@ -234,11 +234,11 @@ namespace ToGalaxyGameLibrary.Game_Objects
 
                     if (Bounds.Contains(clickPoint))
                     {
-                        Selected = true;
+                        Select();
                     }
                     else
                     {
-                        Selected = false;
+                        DeSelect();
                     }
                 }
             }
@@ -293,6 +293,16 @@ namespace ToGalaxyGameLibrary.Game_Objects
         public void IncreaseVelocity(Vector2 deltaVelocity)
         {
             Velocity += deltaVelocity;
+        }
+
+        public void Select()
+        {
+            Selected = true;
+        }
+
+        public void DeSelect()
+        {
+            Selected = false;
         }
 
         public bool IsAlive()

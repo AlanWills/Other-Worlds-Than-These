@@ -49,6 +49,7 @@ namespace ToGalaxy.UI
                 // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the RefreshUI
                 LoadAndAddUIElement(weaponRefreshUI);
                 weaponRefreshUI.LoadContent(content);
+                weaponRefreshUI.SetHoverInfoText(Ship.Turrets[0].TurretData.Name, weaponRefreshUI.Position + new Vector2(0, -50));
                 WeaponRefreshUI.Add(weaponRefreshUI);
 
                 for (int i = 1; i < Ship.Turrets.Count; i++)
@@ -64,6 +65,7 @@ namespace ToGalaxy.UI
                     // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the RefreshUI
                     LoadAndAddUIElementRelativeTo(weaponRefreshUI, WeaponRefreshUI[i - 1]);
                     weaponRefreshUI.LoadContent(content);
+                    weaponRefreshUI.SetHoverInfoText(Ship.Turrets[i].TurretData.Name, weaponRefreshUI.Position + new Vector2(0, -50));
                     WeaponRefreshUI.Add(weaponRefreshUI);
                 }
             }

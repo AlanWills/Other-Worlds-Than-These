@@ -73,7 +73,7 @@ namespace ToGalaxy.Screens.Menu_Screens
 
         private void LoadMissionData(ContentManager content)
         {
-            DirectoryInfo directory = new DirectoryInfo(content.RootDirectory + "/XML/Space Data/");
+            DirectoryInfo directory = new DirectoryInfo(content.RootDirectory + "/XML/Space Data/Space Data/");
             if (!directory.Exists)
                 throw new DirectoryNotFoundException();
 
@@ -81,7 +81,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             foreach (FileInfo file in files)
             {
                 string key = Path.GetFileNameWithoutExtension(file.Name);
-                SpaceScreenData screenData = content.Load<SpaceScreenData>("XML/Space Data/" + key);
+                SpaceScreenData screenData = content.Load<SpaceScreenData>("XML/Space Data/Space Data/" + key);
                 MissionData.Add(screenData);
             }
         }

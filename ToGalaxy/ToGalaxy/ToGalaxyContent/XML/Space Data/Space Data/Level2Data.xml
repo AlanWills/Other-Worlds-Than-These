@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="ToGalaxyCustomData.SpaceScreenData">
+    <BackgroundTextureAsset>Sprites/Space/Nebula</BackgroundTextureAsset>
+    <Music></Music>
+    <Name>Morta Nebula</Name>
+    <RandomEnemiesNames>
+      <Item>Gnat</Item>
+    </RandomEnemiesNames>
+    <RandomEncounterProbability>
+      0.06
+    </RandomEncounterProbability>
+    <EnemiesNames>
+      <Item>Gnat</Item>
+      <Item>Gnat</Item>
+    </EnemiesNames>
+    <EnemiesPositions>
+      100 100
+      500 500
+    </EnemiesPositions>
+    <RandomObjectsNames>
+      <Item>Asteroids/TinyAsteroid</Item>
+    </RandomObjectsNames>
+    <RandomObjectsProbability>
+      0.003
+    </RandomObjectsProbability>
+    <PresetObjectsNames>
+
+    </PresetObjectsNames>
+    <PresetObjectsPositions>
+
+    </PresetObjectsPositions>
+    <Exit></Exit>
+    <MustActivateObjects></MustActivateObjects>
+    <Description>You exit the hyperspace gate somewhere in the Morta Nebula - it was here the 8th fleet was destroyed.  The second hyperspace gate to the Arno system, and your mission's end, lies somewhere in this nebula, but navigation will be difficult.  You keep your eyes fixed on the swirling gas, desperate to see no other movement.</Description>
+    <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/space_wreckage_compressed</LevelThumbnailAsset>
+  </Asset>
+</XnaContent>

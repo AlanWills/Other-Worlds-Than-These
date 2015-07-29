@@ -95,7 +95,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Space Data\Level1Data.xml">
+    <Compile Include="XML\Space Data\Space Data\Level1Data.xml">
       <Name>Level1Data</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
@@ -1046,7 +1046,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Space Data\Level2Data.xml">
+    <Compile Include="XML\Space Data\Space Data\Level2Data.xml">
       <Name>Level2Data</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
@@ -1858,7 +1858,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="XML\Space Data\Level3Data.xml">
+    <Compile Include="XML\Space Data\Space Data\Level3Data.xml">
       <Name>Level3Data</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
@@ -2098,6 +2098,13 @@
       <Name>NavBuoy</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="XML\Space Data\Dialog Data\Level1Dialog.xml">
+      <Name>Level1Dialog</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />

@@ -36,6 +36,12 @@ namespace ToGalaxy.UI
             set;
         }
 
+        private DialogInformationPanel DialogInformationPanel
+        {
+            get;
+            set;
+        }
+
         private SpaceScreen SpaceScreen
         {
             get;
@@ -54,7 +60,7 @@ namespace ToGalaxy.UI
         {
             base.LoadContent(content);
 
-            Vector2 infoPanelDimensions = new Vector2(400, 200);
+            Vector2 infoPanelDimensions = new Vector2(400, SpaceScreen.ExtendedScreenManager.Viewport.Height * 0.2f);
 
             ShipInfoPanel = new ShipInformationPanel(
                 "Sprites/UI/Panels/MenuPanelBackground",
@@ -79,27 +85,38 @@ namespace ToGalaxy.UI
                 SensorsUI.SetPosition(new Vector2(Dimensions.X - SensorsUI.Bounds.Width / 2, Dimensions.Y - SensorsUI.Bounds.Height / 2));
             }
 
+            DialogInformationPanel = new DialogInformationPanel(
+                "Sprites/UI/Panels/MenuPanelBackground",
+                "",
+                SpaceScreen,
+                new Vector2(0, (SpaceScreen.ExtendedScreenManager.Viewport.Height - infoPanelDimensions.Y) * 0.5f),
+                new Vector2(SpaceScreen.ExtendedScreenManager.Viewport.Width * 0.5f, infoPanelDimensions.Y),
+                Color.White,
+                "Dialog Information Panel");
+            AddUIElement(DialogInformationPanel);
+            DialogInformationPanel.LoadContent(content);
+
             WeaponCooldownUI = new WeaponsCooldownUI(
                 "",
                 SpaceScreen.PlayerShip,
-                new Vector2(ShipInfoPanel.Dimensions.X / 2 + SpaceScreen.PlayerShip.Turrets.Count * 35, 0),
+                new Vector2(-DialogInformationPanel.Dimensions.X * 0.5f + SpaceScreen.PlayerShip.Turrets.Count * 35, -DialogInformationPanel.Dimensions.Y * 0.5f - 50),
                 new Vector2(SpaceScreen.PlayerShip.Turrets.Count * 35 + 5, 50),
                 Color.White,
                 "Weapons Cooldown UI",
                 0.8f);
             // Add it first so that we get the proper screen position for the cooldown bar in the load content method of the WeaponsCooldownUI
-            AddUIElementRelativeTo(WeaponCooldownUI, ShipInfoPanel);
+            AddUIElementRelativeTo(WeaponCooldownUI, DialogInformationPanel);
             WeaponCooldownUI.LoadContent(content);
 
             ShipModCooldownUI = new ShipModCooldownUI(
                 "",
                 SpaceScreen.PlayerShip,
-                new Vector2(WeaponCooldownUI.Dimensions.X / 2 + SpaceScreen.PlayerShip.ShipMods.Count * 55, 0),
+                new Vector2(DialogInformationPanel.Dimensions.X * 0.5f - SpaceScreen.PlayerShip.ShipMods.Count * 55, -DialogInformationPanel.Dimensions.Y * 0.5f - 50),
                 new Vector2(SpaceScreen.PlayerShip.ShipMods.Count * 55 + 5, 50),
                 Color.White,
                 "Ship Mods Cooldown UI",
                 0.8f);
-            AddUIElementRelativeTo(ShipModCooldownUI, WeaponCooldownUI);
+            AddUIElementRelativeTo(ShipModCooldownUI, DialogInformationPanel);
             ShipModCooldownUI.LoadContent(content);
         }
 

@@ -74,6 +74,7 @@
     <Compile Include="Screen Data\ScreenData.cs" />
     <Compile Include="Screen Data\ShipInteriorScreenData.cs" />
     <Compile Include="Screen Data\SpaceScreenData.cs" />
+    <Compile Include="Screen Data\SpaceScreenDialogData.cs" />
     <Compile Include="UI Data\ButtonData.cs" />
     <Compile Include="UI Data\SensorsUIData.cs" />
     <Compile Include="UI Data\UIElementData.cs" />

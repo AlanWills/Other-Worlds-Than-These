@@ -217,8 +217,8 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 
             foreach (GameObject gameObject in GameObjects)
             {
-                gameObject.Update(gameTime);
                 gameObject.CheckMouseInteraction(ScreenManager.Mouse);
+                gameObject.Update(gameTime);
 
                 if (gameObject.Status == GameObjectStatus.Dead)
                 {
@@ -248,8 +248,8 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             {
                 foreach (UIElement ui in ScreenUIElements)
                 {
-                    ui.Update(gameTime);
                     ui.CheckClicked(ScreenManager.Mouse);
+                    ui.Update(gameTime);
 
                     if (ui.State == UIState.Dead)
                     {
@@ -277,8 +277,8 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             {
                 foreach (UIElement ui in InGameUIElements)
                 {
-                    ui.Update(gameTime);
                     ui.CheckClicked(ScreenManager.Mouse);
+                    ui.Update(gameTime);
 
                     if (ui.State == UIState.Dead)
                     {
@@ -298,8 +298,8 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             {
                 foreach (Button button in Buttons)
                 {
-                    button.Update(gameTime);
                     button.CheckClicked(ScreenManager.Mouse);
+                    button.Update(gameTime);
                 }
             }
         }

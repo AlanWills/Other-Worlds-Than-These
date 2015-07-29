@@ -198,7 +198,7 @@ namespace ToGalaxy.Screens
             Music.PlayAmbientMusic();
 
             ShipInteriorScreen = new ShipInteriorScreen(this, String.Format("XML/Ship Interior Maps/{0}Interior", "Dragonfly"));
-            SpaceScreen = new SpaceScreen(this, String.Format("XML/Space Data/Level{0}Data", currentLevel));
+            SpaceScreen = new SpaceScreen(this, String.Format("XML/Space Data/Space Data/Level{0}Data", currentLevel));
 
             ShipInteriorScreen.ScreenState = ScreenState.Frozen;
             SpaceScreen.ScreenState = ScreenState.Frozen;

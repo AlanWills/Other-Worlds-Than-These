@@ -53,6 +53,7 @@ namespace ToGalaxy.UI
                 {
                     AddKeyText(Ship.ShipMods[0].ActivationKey.ToString(), shipModRefreshUI);
                 }
+                shipModRefreshUI.SetHoverInfoText(Ship.ShipMods[0].ShipModData.Name, shipModRefreshUI.Position + new Vector2(0, -50));
                 ShipModRefreshUI.Add(shipModRefreshUI);
 
                 for (int i = 1; i < Ship.ShipMods.Count; i++)
@@ -73,6 +74,7 @@ namespace ToGalaxy.UI
                     {
                         AddKeyText(Ship.ShipMods[i].ActivationKey.ToString(), shipModRefreshUI);
                     }
+                    shipModRefreshUI.SetHoverInfoText(Ship.ShipMods[i].ShipModData.Name, shipModRefreshUI.Position + new Vector2(0, -50));
                     ShipModRefreshUI.Add(shipModRefreshUI);
                 }
             }
