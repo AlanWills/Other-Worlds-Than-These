@@ -114,7 +114,7 @@ namespace ToGalaxy.Screens.Cut_Scene_Screens
                 eventArgs.GameObject = ship;
             }
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public override bool AddGameObject(CutSceneEventArgs eventArgs)

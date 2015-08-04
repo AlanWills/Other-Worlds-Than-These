@@ -188,6 +188,6 @@ namespace ToGalaxy.UI
                     }
                 }
             }
-        }   }
+        }   
     }
 }

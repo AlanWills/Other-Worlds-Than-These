@@ -39,7 +39,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             private set;
         }
 
-        protected List<CutSceneEventArgs> EventsList
+        protected SortedList<float, CutSceneEventArgs> EventsList
         {
             get;
             private set;
@@ -70,7 +70,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             EventsDictionary.Add("Add Dialog Box", new Func<CutSceneEventArgs, bool>(AddDialogBox));
             EventsDictionary.Add("Load Next Screen", new Func<CutSceneEventArgs, bool>(LoadNextScreen));
 
-            EventsList = new List<CutSceneEventArgs>();
+            EventsList = new SortedList<float, CutSceneEventArgs>();
             EventsToRemove = new List<CutSceneEventArgs>();
         }
 
@@ -94,15 +94,6 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 
         }
 
-        public virtual void SortEventsIntoChronologicalOrder()
-        {
-            EventsList.Sort(
-                delegate(CutSceneEventArgs eventsA, CutSceneEventArgs eventsB)
-                {
-                    return eventsA.ActivationTime.CompareTo(eventsB.ActivationTime);
-                });
-        }
-
         public override void LoadContent()
         {
             base.LoadContent();
@@ -111,20 +102,18 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             AddDialogBoxes();
             AddCameraMovement();
             SetUpNextScreen();
-
-            SortEventsIntoChronologicalOrder();
         }
 
         public override void Update(GameTime gameTime)
         {
             TotalRunningTime += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
-            foreach (CutSceneEventArgs eventArgs in EventsList)
+            foreach (KeyValuePair<float, CutSceneEventArgs> eventArgs in EventsList)
             {
-                if (TotalRunningTime >= eventArgs.ActivationTime)
+                if (TotalRunningTime >= eventArgs.Key)
                 {
-                    if (EventsDictionary[eventArgs.FunctionName].Invoke(eventArgs))
+                    if (EventsDictionary[eventArgs.Value.FunctionName].Invoke(eventArgs.Value))
                     {
-                        EventsToRemove.Add(eventArgs);
+                        EventsToRemove.Add(eventArgs.Value);
                     }
                 }
                 else
@@ -137,7 +126,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
 
             foreach (CutSceneEventArgs eventArgs in EventsToRemove)
             {
-                EventsList.Remove(eventArgs);
+                EventsList.Remove(eventArgs.ActivationTime);
             }
 
             EventsToRemove.Clear();
@@ -284,7 +273,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.GameObject = gameObject;
             eventArgs.GameObject.LoadContent(ScreenManager.Content);
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public virtual void AddRemoveGameObjectEvent(float activationTime, GameObject gameObject)
@@ -292,7 +281,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             CutSceneEventArgs eventArgs = new CutSceneEventArgs("Add GameObject", activationTime);
             eventArgs.GameObject = gameObject;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public virtual void AddRemoveGameObjectEvent(float activationTime, string gameObjectName)
@@ -300,7 +289,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             CutSceneEventArgs eventArgs = new CutSceneEventArgs("Add GameObject", activationTime);
             eventArgs.ObjectName = gameObjectName;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddMoveEvent(float activationTime, GameObject objectToMove, Vector2 position)
@@ -309,7 +298,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.MoveDestination = position;
             eventArgs.GameObject = objectToMove;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddRotationEvent(float activationTime, GameObject objectToMove, float rotation)
@@ -318,7 +307,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.MoveSpeed = rotation;
             eventArgs.GameObject = objectToMove;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddCameraMoveEvent(float activationTime, Vector2 position, float moveSpeed = 3f)
@@ -327,7 +316,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.MoveDestination = position;
             eventArgs.MoveSpeed = moveSpeed;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddDialogBoxEvent(float activationTime, string text, float lifeTimer = 6f)
@@ -337,7 +326,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.MoveSpeed = lifeTimer;
             eventArgs.MoveDestination = new Vector2(ScreenManager.Viewport.Width / 4, ScreenManager.Viewport.Height / 2);
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddDialogBoxEvent(float activationTime, string text, Vector2 position, float lifeTimer = 6f)
@@ -347,14 +336,14 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             eventArgs.MoveSpeed = lifeTimer;
             eventArgs.MoveDestination = position;
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void AddLoadNextScreenEvent(float activationTime)
         {
             CutSceneEventArgs eventArgs = new CutSceneEventArgs("Load Next Screen", activationTime);
 
-            EventsList.Add(eventArgs);
+            EventsList.Add(activationTime, eventArgs);
         }
 
         public void SetNextScreen(Screen screen)
