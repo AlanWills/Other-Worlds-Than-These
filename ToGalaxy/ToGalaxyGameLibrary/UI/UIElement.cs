@@ -244,7 +244,7 @@ namespace ToGalaxyGameLibrary.UI
 
             if (mouse.IsLeftClicked && mouse.PreviousMouseState.LeftButton == ButtonState.Released && clickDelay > 0.3f)
             {
-                CheckForInteraction(mouse.LastLeftClickedPosition);
+                CheckForInteraction(InGameMouse.ScreenPosition);
             }
         }
 

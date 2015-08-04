@@ -1,5 +1,4 @@
-﻿using FuncWorks.XNA.XTiled;
-using Microsoft.Xna.Framework;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
@@ -26,11 +25,11 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         #region Interior Tile Map
 
-        public Map Map
+        /*public Map Map
         {
             get;
             private set;
-        }
+        }*/
 
         private Rectangle MapViewRectangle
         {
@@ -57,7 +56,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             ScreenState = ScreenState.Hidden;
         }
 
-        public override void LoadContent()
+        /*public override void LoadContent()
         {
             base.LoadContent();
 
@@ -135,6 +134,6 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                     Map.Draw(spriteBatch, ScreenManager.Camera.ViewRectangle);
                 }
             }
-        }
+        }*/
     }
 }

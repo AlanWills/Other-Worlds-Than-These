@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <XnaContent>
   <Asset Type="ToGalaxyCustomData.SpaceScreenDialogData">
-    <Dialog></Dialog>
-    <TimeToShow></TimeToShow>
+    <Dialog>
+      <Item></Item>
+      <Item>Test 1</Item>
+      <Item>Test 2</Item>
+    </Dialog>
+    <TimeToShow>
+      0
+      5
+      10
+    </TimeToShow>
   </Asset>
 </XnaContent>

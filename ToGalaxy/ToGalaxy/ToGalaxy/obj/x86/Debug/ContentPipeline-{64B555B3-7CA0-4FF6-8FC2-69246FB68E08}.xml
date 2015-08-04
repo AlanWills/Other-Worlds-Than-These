@@ -1,0 +1,3043 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Cargo\CargoSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:50.7784159+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Engines\Engine\EngineSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:50.8214436+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Pilot\PilotSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:50.8757916+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Space\SpaceTile.jpg</Source>
+      <Name>Sprites\Ship Interior Maps\Space\SpaceTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Space\SpaceTile.xnb</Output>
+      <Time>2015-08-03T17:59:50.9055011+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Hab\HabSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:50.9425239+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Structure\Structure\StructureSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:50.9735445+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Weapons\WeaponsSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:51.0165739+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.png</Source>
+      <Name>Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Interior Maps\Z Pod Empties\ZPodEmptiesSpriteSheet.xnb</Output>
+      <Time>2015-08-03T17:59:51.0405899+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Deep Space.jpg</Source>
+      <Name>Sprites\Space\Deep Space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Deep Space.xnb</Output>
+      <Time>2015-08-03T17:59:51.2437251+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Mouse\cursor_blue.png</Source>
+      <Name>Sprites\UI\Mouse\cursor_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_blue.xnb</Output>
+      <Time>2015-08-03T17:59:52.1564779+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Dragonfly.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Dragonfly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Dragonfly.xnb</Output>
+      <Time>2015-08-03T17:59:51.1206421+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Mouse\cursor_green.png</Source>
+      <Name>Sprites\UI\Mouse\cursor_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_green.xnb</Output>
+      <Time>2015-08-03T17:59:52.157479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Mouse\cursor_red.png</Source>
+      <Name>Sprites\UI\Mouse\cursor_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Mouse\cursor_red.xnb</Output>
+      <Time>2015-08-03T17:59:52.157479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\MoveMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\MoveMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\MoveMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1484764+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Crew Sprites\HumanCrewAnimation.png</Source>
+      <Name>Sprites\Crew Sprites\HumanCrewAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Crew Sprites\HumanCrewAnimation.xnb</Output>
+      <Time>2015-08-03T17:59:50.6453271+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Icons\SelectionIcon.png</Source>
+      <Name>Sprites\UI\Icons\SelectionIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Icons\SelectionIcon.xnb</Output>
+      <Time>2015-08-03T17:59:52.1554772+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Gnat.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Gnat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Gnat.xnb</Output>
+      <Time>2015-08-03T17:59:51.1036313+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\50mm_autocannon_turret_base.png</Source>
+      <Name>Sprites\Weapons\Turrets\50mm_autocannon_turret_base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\50mm_autocannon_turret_base.xnb</Output>
+      <Time>2015-08-03T17:59:52.2305279+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.png</Source>
+      <Name>Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\50mm_autocannon_turret_recoil.xnb</Output>
+      <Time>2015-08-03T17:59:52.2195206+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\AttackMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\AttackMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\AttackMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1434705+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FX\Explosion.png</Source>
+      <Name>Sprites\FX\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\Explosion.xnb</Output>
+      <Time>2015-08-03T17:59:50.6783503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\ShipLocationMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\ShipLocationMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ShipLocationMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1534785+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Bars\ArmourBar.png</Source>
+      <Name>Sprites\UI\Bars\ArmourBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ArmourBar.xnb</Output>
+      <Time>2015-08-03T17:59:52.1344637+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Bars\ShieldBar.png</Source>
+      <Name>Sprites\UI\Bars\ShieldBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\ShieldBar.xnb</Output>
+      <Time>2015-08-03T17:59:52.1374657+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Bars\HullBar.png</Source>
+      <Name>Sprites\UI\Bars\HullBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Bars\HullBar.xnb</Output>
+      <Time>2015-08-03T17:59:52.1364655+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\MainMenuTitle.png</Source>
+      <Name>Sprites\UI\Titles\MainMenuTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitle.xnb</Output>
+      <Time>2015-08-03T17:59:52.1915028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Buttons\blue_button_released.png</Source>
+      <Name>Sprites\UI\Buttons\blue_button_released</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_released.xnb</Output>
+      <Time>2015-08-03T17:59:52.1424699+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Buttons\blue_button_pressed.png</Source>
+      <Name>Sprites\UI\Buttons\blue_button_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\blue_button_pressed.xnb</Output>
+      <Time>2015-08-03T17:59:52.1404677+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\MainMenuBackground2.jpg</Source>
+      <Name>Sprites\Backgrounds\MainMenuBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground2.xnb</Output>
+      <Time>2015-08-03T17:59:50.5432594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\MainMenuBackground3.jpg</Source>
+      <Name>Sprites\Backgrounds\MainMenuBackground3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground3.xnb</Output>
+      <Time>2015-08-03T17:59:50.5612726+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\MainMenuBackground.jpg</Source>
+      <Name>Sprites\Backgrounds\MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\MainMenuBackground.xnb</Output>
+      <Time>2015-08-03T17:59:50.537255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Buttons\ColourButtonTrial1.png</Source>
+      <Name>Sprites\UI\Buttons\ColourButtonTrial1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\ColourButtonTrial1.xnb</Output>
+      <Time>2015-08-03T17:59:52.1384664+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\MainMenuTitleBlackandBlue.png</Source>
+      <Name>Sprites\UI\Titles\MainMenuTitleBlackandBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandBlue.xnb</Output>
+      <Time>2015-08-03T17:59:52.1955055+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\MainMenuTitleBlackandPurple.png</Source>
+      <Name>Sprites\UI\Titles\MainMenuTitleBlackandPurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlackandPurple.xnb</Output>
+      <Time>2015-08-03T17:59:52.2005075+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\MainMenuTitleBlueandPurple.png</Source>
+      <Name>Sprites\UI\Titles\MainMenuTitleBlueandPurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlueandPurple.xnb</Output>
+      <Time>2015-08-03T17:59:52.2065124+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\MainMenuTitleBlue.png</Source>
+      <Name>Sprites\UI\Titles\MainMenuTitleBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\MainMenuTitleBlue.xnb</Output>
+      <Time>2015-08-03T17:59:52.2045102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Buttons\RectangularButton.png</Source>
+      <Name>Sprites\UI\Buttons\RectangularButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Buttons\RectangularButton.xnb</Output>
+      <Time>2015-08-03T17:59:52.139467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Panels\Panel.png</Source>
+      <Name>Sprites\UI\Panels\Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Panel.xnb</Output>
+      <Time>2015-08-03T17:59:52.1644862+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Panels\MenuPanelBackground.jpg</Source>
+      <Name>Sprites\UI\Panels\MenuPanelBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\MenuPanelBackground.xnb</Output>
+      <Time>2015-08-03T17:59:52.1634843+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\LoadingScreenBackground.jpg</Source>
+      <Name>Sprites\Backgrounds\LoadingScreenBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\LoadingScreenBackground.xnb</Output>
+      <Time>2015-08-03T17:59:50.5242549+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Titles\LoadingScreenTitle.png</Source>
+      <Name>Sprites\UI\Titles\LoadingScreenTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Titles\LoadingScreenTitle.xnb</Output>
+      <Time>2015-08-03T17:59:52.1895007+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Shields\StandardShield.png</Source>
+      <Name>Sprites\Shields\StandardShield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\StandardShield.xnb</Output>
+      <Time>2015-08-03T17:59:50.7253802+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Shields\spr_shield.png</Source>
+      <Name>Sprites\Shields\spr_shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Shields\spr_shield.xnb</Output>
+      <Time>2015-08-03T17:59:50.7283822+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Sliders\VolumeSliderForeground.png</Source>
+      <Name>Sprites\UI\Sliders\VolumeSliderForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSliderForeground.xnb</Output>
+      <Time>2015-08-03T17:59:52.169487+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Sliders\VolumeSlider.png</Source>
+      <Name>Sprites\UI\Sliders\VolumeSlider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Sliders\VolumeSlider.xnb</Output>
+      <Time>2015-08-03T17:59:52.1684867+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\EnemySensorMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\EnemySensorMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\EnemySensorMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1454706+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\PlayerSensorMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\PlayerSensorMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\PlayerSensorMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1524774+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Harpoon.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Harpoon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Harpoon.xnb</Output>
+      <Time>2015-08-03T17:59:51.1246452+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Hurricane.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Hurricane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hurricane.xnb</Output>
+      <Time>2015-08-03T17:59:51.1276476+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Tornado.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Tornado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tornado.xnb</Output>
+      <Time>2015-08-03T17:59:51.1286479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Tsunami.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Tsunami</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Tsunami.xnb</Output>
+      <Time>2015-08-03T17:59:51.1346523+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Barracuda.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Barracuda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Barracuda.xnb</Output>
+      <Time>2015-08-03T17:59:51.1196436+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Asteroids\TinyAsteroid.png</Source>
+      <Name>Sprites\Space Objects\Asteroids\TinyAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\TinyAsteroid.xnb</Output>
+      <Time>2015-08-03T17:59:51.1426576+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Asteroids\SmallAsteroid.png</Source>
+      <Name>Sprites\Space Objects\Asteroids\SmallAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\SmallAsteroid.xnb</Output>
+      <Time>2015-08-03T17:59:51.1416565+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Asteroids\MediumAsteroid.png</Source>
+      <Name>Sprites\Space Objects\Asteroids\MediumAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\MediumAsteroid.xnb</Output>
+      <Time>2015-08-03T17:59:51.1396552+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Asteroids\LargeAsteroid.png</Source>
+      <Name>Sprites\Space Objects\Asteroids\LargeAsteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Asteroids\LargeAsteroid.xnb</Output>
+      <Time>2015-08-03T17:59:51.1376534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\accelerated_shields.png</Source>
+      <Name>Sprites\Ship Mods\accelerated_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\accelerated_shields.xnb</Output>
+      <Time>2015-08-03T17:59:51.0425903+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\advanced_optics.png</Source>
+      <Name>Sprites\Ship Mods\advanced_optics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_optics.xnb</Output>
+      <Time>2015-08-03T17:59:51.0425903+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\advanced_turret_gyros.png</Source>
+      <Name>Sprites\Ship Mods\advanced_turret_gyros</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\advanced_turret_gyros.xnb</Output>
+      <Time>2015-08-03T17:59:51.0445917+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\armored_weapon_emplacements.png</Source>
+      <Name>Sprites\Ship Mods\armored_weapon_emplacements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\armored_weapon_emplacements.xnb</Output>
+      <Time>2015-08-03T17:59:51.0445917+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\augmented_engines.png</Source>
+      <Name>Sprites\Ship Mods\augmented_engines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\augmented_engines.xnb</Output>
+      <Time>2015-08-03T17:59:51.0455928+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\automated_repair_unit.png</Source>
+      <Name>Sprites\Ship Mods\automated_repair_unit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\automated_repair_unit.xnb</Output>
+      <Time>2015-08-03T17:59:51.0465939+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\auxiliary_thrusters.png</Source>
+      <Name>Sprites\Ship Mods\auxiliary_thrusters</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\auxiliary_thrusters.xnb</Output>
+      <Time>2015-08-03T17:59:51.0475954+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\blast_doors.png</Source>
+      <Name>Sprites\Ship Mods\blast_doors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\blast_doors.xnb</Output>
+      <Time>2015-08-03T17:59:51.0495963+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\eccm_package.png</Source>
+      <Name>Sprites\Ship Mods\eccm_package</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\eccm_package.xnb</Output>
+      <Time>2015-08-03T17:59:51.0505995+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\ecm_package.png</Source>
+      <Name>Sprites\Ship Mods\ecm_package</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\ecm_package.xnb</Output>
+      <Time>2015-08-03T17:59:51.0525978+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\expanded_magazines.png</Source>
+      <Name>Sprites\Ship Mods\expanded_magazines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_magazines.xnb</Output>
+      <Time>2015-08-03T17:59:51.0535976+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\expanded_missile_racks.png</Source>
+      <Name>Sprites\Ship Mods\expanded_missile_racks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\expanded_missile_racks.xnb</Output>
+      <Time>2015-08-03T17:59:51.0545996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\extended_shields.png</Source>
+      <Name>Sprites\Ship Mods\extended_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\extended_shields.xnb</Output>
+      <Time>2015-08-03T17:59:51.0555998+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\flux_coil_adjunct.png</Source>
+      <Name>Sprites\Ship Mods\flux_coil_adjunct</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_coil_adjunct.xnb</Output>
+      <Time>2015-08-03T17:59:51.0565992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\flux_distributor.png</Source>
+      <Name>Sprites\Ship Mods\flux_distributor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_distributor.xnb</Output>
+      <Time>2015-08-03T17:59:51.0576016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\flux_shunt.png</Source>
+      <Name>Sprites\Ship Mods\flux_shunt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\flux_shunt.xnb</Output>
+      <Time>2015-08-03T17:59:51.0576016+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\front_shield_emitter.png</Source>
+      <Name>Sprites\Ship Mods\front_shield_emitter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_emitter.xnb</Output>
+      <Time>2015-08-03T17:59:51.0596021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\front_shield_generator.png</Source>
+      <Name>Sprites\Ship Mods\front_shield_generator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\front_shield_generator.xnb</Output>
+      <Time>2015-08-03T17:59:51.0606023+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\generic_mod.png</Source>
+      <Name>Sprites\Ship Mods\generic_mod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\generic_mod.xnb</Output>
+      <Time>2015-08-03T17:59:51.0616047+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\hardened_shields.png</Source>
+      <Name>Sprites\Ship Mods\hardened_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\hardened_shields.xnb</Output>
+      <Time>2015-08-03T17:59:51.063609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\heavy_armor.png</Source>
+      <Name>Sprites\Ship Mods\heavy_armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\heavy_armor.xnb</Output>
+      <Time>2015-08-03T17:59:51.0656125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\insulated_engine_assembly.png</Source>
+      <Name>Sprites\Ship Mods\insulated_engine_assembly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\insulated_engine_assembly.xnb</Output>
+      <Time>2015-08-03T17:59:51.0706098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\integrated_point_defense_ai.png</Source>
+      <Name>Sprites\Ship Mods\integrated_point_defense_ai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_point_defense_ai.xnb</Output>
+      <Time>2015-08-03T17:59:51.0726124+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\integrated_targeting_unit.png</Source>
+      <Name>Sprites\Ship Mods\integrated_targeting_unit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\integrated_targeting_unit.xnb</Output>
+      <Time>2015-08-03T17:59:51.0736114+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\monofilament_cable.png</Source>
+      <Name>Sprites\Ship Mods\monofilament_cable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\monofilament_cable.xnb</Output>
+      <Time>2015-08-03T17:59:51.0756153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\omni_shield_emitter.png</Source>
+      <Name>Sprites\Ship Mods\omni_shield_emitter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter.xnb</Output>
+      <Time>2015-08-03T17:59:51.0796175+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\omni_shield_emitter_mod.png</Source>
+      <Name>Sprites\Ship Mods\omni_shield_emitter_mod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\omni_shield_emitter_mod.xnb</Output>
+      <Time>2015-08-03T17:59:51.0826195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\reinforced_bulkheads.png</Source>
+      <Name>Sprites\Ship Mods\reinforced_bulkheads</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\reinforced_bulkheads.xnb</Output>
+      <Time>2015-08-03T17:59:51.0846195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\repair_gantry.png</Source>
+      <Name>Sprites\Ship Mods\repair_gantry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\repair_gantry.xnb</Output>
+      <Time>2015-08-03T17:59:51.0876258+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\resistant_flux_conduits.png</Source>
+      <Name>Sprites\Ship Mods\resistant_flux_conduits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\resistant_flux_conduits.xnb</Output>
+      <Time>2015-08-03T17:59:51.0986275+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\stabilized_shields.png</Source>
+      <Name>Sprites\Ship Mods\stabilized_shields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\stabilized_shields.xnb</Output>
+      <Time>2015-08-03T17:59:51.0996308+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\targeting_core.png</Source>
+      <Name>Sprites\Ship Mods\targeting_core</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\targeting_core.xnb</Output>
+      <Time>2015-08-03T17:59:51.1006289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Mods\unstable_injector.png</Source>
+      <Name>Sprites\Ship Mods\unstable_injector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Mods\unstable_injector.xnb</Output>
+      <Time>2015-08-03T17:59:51.1016329+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\advanced_tactics.png</Source>
+      <Name>Sprites\Player Skills\advanced_tactics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\advanced_tactics.xnb</Output>
+      <Time>2015-08-03T17:59:50.6933581+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\applied_physics.png</Source>
+      <Name>Sprites\Player Skills\applied_physics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\applied_physics.xnb</Output>
+      <Time>2015-08-03T17:59:50.6943592+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\combat.png</Source>
+      <Name>Sprites\Player Skills\combat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\combat.xnb</Output>
+      <Time>2015-08-03T17:59:50.6973638+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\command_experience.png</Source>
+      <Name>Sprites\Player Skills\command_experience</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\command_experience.xnb</Output>
+      <Time>2015-08-03T17:59:50.6993626+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\computer_systems.png</Source>
+      <Name>Sprites\Player Skills\computer_systems</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\computer_systems.xnb</Output>
+      <Time>2015-08-03T17:59:50.7003636+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\construction.png</Source>
+      <Name>Sprites\Player Skills\construction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\construction.xnb</Output>
+      <Time>2015-08-03T17:59:50.7013639+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\coordinated_maneuvers.png</Source>
+      <Name>Sprites\Player Skills\coordinated_maneuvers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\coordinated_maneuvers.xnb</Output>
+      <Time>2015-08-03T17:59:50.7023641+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\damage_control.png</Source>
+      <Name>Sprites\Player Skills\damage_control</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\damage_control.xnb</Output>
+      <Time>2015-08-03T17:59:50.7033686+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\evasive_maneuvering.png</Source>
+      <Name>Sprites\Player Skills\evasive_maneuvering</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\evasive_maneuvering.xnb</Output>
+      <Time>2015-08-03T17:59:50.7043667+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\field_repairs.png</Source>
+      <Name>Sprites\Player Skills\field_repairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\field_repairs.xnb</Output>
+      <Time>2015-08-03T17:59:50.7043667+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\fleet_logistics.png</Source>
+      <Name>Sprites\Player Skills\fleet_logistics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\fleet_logistics.xnb</Output>
+      <Time>2015-08-03T17:59:50.7053678+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\flux_dynamics.png</Source>
+      <Name>Sprites\Player Skills\flux_dynamics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\flux_dynamics.xnb</Output>
+      <Time>2015-08-03T17:59:50.7063685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\gunnery_implants.png</Source>
+      <Name>Sprites\Player Skills\gunnery_implants</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\gunnery_implants.xnb</Output>
+      <Time>2015-08-03T17:59:50.70737+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\helmsmanship.png</Source>
+      <Name>Sprites\Player Skills\helmsmanship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\helmsmanship.xnb</Output>
+      <Time>2015-08-03T17:59:50.70737+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\leadership.png</Source>
+      <Name>Sprites\Player Skills\leadership</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\leadership.xnb</Output>
+      <Time>2015-08-03T17:59:50.7083685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\mechanical_engineering.png</Source>
+      <Name>Sprites\Player Skills\mechanical_engineering</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\mechanical_engineering.xnb</Output>
+      <Time>2015-08-03T17:59:50.7093696+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\missile_specialization.png</Source>
+      <Name>Sprites\Player Skills\missile_specialization</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\missile_specialization.xnb</Output>
+      <Time>2015-08-03T17:59:50.7093696+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\navigation.png</Source>
+      <Name>Sprites\Player Skills\navigation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\navigation.xnb</Output>
+      <Time>2015-08-03T17:59:50.7113709+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\ordnance_expert.png</Source>
+      <Name>Sprites\Player Skills\ordnance_expert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\ordnance_expert.xnb</Output>
+      <Time>2015-08-03T17:59:50.7123716+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\power_grid_manipulation.png</Source>
+      <Name>Sprites\Player Skills\power_grid_manipulation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\power_grid_manipulation.xnb</Output>
+      <Time>2015-08-03T17:59:50.7133731+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\target_analysis.png</Source>
+      <Name>Sprites\Player Skills\target_analysis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\target_analysis.xnb</Output>
+      <Time>2015-08-03T17:59:50.7153732+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Skills\technology.png</Source>
+      <Name>Sprites\Player Skills\technology</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Player Skills\technology.xnb</Output>
+      <Time>2015-08-03T17:59:50.721378+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\cargo_loading.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\cargo_loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\cargo_loading.xnb</Output>
+      <Time>2015-08-03T17:59:50.5672753+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\city_from_above.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\city_from_above</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\city_from_above.xnb</Output>
+      <Time>2015-08-03T17:59:50.5722808+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\desert_moons_ruins.xnb</Output>
+      <Time>2015-08-03T17:59:50.5872882+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\entering_hyperspace.xnb</Output>
+      <Time>2015-08-03T17:59:50.5942928+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\exiting_hyperspace.xnb</Output>
+      <Time>2015-08-03T17:59:50.5982959+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\fly_away.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\fly_away</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\fly_away.xnb</Output>
+      <Time>2015-08-03T17:59:50.6032992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\harry.png</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\harry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\harry.xnb</Output>
+      <Time>2015-08-03T17:59:50.6063012+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\hound_hangar.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\hound_hangar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hound_hangar.xnb</Output>
+      <Time>2015-08-03T17:59:50.6103034+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\hull_breach.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\hull_breach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\hull_breach.xnb</Output>
+      <Time>2015-08-03T17:59:50.6123052+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\quartermaster.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\quartermaster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\quartermaster.xnb</Output>
+      <Time>2015-08-03T17:59:50.6173085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\sf_splash_compressed.xnb</Output>
+      <Time>2015-08-03T17:59:50.6253215+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\space_wreckage_compressed.xnb</Output>
+      <Time>2015-08-03T17:59:50.6313178+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.jpg</Source>
+      <Name>Sprites\Backgrounds\Mission Thumbnails\vacuum_colony</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\Mission Thumbnails\vacuum_colony.xnb</Output>
+      <Time>2015-08-03T17:59:50.6353205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\BlackBackground.png</Source>
+      <Name>Sprites\Backgrounds\BlackBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\BlackBackground.xnb</Output>
+      <Time>2015-08-03T17:59:50.5122396+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Nebula.jpg</Source>
+      <Name>Sprites\Space\Nebula</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula.xnb</Output>
+      <Time>2015-08-03T17:59:51.3067652+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Ion Storm.jpg</Source>
+      <Name>Sprites\Space\Ion Storm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Ion Storm.xnb</Output>
+      <Time>2015-08-03T17:59:51.3017628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Edge Of The System.jpg</Source>
+      <Name>Sprites\Space\Edge Of The System</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Edge Of The System.xnb</Output>
+      <Time>2015-08-03T17:59:51.2887537+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Dust Cloud.jpg</Source>
+      <Name>Sprites\Space\Dust Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Dust Cloud.xnb</Output>
+      <Time>2015-08-03T17:59:51.2507293+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Scattered Stars.jpg</Source>
+      <Name>Sprites\Space\Scattered Stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Scattered Stars.xnb</Output>
+      <Time>2015-08-03T17:59:52.122457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Nebula2.jpg</Source>
+      <Name>Sprites\Space\Nebula2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Nebula2.xnb</Output>
+      <Time>2015-08-03T17:59:51.311769+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Hyperspace.jpg</Source>
+      <Name>Sprites\Space\Hyperspace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Hyperspace.xnb</Output>
+      <Time>2015-08-03T17:59:51.2957592+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sensors\sensor_array_dish.png</Source>
+      <Name>Sprites\Sensors\sensor_array_dish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Sensors\sensor_array_dish.xnb</Output>
+      <Time>2015-08-03T17:59:50.7233798+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Missiles\barrakudamk2_rocket.png</Source>
+      <Name>Sprites\Weapons\Missiles\barrakudamk2_rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\barrakudamk2_rocket.xnb</Output>
+      <Time>2015-08-03T17:59:52.2245248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Missiles\cruise_tigershark.png</Source>
+      <Name>Sprites\Weapons\Missiles\cruise_tigershark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\cruise_tigershark.xnb</Output>
+      <Time>2015-08-03T17:59:52.2265257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Missiles\devilfish.png</Source>
+      <Name>Sprites\Weapons\Missiles\devilfish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\devilfish.xnb</Output>
+      <Time>2015-08-03T17:59:52.2285261+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Missiles\mirv_whaleshark.png</Source>
+      <Name>Sprites\Weapons\Missiles\mirv_whaleshark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Missiles\mirv_whaleshark.xnb</Output>
+      <Time>2015-08-03T17:59:52.2295268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\ShipUpgradeScreenBackground.jpg</Source>
+      <Name>Sprites\Backgrounds\ShipUpgradeScreenBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Backgrounds\ShipUpgradeScreenBackground.xnb</Output>
+      <Time>2015-08-03T17:59:50.6433258+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FX\ShieldsRestored.png</Source>
+      <Name>Sprites\FX\ShieldsRestored</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\ShieldsRestored.xnb</Output>
+      <Time>2015-08-03T17:59:50.6843534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\ArmourThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\ArmourThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\ArmourThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1704885+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\MoneyThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\MoneyThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MoneyThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1744898+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponSlotsThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponSlotsThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponSlotsThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1794949+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponTypeEnergy.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponTypeEnergy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeEnergy.xnb</Output>
+      <Time>2015-08-03T17:59:52.1864982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponTypeAOE.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponTypeAOE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeAOE.xnb</Output>
+      <Time>2015-08-03T17:59:52.182496+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponTypeMissile.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponTypeMissile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeMissile.xnb</Output>
+      <Time>2015-08-03T17:59:52.1884991+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponTypeBullet.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponTypeBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBullet.xnb</Output>
+      <Time>2015-08-03T17:59:52.1854997+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\DamageThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\DamageThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\DamageThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1714891+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\RepairThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\RepairThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.176492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\HullThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\HullThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\HullThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1724885+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\RepairRateThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\RepairRateThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RepairRateThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.176492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\SensorRangeThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\SensorRangeThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\SensorRangeThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1784938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\RotateSpeedThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\RotateSpeedThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\RotateSpeedThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.1774918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Panels\Radar.png</Source>
+      <Name>Sprites\UI\Panels\Radar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Panels\Radar.xnb</Output>
+      <Time>2015-08-03T17:59:52.1674869+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\MassThumbnail.png</Source>
+      <Name>Sprites\UI\Thumbnails\MassThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\MassThumbnail.xnb</Output>
+      <Time>2015-08-03T17:59:52.17349+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FX\EngineTrail.png</Source>
+      <Name>Sprites\FX\EngineTrail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\EngineTrail.xnb</Output>
+      <Time>2015-08-03T17:59:50.6763469+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FX\SmokeEffect.png</Source>
+      <Name>Sprites\FX\SmokeEffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\FX\SmokeEffect.xnb</Output>
+      <Time>2015-08-03T17:59:50.6893555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Engines\ImpulseEngine.png</Source>
+      <Name>Sprites\Engines\ImpulseEngine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ImpulseEngine.xnb</Output>
+      <Time>2015-08-03T17:59:50.6553333+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Engines\JetEngine.png</Source>
+      <Name>Sprites\Engines\JetEngine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\JetEngine.xnb</Output>
+      <Time>2015-08-03T17:59:50.6613373+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Engines\ThrusterEngine.png</Source>
+      <Name>Sprites\Engines\ThrusterEngine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Engines\ThrusterEngine.xnb</Output>
+      <Time>2015-08-03T17:59:50.6743494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\Earth From Space.jpg</Source>
+      <Name>Sprites\Space\Earth From Space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\Earth From Space.xnb</Output>
+      <Time>2015-08-03T17:59:51.2807488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Phase Beam\beamcoreb.png</Source>
+      <Name>Sprites\Weapons\Beams\Phase Beam\beamcoreb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamcoreb.xnb</Output>
+      <Time>2015-08-03T17:59:52.2135175+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Phase Beam\beamfringeb.png</Source>
+      <Name>Sprites\Weapons\Beams\Phase Beam\beamfringeb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\beamfringeb.xnb</Output>
+      <Time>2015-08-03T17:59:52.2165186+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\phase_beam_turret.png</Source>
+      <Name>Sprites\Weapons\Turrets\phase_beam_turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\phase_beam_turret.xnb</Output>
+      <Time>2015-08-03T17:59:52.2345297+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.png</Source>
+      <Name>Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Phase Beam\phase_beam_turret_glow.xnb</Output>
+      <Time>2015-08-03T17:59:52.2185199+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.png</Source>
+      <Name>Sprites\Weapons\Turrets\gatlinglaser_hardpoint00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\gatlinglaser_hardpoint00.xnb</Output>
+      <Time>2015-08-03T17:59:52.2335295+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Bullets\blaster.png</Source>
+      <Name>Sprites\Weapons\Bullets\blaster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\blaster.xnb</Output>
+      <Time>2015-08-03T17:59:52.2235224+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Austria.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Austria</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Austria.xnb</Output>
+      <Time>2015-08-03T17:59:51.117641+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\f135.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\f135</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f135.xnb</Output>
+      <Time>2015-08-03T17:59:51.1356517+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\f171.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\f171</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f171.xnb</Output>
+      <Time>2015-08-03T17:59:51.1356517+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\f61.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\f61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\f61.xnb</Output>
+      <Time>2015-08-03T17:59:51.1366541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Hawk.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Hawk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Hawk.xnb</Output>
+      <Time>2015-08-03T17:59:51.1266461+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\UIN Ships\Eagle.png</Source>
+      <Name>Sprites\Ship Sprites\UIN Ships\Eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\UIN Ships\Eagle.xnb</Output>
+      <Time>2015-08-03T17:59:51.1226456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\LargeSpaceStation.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\LargeSpaceStation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\LargeSpaceStation.xnb</Output>
+      <Time>2015-08-03T17:59:51.1916897+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SmallAdvancedSpaceStation.xnb</Output>
+      <Time>2015-08-03T17:59:51.2097025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Jackal.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Jackal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Jackal.xnb</Output>
+      <Time>2015-08-03T17:59:51.1076335+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Mosquito.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Mosquito</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Mosquito.xnb</Output>
+      <Time>2015-08-03T17:59:51.1096353+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Hulk.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Hulk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Hulk.xnb</Output>
+      <Time>2015-08-03T17:59:51.1066333+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Tyrant.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Tyrant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Tyrant.xnb</Output>
+      <Time>2015-08-03T17:59:51.1156393+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Marauder.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Marauder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Marauder.xnb</Output>
+      <Time>2015-08-03T17:59:51.108635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Raider.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Raider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Raider.xnb</Output>
+      <Time>2015-08-03T17:59:51.1116357+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship Sprites\Pirate Ships\Reaper.png</Source>
+      <Name>Sprites\Ship Sprites\Pirate Ships\Reaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Ship Sprites\Pirate Ships\Reaper.xnb</Output>
+      <Time>2015-08-03T17:59:51.1116357+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\6pdr-gun-hard.png</Source>
+      <Name>Sprites\Weapons\Turrets\6pdr-gun-hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun-hard.xnb</Output>
+      <Time>2015-08-03T17:59:52.231529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\6pdr-gun.png</Source>
+      <Name>Sprites\Weapons\Turrets\6pdr-gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\6pdr-gun.xnb</Output>
+      <Time>2015-08-03T17:59:52.2325288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.png</Source>
+      <Name>Sprites\Weapons\Bullets\6pdr-gun-hard-recoil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-hard-recoil.xnb</Output>
+      <Time>2015-08-03T17:59:52.2205204+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Bullets\6pdr-gun-recoil.png</Source>
+      <Name>Sprites\Weapons\Bullets\6pdr-gun-recoil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Bullets\6pdr-gun-recoil.xnb</Output>
+      <Time>2015-08-03T17:59:52.2225213+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Ion Beam\beam_laser_core.png</Source>
+      <Name>Sprites\Weapons\Beams\Ion Beam\beam_laser_core</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_core.xnb</Output>
+      <Time>2015-08-03T17:59:52.208515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.png</Source>
+      <Name>Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\beam_laser_fringe.xnb</Output>
+      <Time>2015-08-03T17:59:52.2095135+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Turrets\ion_beam_turret.png</Source>
+      <Name>Sprites\Weapons\Turrets\ion_beam_turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Turrets\ion_beam_turret.xnb</Output>
+      <Time>2015-08-03T17:59:52.2345297+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.png</Source>
+      <Name>Sprites\Weapons\Beams\Ion Beam\ion_turret_glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Weapons\Beams\Ion Beam\ion_turret_glow.xnb</Output>
+      <Time>2015-08-03T17:59:52.2115153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\BlueGalaxy.jpg</Source>
+      <Name>Sprites\Space\BlueGalaxy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\BlueGalaxy.xnb</Output>
+      <Time>2015-08-03T17:59:51.2357189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\StarrySpace.jpg</Source>
+      <Name>Sprites\Space\StarrySpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\StarrySpace.xnb</Output>
+      <Time>2015-08-03T17:59:52.1334648+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\spacestation.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\spacestation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\spacestation.xnb</Output>
+      <Time>2015-08-03T17:59:51.2247112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\SS1.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\SS1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\SS1.xnb</Output>
+      <Time>2015-08-03T17:59:51.2036973+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\tribase-u1-d0.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\tribase-u1-d0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u1-d0.xnb</Output>
+      <Time>2015-08-03T17:59:51.2277158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\tribase-u2-d0.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\tribase-u2-d0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\tribase-u2-d0.xnb</Output>
+      <Time>2015-08-03T17:59:51.2317184+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\MilitarySpaceStation.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\MilitarySpaceStation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\MilitarySpaceStation.xnb</Output>
+      <Time>2015-08-03T17:59:51.195692+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\WB_baseu2_d0.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\WB_baseu2_d0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu2_d0.xnb</Output>
+      <Time>2015-08-03T17:59:51.2147046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\WB_baseu3_d0.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\WB_baseu3_d0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\WB_baseu3_d0.xnb</Output>
+      <Time>2015-08-03T17:59:51.2217088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\Hypergate.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\Hypergate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\Hypergate.xnb</Output>
+      <Time>2015-08-03T17:59:51.1806854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space\PlanetAndSpace.jpg</Source>
+      <Name>Sprites\Space\PlanetAndSpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space\PlanetAndSpace.xnb</Output>
+      <Time>2015-08-03T17:59:51.3207745+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Thumbnails\WeaponTypeBeam.png</Source>
+      <Name>Sprites\UI\Thumbnails\WeaponTypeBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Thumbnails\WeaponTypeBeam.xnb</Output>
+      <Time>2015-08-03T17:59:52.1844973+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UI\Command Markers\ObjectSensorMarker.png</Source>
+      <Name>Sprites\UI\Command Markers\ObjectSensorMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\UI\Command Markers\ObjectSensorMarker.xnb</Output>
+      <Time>2015-08-03T17:59:52.1514793+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\ComRelay.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\ComRelay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ComRelay.xnb</Output>
+      <Time>2015-08-03T17:59:51.143657+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\ConstructionRig.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\ConstructionRig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\ConstructionRig.xnb</Output>
+      <Time>2015-08-03T17:59:51.1446581+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Space Objects\Space Stations\NavBuoy.png</Source>
+      <Name>Sprites\Space Objects\Space Stations\NavBuoy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sprites\Space Objects\Space Stations\NavBuoy.xnb</Output>
+      <Time>2015-08-03T17:59:51.1966935+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Space Data\Space Data\Level1Data.xml</Source>
+      <Name>XML\Space Data\Space Data\Level1Data</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Space Data\Level1Data.xnb</Output>
+      <Time>2015-08-03T17:59:53.7100141+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Crew\HumanCrewMember.xml</Source>
+      <Name>XML\Crew\HumanCrewMember</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Crew\HumanCrewMember.xnb</Output>
+      <Time>2015-08-03T17:59:52.3005752+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\50mmAutoCannon.xml</Source>
+      <Name>XML\Weapons\50mmAutoCannon</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\50mmAutoCannon.xnb</Output>
+      <Time>2015-08-03T17:59:53.7440371+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\50mmAutoCannonBullet.xnb</Output>
+      <Time>2015-08-03T17:59:52.2485394+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Menu Screens\MainMenuScreen.xml</Source>
+      <Name>XML\Menu Screens\MainMenuScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\MainMenuScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.5097341+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\UI\Buttons\MenuButton.xml</Source>
+      <Name>XML\UI\Buttons\MenuButton</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Buttons\MenuButton.xnb</Output>
+      <Time>2015-08-03T17:59:53.7170191+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Menu Screens\LoadingScreen.xml</Source>
+      <Name>XML\Menu Screens\LoadingScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LoadingScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.5057311+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Menu Screens\OptionsScreen.xml</Source>
+      <Name>XML\Menu Screens\OptionsScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\OptionsScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.5107344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Shields\LightEnergyShield.xml</Source>
+      <Name>XML\Shields\LightEnergyShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LightEnergyShield.xnb</Output>
+      <Time>2015-08-03T17:59:52.5598071+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Settings\DefaultOptions.xml</Source>
+      <Name>XML\Settings\DefaultOptions</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Settings\DefaultOptions.xnb</Output>
+      <Time>2015-08-03T17:59:52.5267467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\UI\Sensors\SensorsUI.xml</Source>
+      <Name>XML\UI\Sensors\SensorsUI</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\UI\Sensors\SensorsUI.xnb</Output>
+      <Time>2015-08-03T17:59:53.7420353+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Engines\LightThruster.xml</Source>
+      <Name>XML\Engines\LightThruster</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\LightThruster.xnb</Output>
+      <Time>2015-08-03T17:59:52.4707078+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Sensors\ShortRangeSensor.xml</Source>
+      <Name>XML\Sensors\ShortRangeSensor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\ShortRangeSensor.xnb</Output>
+      <Time>2015-08-03T17:59:52.5237426+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Menu Screens\LevelSelectScreen.xml</Source>
+      <Name>XML\Menu Screens\LevelSelectScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\LevelSelectScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.5027286+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Space Data\Space Data\Level2Data.xml</Source>
+      <Name>XML\Space Data\Space Data\Level2Data</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Space Data\Level2Data.xnb</Output>
+      <Time>2015-08-03T17:59:53.7110147+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Engines\SmallImpulseEngine.xml</Source>
+      <Name>XML\Engines\SmallImpulseEngine</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\SmallImpulseEngine.xnb</Output>
+      <Time>2015-08-03T17:59:52.4737098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Engines\HeavyThruster.xml</Source>
+      <Name>XML\Engines\HeavyThruster</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\HeavyThruster.xnb</Output>
+      <Time>2015-08-03T17:59:52.4436899+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Sensors\LongRangeSensor.xml</Source>
+      <Name>XML\Sensors\LongRangeSensor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Sensors\LongRangeSensor.xnb</Output>
+      <Time>2015-08-03T17:59:52.5177446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Shields\LowFrequencyDeflectorShield.xml</Source>
+      <Name>XML\Shields\LowFrequencyDeflectorShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\LowFrequencyDeflectorShield.xnb</Output>
+      <Time>2015-08-03T17:59:52.8164112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Shields\AlternatingFrequencyDeflectorShield.xml</Source>
+      <Name>XML\Shields\AlternatingFrequencyDeflectorShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\AlternatingFrequencyDeflectorShield.xnb</Output>
+      <Time>2015-08-03T17:59:52.5447967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Engines\JetThruster.xml</Source>
+      <Name>XML\Engines\JetThruster</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\JetThruster.xnb</Output>
+      <Time>2015-08-03T17:59:52.4446905+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\BarrakudaMissileBattery.xml</Source>
+      <Name>XML\Weapons\BarrakudaMissileBattery</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\BarrakudaMissileBattery.xnb</Output>
+      <Time>2015-08-03T17:59:53.7460384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\BarrakudaMissile.xnb</Output>
+      <Time>2015-08-03T17:59:52.2885664+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Menu Screens\ShipUpgradeScreen.xml</Source>
+      <Name>XML\Menu Screens\ShipUpgradeScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Menu Screens\ShipUpgradeScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.5127361+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\FX\ShieldsRestored.xml</Source>
+      <Name>XML\FX\ShieldsRestored</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\ShieldsRestored.xnb</Output>
+      <Time>2015-08-03T17:59:52.4797129+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\FX\EngineTrail.xml</Source>
+      <Name>XML\FX\EngineTrail</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\EngineTrail.xnb</Output>
+      <Time>2015-08-03T17:59:52.4757111+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\FX\Smoke.xml</Source>
+      <Name>XML\FX\Smoke</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Smoke.xnb</Output>
+      <Time>2015-08-03T17:59:52.4927258+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\FX\Explosion.xml</Source>
+      <Name>XML\FX\Explosion</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\FX\Explosion.xnb</Output>
+      <Time>2015-08-03T17:59:52.4777133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Engines\RocketEngine.xml</Source>
+      <Name>XML\Engines\RocketEngine</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Engines\RocketEngine.xnb</Output>
+      <Time>2015-08-03T17:59:52.4727087+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Dragonfly</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Dragonfly.xnb</Output>
+      <Time>2015-08-03T17:59:52.3756233+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\Pirate Ships\Gnat.xml</Source>
+      <Name>XML\Cut Scenes\Ships\Pirate Ships\Gnat</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Gnat.xnb</Output>
+      <Time>2015-08-03T17:59:52.3406005+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Hurricane.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Hurricane</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hurricane.xnb</Output>
+      <Time>2015-08-03T17:59:52.4386878+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Tsunami.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Tsunami</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tsunami.xnb</Output>
+      <Time>2015-08-03T17:59:52.4416894+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Barracuda.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Barracuda</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Barracuda.xnb</Output>
+      <Time>2015-08-03T17:59:52.3736229+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Tornado.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Tornado</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Tornado.xnb</Output>
+      <Time>2015-08-03T17:59:52.440687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Harpoon.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Harpoon</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Harpoon.xnb</Output>
+      <Time>2015-08-03T17:59:52.4196769+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\PhaseBeamTurret.xml</Source>
+      <Name>XML\Weapons\PhaseBeamTurret</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\PhaseBeamTurret.xnb</Output>
+      <Time>2015-08-03T17:59:53.7600477+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Beams\PhaseBeam</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\PhaseBeam.xnb</Output>
+      <Time>2015-08-03T17:59:52.2455374+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\GatlingLaserTurret.xml</Source>
+      <Name>XML\Weapons\GatlingLaserTurret</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\GatlingLaserTurret.xnb</Output>
+      <Time>2015-08-03T17:59:53.7500428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Bullets\LaserBullet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\LaserBullet.xnb</Output>
+      <Time>2015-08-03T17:59:52.2515427+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Shields\HighDensityPhaseShield.xml</Source>
+      <Name>XML\Shields\HighDensityPhaseShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\HighDensityPhaseShield.xnb</Output>
+      <Time>2015-08-03T17:59:52.5578054+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\IntroCutScene1.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\IntroCutScene1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene1.xnb</Output>
+      <Time>2015-08-03T17:59:52.3085797+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\TextCutSceneScreen.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\TextCutSceneScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\TextCutSceneScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.3396003+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xml</Source>
+      <Name>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene1.xnb</Output>
+      <Time>2015-08-03T17:59:52.3025749+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xml</Source>
+      <Name>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene2.xnb</Output>
+      <Time>2015-08-03T17:59:52.3035759+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\IntroCutScene2.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\IntroCutScene2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene2.xnb</Output>
+      <Time>2015-08-03T17:59:52.3345974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Barracuda.xml</Source>
+      <Name>XML\Ships\Barracuda</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Barracuda.xnb</Output>
+      <Time>2015-08-03T17:59:53.6509116+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Dragonfly.xml</Source>
+      <Name>XML\Ships\Dragonfly</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Dragonfly.xnb</Output>
+      <Time>2015-08-03T17:59:53.6709886+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Gnat.xml</Source>
+      <Name>XML\Ships\Gnat</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Gnat.xnb</Output>
+      <Time>2015-08-03T17:59:53.6990068+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Harpoon.xml</Source>
+      <Name>XML\Ships\Harpoon</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Harpoon.xnb</Output>
+      <Time>2015-08-03T17:59:53.7000074+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Hurricane.xml</Source>
+      <Name>XML\Ships\Hurricane</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hurricane.xnb</Output>
+      <Time>2015-08-03T17:59:53.7030094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Tornado.xml</Source>
+      <Name>XML\Ships\Tornado</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tornado.xnb</Output>
+      <Time>2015-08-03T17:59:53.7040105+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Tsunami.xml</Source>
+      <Name>XML\Ships\Tsunami</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Tsunami.xnb</Output>
+      <Time>2015-08-03T17:59:53.7060123+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Austria.xml</Source>
+      <Name>XML\Ships\Austria</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Austria.xnb</Output>
+      <Time>2015-08-03T17:59:53.647907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Eagle.xml</Source>
+      <Name>XML\Ships\Eagle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Eagle.xnb</Output>
+      <Time>2015-08-03T17:59:53.6739897+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ships\Hawk.xml</Source>
+      <Name>XML\Ships\Hawk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ships\Hawk.xnb</Output>
+      <Time>2015-08-03T17:59:53.7020088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Austria.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Austria</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Austria.xnb</Output>
+      <Time>2015-08-03T17:59:52.3676189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Eagle.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Eagle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Eagle.xnb</Output>
+      <Time>2015-08-03T17:59:52.3826335+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\UIN Ships\Hawk.xml</Source>
+      <Name>XML\Cut Scenes\Ships\UIN Ships\Hawk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\UIN Ships\Hawk.xnb</Output>
+      <Time>2015-08-03T17:59:52.4366848+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xml</Source>
+      <Name>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene3.xnb</Output>
+      <Time>2015-08-03T17:59:52.3055768+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\IntroCutScene3.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\IntroCutScene3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene3.xnb</Output>
+      <Time>2015-08-03T17:59:52.3365983+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xml</Source>
+      <Name>XML\Cut Scenes\Ships\Pirate Ships\Tyrant</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Tyrant.xnb</Output>
+      <Time>2015-08-03T17:59:52.3466084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Ships\Pirate Ships\Hulk.xml</Source>
+      <Name>XML\Cut Scenes\Ships\Pirate Ships\Hulk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Ships\Pirate Ships\Hulk.xnb</Output>
+      <Time>2015-08-03T17:59:52.3426018+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Shields\FiniteChargeDeflectorShield.xml</Source>
+      <Name>XML\Shields\FiniteChargeDeflectorShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Shields\FiniteChargeDeflectorShield.xnb</Output>
+      <Time>2015-08-03T17:59:52.5488015+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\SixPointDualRepeaterTurret.xml</Source>
+      <Name>XML\Weapons\SixPointDualRepeaterTurret</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\SixPointDualRepeaterTurret.xnb</Output>
+      <Time>2015-08-03T17:59:53.7610484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\MultiRepeaterTurret.xml</Source>
+      <Name>XML\Weapons\MultiRepeaterTurret</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\MultiRepeaterTurret.xnb</Output>
+      <Time>2015-08-03T17:59:53.7580464+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\SixPointDualRepeaterBullet.xnb</Output>
+      <Time>2015-08-03T17:59:52.2845642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Bullets\MultiRepeaterBullet.xnb</Output>
+      <Time>2015-08-03T17:59:52.254543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\IonBeamTurret.xml</Source>
+      <Name>XML\Weapons\IonBeamTurret</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\IonBeamTurret.xnb</Output>
+      <Time>2015-08-03T17:59:53.7530431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Beams\IonBeam.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Beams\IonBeam</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Beams\IonBeam.xnb</Output>
+      <Time>2015-08-03T17:59:52.2435365+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Space Data\Space Data\Level3Data.xml</Source>
+      <Name>XML\Space Data\Space Data\Level3Data</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Space Data\Level3Data.xnb</Output>
+      <Time>2015-08-03T17:59:53.7130165+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\TigerSharkMissile.xnb</Output>
+      <Time>2015-08-03T17:59:52.2905686+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xml</Source>
+      <Name>XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Bullets, Beams and Missiles\Missiles\WhaleSharkMissile.xnb</Output>
+      <Time>2015-08-03T17:59:52.2955753+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\WhaleSharkMissileBattery.xml</Source>
+      <Name>XML\Weapons\WhaleSharkMissileBattery</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\WhaleSharkMissileBattery.xnb</Output>
+      <Time>2015-08-03T17:59:53.7640512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Weapons\TigerSharkMissileBattery.xml</Source>
+      <Name>XML\Weapons\TigerSharkMissileBattery</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Weapons\TigerSharkMissileBattery.xnb</Output>
+      <Time>2015-08-03T17:59:53.7630501+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Gameplay Screens\SensorsScreen.xml</Source>
+      <Name>XML\Gameplay Screens\SensorsScreen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Gameplay Screens\SensorsScreen.xnb</Output>
+      <Time>2015-08-03T17:59:52.4977283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\AuxiliaryThrusters.xml</Source>
+      <Name>XML\Ship Mods\Utility\AuxiliaryThrusters</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AuxiliaryThrusters.xnb</Output>
+      <Time>2015-08-03T17:59:53.5698138+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\WeaponPreIgniter.xml</Source>
+      <Name>XML\Ship Mods\Offensive\WeaponPreIgniter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\WeaponPreIgniter.xnb</Output>
+      <Time>2015-08-03T17:59:53.3945633+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\AutomatedReloader.xml</Source>
+      <Name>XML\Ship Mods\Offensive\AutomatedReloader</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\AutomatedReloader.xnb</Output>
+      <Time>2015-08-03T17:59:53.2703654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\IntegratedTargetingUnit.xml</Source>
+      <Name>XML\Ship Mods\Offensive\IntegratedTargetingUnit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\IntegratedTargetingUnit.xnb</Output>
+      <Time>2015-08-03T17:59:53.2763711+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Offensive\MissileTargetingComputer.xml</Source>
+      <Name>XML\Ship Mods\Offensive\MissileTargetingComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Offensive\MissileTargetingComputer.xnb</Output>
+      <Time>2015-08-03T17:59:53.3925598+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\FluxResistantConduits.xml</Source>
+      <Name>XML\Ship Mods\Utility\FluxResistantConduits</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\FluxResistantConduits.xnb</Output>
+      <Time>2015-08-03T17:59:53.6419048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\NavigationComputer.xml</Source>
+      <Name>XML\Ship Mods\Utility\NavigationComputer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\NavigationComputer.xnb</Output>
+      <Time>2015-08-03T17:59:53.6449046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\IntertialDampenerBypass.xml</Source>
+      <Name>XML\Ship Mods\Utility\IntertialDampenerBypass</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\IntertialDampenerBypass.xnb</Output>
+      <Time>2015-08-03T17:59:53.6439048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\HardenedShields.xml</Source>
+      <Name>XML\Ship Mods\Defensive\HardenedShields</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\HardenedShields.xnb</Output>
+      <Time>2015-08-03T17:59:52.8234158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\EmergencyShieldGenerator.xml</Source>
+      <Name>XML\Ship Mods\Defensive\EmergencyShieldGenerator</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\EmergencyShieldGenerator.xnb</Output>
+      <Time>2015-08-03T17:59:52.8204143+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Defensive\UpgradedShieldGenerator.xml</Source>
+      <Name>XML\Ship Mods\Defensive\UpgradedShieldGenerator</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Defensive\UpgradedShieldGenerator.xnb</Output>
+      <Time>2015-08-03T17:59:52.8575197+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\AdvancedOptics.xml</Source>
+      <Name>XML\Ship Mods\Utility\AdvancedOptics</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\AdvancedOptics.xnb</Output>
+      <Time>2015-08-03T17:59:53.5658115+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Ship Mods\Utility\EmergencyTemporalShift.xml</Source>
+      <Name>XML\Ship Mods\Utility\EmergencyTemporalShift</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Ship Mods\Utility\EmergencyTemporalShift.xnb</Output>
+      <Time>2015-08-03T17:59:53.6238907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xml</Source>
+      <Name>XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Cut Scene Texts\IntroTextCutScene4.xnb</Output>
+      <Time>2015-08-03T17:59:52.3065784+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Cut Scenes\Level Data\IntroCutScene4.xml</Source>
+      <Name>XML\Cut Scenes\Level Data\IntroCutScene4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Cut Scenes\Level Data\IntroCutScene4.xnb</Output>
+      <Time>2015-08-03T17:59:52.3375977+01:00</Time>
+    </Item>
+    <Item>
+      <Source>XML\Space Data\Dialog Data\Level1Dialog.xml</Source>
+      <Name>XML\Space Data\Dialog Data\Level1Dialog</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\XML\Space Data\Dialog Data\Level1Dialog.xnb</Output>
+      <Time>2015-08-04T13:08:43.8230616+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Weapons\autocannon_fire_01.wav</Source>
+      <Name>Sounds\Weapons\autocannon_fire_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\autocannon_fire_01.xnb</Output>
+      <Time>2015-08-03T17:59:50.4942273+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UI\ButtonPressedSound.wav</Source>
+      <Name>Sounds\UI\ButtonPressedSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound.xnb</Output>
+      <Time>2015-08-03T17:59:50.1486347+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UI\science_fiction_electronic_beep_or_button.wav</Source>
+      <Name>Sounds\UI\science_fiction_electronic_beep_or_button</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\science_fiction_electronic_beep_or_button.xnb</Output>
+      <Time>2015-08-03T17:59:50.4882254+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UI\ButtonPressedSound2.wav</Source>
+      <Name>Sounds\UI\ButtonPressedSound2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonPressedSound2.xnb</Output>
+      <Time>2015-08-03T17:59:50.4842202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UI\ButtonHover.wav</Source>
+      <Name>Sounds\UI\ButtonHover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\UI\ButtonHover.xnb</Output>
+      <Time>2015-08-03T17:59:50.1456322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Weapons\laser_loop.wav</Source>
+      <Name>Sounds\Weapons\laser_loop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\laser_loop.xnb</Output>
+      <Time>2015-08-03T17:59:50.5062348+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Weapons\guardian_pd_fire_01.wav</Source>
+      <Name>Sounds\Weapons\guardian_pd_fire_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\guardian_pd_fire_01.xnb</Output>
+      <Time>2015-08-03T17:59:50.5012336+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Weapons\sabot_srm_fire_01.wav</Source>
+      <Name>Sounds\Weapons\sabot_srm_fire_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Weapons\sabot_srm_fire_01.xnb</Output>
+      <Time>2015-08-03T17:59:50.5102375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Engines\engine_02_midtek_00_fighter.wav</Source>
+      <Name>Sounds\Engines\engine_02_midtek_00_fighter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Sounds\Engines\engine_02_midtek_00_fighter.xnb</Output>
+      <Time>2015-08-03T17:59:50.1426298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\Please, answer me my friend.mp3</Source>
+      <Name>Music\Ambient Music\Please, answer me my friend</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Please, answer me my friend.wma</Extra>
+      <Time>2015-08-03T17:59:48.7406408+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Other worlds than these.mp3</Source>
+      <Name>Music\Menu Music\Other worlds than these</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Other worlds than these.wma</Extra>
+      <Time>2015-08-03T17:59:50.0745851+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\I didn't do it.mp3</Source>
+      <Name>Music\Ambient Music\I didn't do it</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\I didn't do it.wma</Extra>
+      <Time>2015-08-03T17:59:48.7096194+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Air.mp3</Source>
+      <Name>Music\Menu Music\Air</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Air.wma</Extra>
+      <Time>2015-08-03T17:59:49.6552837+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Dream about space.mp3</Source>
+      <Name>Music\Menu Music\Dream about space</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Dream about space.wma</Extra>
+      <Time>2015-08-03T17:59:49.9094516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\Sweet Ice.mp3</Source>
+      <Name>Music\Ambient Music\Sweet Ice</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Sweet Ice.wma</Extra>
+      <Time>2015-08-03T17:59:48.7946762+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Szymon Matuszewski - Space Chase.mp3</Source>
+      <Name>Music\Battle Music\Szymon Matuszewski - Space Chase</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space Chase.wma</Extra>
+      <Time>2015-08-03T17:59:49.2800355+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Szymon Matuszewski - Space walk.mp3</Source>
+      <Name>Music\Battle Music\Szymon Matuszewski - Space walk</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Szymon Matuszewski - Space walk.wma</Extra>
+      <Time>2015-08-03T17:59:49.3460794+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\Forgotten Victory.mp3</Source>
+      <Name>Music\Ambient Music\Forgotten Victory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Forgotten Victory.wma</Extra>
+      <Time>2015-08-03T17:59:48.5765319+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Xeon5.mp3</Source>
+      <Name>Music\Battle Music\Xeon5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon5.wma</Extra>
+      <Time>2015-08-03T17:59:49.5061839+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Xeon6.mp3</Source>
+      <Name>Music\Battle Music\Xeon6</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Xeon6.wma</Extra>
+      <Time>2015-08-03T17:59:49.5822352+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\n-Dimensions.mp3</Source>
+      <Name>Music\Battle Music\n-Dimensions</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\n-Dimensions.wma</Extra>
+      <Time>2015-08-03T17:59:49.6382729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Orbital Colossus.mp3</Source>
+      <Name>Music\Battle Music\Orbital Colossus</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Orbital Colossus.wma</Extra>
+      <Time>2015-08-03T17:59:49.1546562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Thrust Sequence.mp3</Source>
+      <Name>Music\Battle Music\Thrust Sequence</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Thrust Sequence.wma</Extra>
+      <Time>2015-08-03T17:59:49.4271332+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Spacelife.mp3</Source>
+      <Name>Music\Menu Music\Spacelife</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Spacelife.wma</Extra>
+      <Time>2015-08-03T17:59:50.1306236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\Space.mp3</Source>
+      <Name>Music\Ambient Music\Space</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Space.wma</Extra>
+      <Time>2015-08-03T17:59:48.7706603+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Second stand.mp3</Source>
+      <Name>Music\Battle Music\Second stand</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Second stand.wma</Extra>
+      <Time>2015-08-03T17:59:49.2199965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Themka.mp3</Source>
+      <Name>Music\Battle Music\Themka</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Themka.wma</Extra>
+      <Time>2015-08-03T17:59:49.3630902+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Space and Sorrow.mp3</Source>
+      <Name>Music\Menu Music\Space and Sorrow</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Space and Sorrow.wma</Extra>
+      <Time>2015-08-03T17:59:50.0945984+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Menu Music\Frozen Jam.mp3</Source>
+      <Name>Music\Menu Music\Frozen Jam</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Menu Music\Frozen Jam.wma</Extra>
+      <Time>2015-08-03T17:59:50.0635795+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle Music\Dance Music.mp3</Source>
+      <Name>Music\Battle Music\Dance Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Battle Music\Dance Music.wma</Extra>
+      <Time>2015-08-03T17:59:49.0230979+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Ambient Music\Blue Space.mp3</Source>
+      <Name>Music\Ambient Music\Blue Space</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.xnb</Output>
+      <Extra>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Music\Ambient Music\Blue Space.wma</Extra>
+      <Time>2015-08-03T17:59:48.4834701+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TextFont.spritefont</Source>
+      <Name>Fonts\TextFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\TextFont.xnb</Output>
+      <Time>2015-08-03T17:59:48.4124268+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SmallGameUIFont.spritefont</Source>
+      <Name>Fonts\SmallGameUIFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\Fonts\SmallGameUIFont.xnb</Output>
+      <Time>2015-08-03T17:59:48.3973621+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{64B555B3-7CA0-4FF6-8FC2-69246FB68E08}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxy\ToGalaxy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll</Key>
+        <Value>2015-08-03T19:20:44.2501387+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-03T16:50:45.1394543+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
