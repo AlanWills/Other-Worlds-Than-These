@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,7 @@ using System.Text;
 using ToGalaxy.Screens.Gameplay_Screens;
 using ToGalaxyCustomData;
 using ToGalaxyGameLibrary;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxy.UI
@@ -30,7 +32,7 @@ namespace ToGalaxy.UI
 
         #endregion
 
-        private SortedList<float, string> AllStrings
+        public static SortedList<float, string> AllStrings
         {
             get;
             set;
@@ -48,23 +50,7 @@ namespace ToGalaxy.UI
             set;
         }
 
-        #region Extra UI
-
-        private Button PreviousStringButton
-        {
-            get;
-            set;
-        }
-
-        private Button NextStringButton
-        {
-            get;
-            set;
-        }
-
-        #endregion
-
-        private float totalGameTime = 0;
+        private static float totalGameTime = 0;
 
         public DialogInformationPanel(string dataAsset, string text, SpaceScreen spaceScreen, Vector2 position, Vector2 dimensions, Color colour, string name, float opacity = 0.5f, float lifeTime = float.MaxValue)
             : base(dataAsset, text, position, dimensions, colour, name, opacity, lifeTime)
@@ -77,41 +63,25 @@ namespace ToGalaxy.UI
 
         private void SetUpButtons()
         {
-            PreviousStringButton = new Button(
-                Button.defaultButtonAsset,
-                new Vector2(-Dimensions.X * 0.3f, Dimensions.Y * 0.3f),
-                Button.defaultColour,
-                Button.highlightedColour,
-                "Previous String Button",
-                "Previous");
-            PreviousStringButton.InteractEvent += PreviousStringEvent;
-            PreviousStringButton.EnableAndDisableEvent += ButtonActivationEvent;
-            LoadAndAddUIElement(PreviousStringButton);
 
-            NextStringButton = new Button(
-                Button.defaultButtonAsset,
-                new Vector2(Dimensions.X * 0.3f, Dimensions.Y * 0.3f),
-                Button.defaultColour,
-                Button.highlightedColour,
-                "Next String Button",
-                "Next");
-            NextStringButton.InteractEvent += NextStringEvent;
-            NextStringButton.EnableAndDisableEvent += ButtonActivationEvent;
-            LoadAndAddUIElement(NextStringButton);
         }
 
-        private void PreviousStringEvent(object sender, EventArgs e)
+        private void PreviousString()
         {
-            SpaceScreen.PlayerShip.Select();
-            CurrentStringCounter--;
-            DialogBoxText.ChangeText(AllStrings.ElementAt(CurrentStringCounter).Value);
+            if (CurrentStringCounter > 0)
+            {
+                CurrentStringCounter--;
+                DialogBoxText.ChangeText(AllStrings.ElementAt(CurrentStringCounter).Value);
+            }
         }
 
-        private void NextStringEvent(object sender, EventArgs e)
+        private void NextString()
         {
-            SpaceScreen.PlayerShip.Select();
-            CurrentStringCounter++;
-            DialogBoxText.ChangeText(AllStrings.ElementAt(CurrentStringCounter).Value);
+            if (CurrentStringCounter < MaxUnlockedStringCounter)
+            {
+                CurrentStringCounter++;
+                DialogBoxText.ChangeText(AllStrings.ElementAt(CurrentStringCounter).Value);
+            }
         }
 
         public override void LoadContent(ContentManager content)
@@ -153,11 +123,28 @@ namespace ToGalaxy.UI
             }
 
             DialogBoxText.ChangeText(AllStrings.ElementAt(CurrentStringCounter).Value);
+
+            if (InputManager.KeyReleased(Keys.Tab))
+            {
+                if (InputManager.IsKeyDown(Keys.LeftShift))
+                {
+                    PreviousString();
+                }
+                else
+                {
+                    NextString();
+                }
+            }
         }
 
-        public void AddString(string text, float time)
+        public static void AddString(string text, float time)
         {
             AllStrings.Add(time, text);
+        }
+
+        public static void AddStringFromCurrentTime(string text, float time)
+        {
+            AllStrings.Add(time + totalGameTime, text);
         }
 
         private void ButtonActivationEvent(object sender, EventArgs e)

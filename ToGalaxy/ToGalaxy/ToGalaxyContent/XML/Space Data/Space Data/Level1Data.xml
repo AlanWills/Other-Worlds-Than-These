@@ -44,7 +44,27 @@
       0.002
       0.0001
     </RandomObjectsProbability>
-    <PresetObjectsNames>
+    <MissionData>
+      <MissionType>Escape</MissionType>
+      <Description>After departing UIN station J'henna, your hyperspace malfunctions leaving you stranded on the outskirts of the J'hal system.  Pirate presence here is small, but you have no warp capabilities.  You must find another way to reach Turin station before it is too late.</Description>
+      <MissionThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/exiting_hyperspace</MissionThumbnailAsset>
+      <EnemiesToKill></EnemiesToKill>
+      <MustInteractObjects></MustInteractObjects>
+      <ExitObject>
+        <Name></Name>
+        <TextureAsset></TextureAsset>
+        <ObjectDialogData>
+          <Dialog></Dialog>
+          <TimeToShow>0</TimeToShow>
+        </ObjectDialogData>
+        <Position>0 0</Position>
+        <OnInteractDialog>
+          <Dialog></Dialog>
+          <TimeToShow></TimeToShow>
+        </OnInteractDialog>
+      </ExitObject>
+    </MissionData>
+    <!--<PresetObjectsNames>
       <Item>Space Stations/Hypergate</Item>
       <Item>Space Stations/ComRelay</Item>
     </PresetObjectsNames>
@@ -55,8 +75,6 @@
     <Exit>Space Stations/Hypergate</Exit>
     <MustActivateObjects>
       <Item>Space Stations/ComRelay</Item>
-    </MustActivateObjects>
-    <Description>After departing UIN station J'henna, your hyperspace malfunctions leaving you stranded on the outskirts of the J'hal system.  Pirate presence here is small, but you have no warp capabilities.  You must find another way to reach Turin station before it is too late.</Description>
-    <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/exiting_hyperspace</LevelThumbnailAsset>
+    </MustActivateObjects>-->
   </Asset>
 </XnaContent>

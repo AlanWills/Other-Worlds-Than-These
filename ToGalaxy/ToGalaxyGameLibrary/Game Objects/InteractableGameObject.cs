@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 
 namespace ToGalaxyGameLibrary.Game_Objects
 {
@@ -36,13 +37,18 @@ namespace ToGalaxyGameLibrary.Game_Objects
 
             if (IsAlive())
             {
-                if (ScreenManager.Input.IsKeyDown(InteractKey))
+                if (InputManager.IsKeyDown(InteractKey))
                 {
-                    if (InteractEvent != null)
-                    {
-                        InteractEvent(this, EventArgs.Empty);
-                    }
+                    OnInteract();
                 }
+            }
+        }
+
+        public virtual void OnInteract()
+        {
+            if (InteractEvent != null)
+            {
+                InteractEvent(this, EventArgs.Empty);
             }
         }
     }

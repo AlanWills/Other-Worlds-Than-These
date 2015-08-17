@@ -60,9 +60,6 @@
     <XnaCompressContent>true</XnaCompressContent>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FuncWorks.XNA.XTiled">
-      <HintPath>..\..\..\..\..\..\Downloads\XTiled-0.8.1.1i\x86\FuncWorks.XNA.XTiled.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
     <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
     <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
@@ -77,6 +74,9 @@
   <ItemGroup>
     <Compile Include="AI\MovementBehaviourStateMachine.cs" />
     <Compile Include="Gameplay Objects\Ship Interior Screen\CrewMember.cs" />
+    <Compile Include="Gameplay Objects\Space Screen\Mission GameObjects\MissionEnemy.cs" />
+    <Compile Include="Gameplay Objects\Space Screen\Mission GameObjects\MissionExit.cs" />
+    <Compile Include="Gameplay Objects\Space Screen\Mission GameObjects\MissionInteractableObject.cs" />
     <Compile Include="Gameplay Objects\Space Screen\Ship Add Ons\ModFunctionManager.cs" />
     <Compile Include="Gameplay Objects\Space Screen\Weapons\Beam.cs" />
     <Compile Include="Gameplay Objects\Space Screen\Weapons\BeamTurret.cs" />
@@ -91,7 +91,8 @@
     <Compile Include="Gameplay Objects\Space Screen\Ships\Ship.cs" />
     <Compile Include="Gameplay Objects\Space Screen\Ship Add Ons\ShipMod.cs" />
     <Compile Include="Gameplay Objects\Space Screen\Weapons\Turret.cs" />
-    <Compile Include="Player and Session\Session.cs" />
+    <Compile Include="Player, Session and Missions\Mission.cs" />
+    <Compile Include="Player, Session and Missions\Session.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />

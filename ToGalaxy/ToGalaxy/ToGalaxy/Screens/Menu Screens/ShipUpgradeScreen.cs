@@ -9,6 +9,7 @@ using ToGalaxy.Gameplay_Objects;
 using ToGalaxyCustomData;
 using ToGalaxyGameLibrary;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxy.Screens.Menu_Screens
@@ -415,7 +416,7 @@ namespace ToGalaxy.Screens.Menu_Screens
         {
             base.Update(gameTime);
 
-            if (ScreenManager.Input.IsKeyDown(Keys.Escape))
+            if (InputManager.IsKeyDown(Keys.Escape))
             {
                 ExtendedScreenManager.AddNewMainMenuScreen();
                 Die();

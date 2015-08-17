@@ -13,6 +13,7 @@ using ToGalaxy.Screens.Cut_Scene_Screens.Text_Cut_Scenes;
 using ToGalaxy.Screens.Gameplay_Screens;
 using ToGalaxy.Screens.Menu_Screens;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 
 namespace ToGalaxy.Screens
 {
@@ -104,7 +105,7 @@ namespace ToGalaxy.Screens
         {
             pauseTimer += (float)gameTime.ElapsedGameTime.Milliseconds / 1000f;
 
-            if ((ScreenManager.Input.IsKeyDown(Keys.P)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.P)))
+            if ((InputManager.KeyReleased(Keys.P)))
             {
                 if (pauseTimer > 0.2f)
                 {
@@ -135,7 +136,7 @@ namespace ToGalaxy.Screens
 
         private void CheckForScreenSwap()
         {
-            if ((ScreenManager.Input.IsKeyDown(Keys.Space)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.Space)))
+            if ((InputManager.IsKeyDown(Keys.Space)) && (InputManager.PreviousKeyboardState.IsKeyUp(Keys.Space)))
             {
                 if (SpaceScreen.ScreenState == ScreenState.Active)
                 {

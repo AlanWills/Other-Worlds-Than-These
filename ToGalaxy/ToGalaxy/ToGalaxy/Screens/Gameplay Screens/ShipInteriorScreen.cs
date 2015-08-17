@@ -111,7 +111,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         private void CheckForScreenSwap()
         {
-            if ((ScreenManager.Input.IsKeyDown(Keys.F)) && (ScreenManager.Input.PreviousKeyboardState.IsKeyUp(Keys.F)))
+            if ((InputManager.IsKeyDown(Keys.F)) && (InputManager.PreviousKeyboardState.IsKeyUp(Keys.F)))
             {
                 if (ScreenState == ScreenState.Active)
                 {

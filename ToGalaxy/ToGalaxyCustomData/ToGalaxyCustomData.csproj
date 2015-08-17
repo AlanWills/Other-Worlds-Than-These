@@ -66,6 +66,10 @@
     <Compile Include="Game Object Data\Weapons\MissileData.cs" />
     <Compile Include="Game Object Data\Other Ship Addons\SensorData.cs" />
     <Compile Include="Game Object Data\Other Ship Addons\ShieldData.cs" />
+    <Compile Include="Game Object Data\Mission Objects\MissionData.cs" />
+    <Compile Include="Game Object Data\Mission Objects\MissionEnemyData.cs" />
+    <Compile Include="Game Object Data\Mission Objects\MissionInteractableObjectData.cs" />
+    <Compile Include="Game Object Data\Mission Objects\MissionObjectData.cs" />
     <Compile Include="Screen Data\ShipData.cs" />
     <Compile Include="Game Object Data\Other Ship Addons\ShipModData.cs" />
     <Compile Include="Game Object Data\Weapons\TurretData.cs" />

@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ToGalaxyCustomData;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
@@ -131,7 +132,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         {
             base.Update(gameTime);
 
-            if (ScreenManager.Input.IsKeyDown(Keys.Escape))
+            if (InputManager.IsKeyDown(Keys.Escape))
             {
                 ScreenManager.BackToPreviousScreen();
                 Die();

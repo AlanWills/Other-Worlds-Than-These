@@ -130,7 +130,7 @@ namespace ToGalaxy.AI
 
             if (CurrentBehaviour == BehaviourState.Wandering)
             {
-                Wander();
+                // Wander();
             }
         }
 

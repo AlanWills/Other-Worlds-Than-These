@@ -9,6 +9,7 @@ using System.Text;
 using ToGalaxyGameLibrary.Game_Objects;
 using ToGalaxyGameLibrary.Maths;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 
 namespace ToGalaxy.Gameplay_Objects.Space_Screen
 {
@@ -103,7 +104,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                     }
                     else
                     {
-                        if (Mouse.GetState().RightButton == ButtonState.Pressed || ScreenManager.Input.IsKeyDown(FireKey))
+                        if (Mouse.GetState().RightButton == ButtonState.Pressed || InputManager.IsKeyDown(FireKey))
                         {
                             if (OnCooldown)
                             {

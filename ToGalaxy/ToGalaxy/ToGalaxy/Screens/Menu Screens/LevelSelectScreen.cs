@@ -38,7 +38,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             set;
         }
 
-        private List<SpaceScreenData> MissionData
+        private List<SpaceScreenData> SpaceData
         {
             get;
             set;
@@ -56,7 +56,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             : base(screenManager, dataAsset)
         {
             MissionButtons = new List<Button>();
-            MissionData = new List<SpaceScreenData>();
+            SpaceData = new List<SpaceScreenData>();
 
             ExtendedScreenManager = screenManager;
             maxLevel = screenManager.Session.CurrentLevel;
@@ -82,14 +82,14 @@ namespace ToGalaxy.Screens.Menu_Screens
             {
                 string key = Path.GetFileNameWithoutExtension(file.Name);
                 SpaceScreenData screenData = content.Load<SpaceScreenData>("XML/Space Data/Space Data/" + key);
-                MissionData.Add(screenData);
+                SpaceData.Add(screenData);
             }
         }
 
         private void SetUpUI()
         {
             MissionImage = new Image(
-                MissionData[CurrentLevel - 1].LevelThumbnailAsset,
+                SpaceData[CurrentLevel - 1].MissionData.MissionThumbnailAsset,
                 new Vector2(ScreenManager.Viewport.Width / 3, 2 * ScreenManager.Viewport.Height / 5),
                 2 * ScreenManager.Viewport.Width / 3,
                 2 * ScreenManager.Viewport.Height / 3,
@@ -97,7 +97,7 @@ namespace ToGalaxy.Screens.Menu_Screens
             AddScreenUIElement(MissionImage);
 
             MissionDescription = new Text(
-                MissionData[CurrentLevel - 1].Description,
+                SpaceData[CurrentLevel - 1].MissionData.Description,
                 new Vector2(ScreenManager.Viewport.Width / 3, 5 * ScreenManager.Viewport.Height / 6),
                 3 * ScreenManager.Viewport.Width / 5,
                 Color.AliceBlue,
@@ -112,7 +112,7 @@ namespace ToGalaxy.Screens.Menu_Screens
                     Button.defaultColour,
                     Button.highlightedColour,
                     i.ToString(),
-                    MissionData[i].Name);
+                    SpaceData[i].Name);
                 button.InteractEvent += LevelInformationEvent;
                 MissionButtons.Add(button);
                 AddScreenUIElement(button);
@@ -165,8 +165,8 @@ namespace ToGalaxy.Screens.Menu_Screens
 
         private void UpdateUI()
         {
-            MissionImage.SetTextureFromString(MissionData[CurrentLevel - 1].LevelThumbnailAsset, ScreenManager.Content);
-            MissionDescription.ChangeText(MissionData[CurrentLevel - 1].Description);
+            MissionImage.SetTextureFromString(SpaceData[CurrentLevel - 1].MissionData.MissionThumbnailAsset, ScreenManager.Content);
+            MissionDescription.ChangeText(SpaceData[CurrentLevel - 1].MissionData.Description);
         }
     }
 }

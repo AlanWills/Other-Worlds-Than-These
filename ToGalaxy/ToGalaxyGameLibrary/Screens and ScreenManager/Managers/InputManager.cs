@@ -9,13 +9,13 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers
 {
     public class InputManager
     {
-        public KeyboardState CurrentKeyboardState
+        public static KeyboardState CurrentKeyboardState
         {
             get;
             private set;
         }
 
-        public KeyboardState PreviousKeyboardState
+        public static KeyboardState PreviousKeyboardState
         {
             get;
             private set;
@@ -40,7 +40,23 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers
             CurrentKeyboardState = Keyboard.GetState();
         }
 
-        public bool IsKeyDown(Keys key)
+        // Makes the KeyPressed and KeyReleased methods return false by setting the previous keyboardstate to the current keyboardstate
+        public static void Flush()
+        {
+            PreviousKeyboardState = CurrentKeyboardState;
+        }
+
+        public static bool KeyReleased(Keys key)
+        {
+            return CurrentKeyboardState.IsKeyUp(key) && PreviousKeyboardState.IsKeyDown(key);
+        }
+
+        public static bool KeyPressed(Keys key)
+        {
+            return CurrentKeyboardState.IsKeyDown(key) && PreviousKeyboardState.IsKeyUp(key);
+        }
+
+        public static bool IsKeyDown(Keys key)
         {
             return CurrentKeyboardState.IsKeyDown(key);
         }

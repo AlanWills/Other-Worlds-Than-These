@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using ToGalaxy.Gameplay_Objects;
 using ToGalaxy.Gameplay_Objects.Space_Screen;
+using ToGalaxy.Gameplay_Objects.Space_Screen.Mission_GameObjects;
+using ToGalaxy.Player_and_Session;
 using ToGalaxy.Screens.Menu_Screens;
 using ToGalaxy.UI;
 using ToGalaxyCustomData;
@@ -66,6 +68,12 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         #endregion
 
+        private Mission Mission
+        {
+            get;
+            set;
+        }
+
         public ExtendedScreenManager ExtendedScreenManager
         {
             get;
@@ -88,13 +96,22 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             if (ScreenDataAsset != "")
             {
                 SpaceScreenData = ScreenManager.Content.Load<SpaceScreenData>(ScreenDataAsset);
+                Mission = new Mission(SpaceScreenData.MissionData);
             }
 
-            SetUpPresetObjects();
+            SetUpMission();
             SetUpStartingRandomObjects();
             SetUpPlayerShip();
             SetUpStartingEnemies();
             SetUpHUD();
+        }
+
+        private void SetUpMission()
+        {
+            Mission.LoadContent(ScreenManager.Content);
+
+            SetUpMissionObjects();
+            SetUpMissionEnemies();
         }
 
         private void SetUpPlayerShip()
@@ -138,33 +155,24 @@ namespace ToGalaxy.Screens.Gameplay_Screens
             }
         }
 
-        private void SetUpPresetObjects()
+        private void SetUpMissionObjects()
         {
-            for (int i = 0; i < SpaceScreenData.PresetObjectsNames.Count; i++)
+            foreach (MissionInteractableObject missionObject in Mission.MustInteractObjects)
             {
-                if (i < SpaceScreenData.PresetObjectsPositions.Count)
-                {
-                    if (SpaceScreenData.PresetObjectsNames[i] == SpaceScreenData.Exit)
-                    {
-                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
-                        interactablePresetObject.InteractEvent += PlayerExitEvent;
+                LoadAndAddObject(missionObject);
+            }
 
-                        LoadAndAddObject(interactablePresetObject);
-                    }
-                    else if (SpaceScreenData.MustActivateObjects.Contains(SpaceScreenData.PresetObjectsNames[i]))
-                    {
-                        InteractableGameObject interactablePresetObject = new InteractableGameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
-                        interactablePresetObject.InteractEvent += ActivateObjectEvent;
+            if (Mission.Exit != null)
+            {
+                LoadAndAddGameObject(Mission.Exit);
+            }
+        }
 
-                        LoadAndAddObject(interactablePresetObject);
-                    }
-                    else
-                    {
-                        GameObject presetObject = new GameObject("Sprites/Space Objects/" + SpaceScreenData.PresetObjectsNames[i], SpaceScreenData.PresetObjectsPositions[i]);
-
-                        LoadAndAddObject(presetObject);
-                    }
-                }
+        private void SetUpMissionEnemies()
+        {
+            foreach (MissionEnemy missionEnemy in Mission.MissionEnemies)
+            {
+                LoadAndAddEnemy(missionEnemy);
             }
         }
 
@@ -484,7 +492,7 @@ namespace ToGalaxy.Screens.Gameplay_Screens
 
         #endregion
 
-        private void PlayerExitEvent(object sender, EventArgs e)
+        /*private void PlayerExitEvent(object sender, EventArgs e)
         {
             GameObject exit = sender as GameObject;
             if (exit != null)
@@ -515,6 +523,6 @@ namespace ToGalaxy.Screens.Gameplay_Screens
                     }
                 }
             }
-        }
+        }*/
     }
 }

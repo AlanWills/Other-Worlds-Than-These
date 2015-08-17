@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ToGalaxyGameLibrary.Game_Objects;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
@@ -142,7 +143,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         {
             if (CameraType == CameraType.Focused)
             {
-                if (ScreenManager.Input.IsKeyDown(Keys.PageUp))
+                if (InputManager.IsKeyDown(Keys.PageUp))
                 {
                     Zoom -= 0.01f;
                     if (Zoom < 0.75f)
@@ -150,7 +151,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
                         Zoom = 0.75f;
                     }
                 }
-                if (ScreenManager.Input.IsKeyDown(Keys.PageDown))
+                if (InputManager.IsKeyDown(Keys.PageDown))
                 {
                     Zoom += 0.01f;
                     if (Zoom > 1.5f)
@@ -170,7 +171,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
             }
             else if (CameraType == CameraType.Manual)
             {
-                if (ScreenManager.Input.IsKeyDown(Keys.PageUp))
+                if (InputManager.IsKeyDown(Keys.PageUp))
                 {
                     Zoom -= 0.01f;
                     if (Zoom < 0.5f)
@@ -178,7 +179,7 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
                         Zoom = 0.5f;
                     }
                 }
-                if (ScreenManager.Input.IsKeyDown(Keys.PageDown))
+                if (InputManager.IsKeyDown(Keys.PageDown))
                 {
                     Zoom += 0.01f;
                     if (Zoom > 2f)
@@ -224,19 +225,19 @@ namespace ToGalaxyGameLibrary.Screens_and_ScreenManager
         {
             float xMove = 0, yMove = 0;
 
-            if (ScreenManager.Input.IsKeyDown(Keys.Left))
+            if (InputManager.IsKeyDown(Keys.Left))
             {
                 xMove += ScrollDelta;
             }
-            if (ScreenManager.Input.IsKeyDown(Keys.Right))
+            if (InputManager.IsKeyDown(Keys.Right))
             {
                 xMove -= ScrollDelta;
             }
-            if (ScreenManager.Input.IsKeyDown(Keys.Up))
+            if (InputManager.IsKeyDown(Keys.Up))
             {
                 yMove += ScrollDelta;
             }
-            if (ScreenManager.Input.IsKeyDown(Keys.Down))
+            if (InputManager.IsKeyDown(Keys.Down))
             {
                 yMove -= ScrollDelta;
             }

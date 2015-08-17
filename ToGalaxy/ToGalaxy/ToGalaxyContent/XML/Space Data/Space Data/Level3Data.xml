@@ -24,15 +24,25 @@
     <RandomObjectsProbability>
       0.003
     </RandomObjectsProbability>
-    <PresetObjectsNames>
-      <Item>Space Stations/MilitarySpaceStation</Item>
-    </PresetObjectsNames>
-    <PresetObjectsPositions>
-      0 0
-    </PresetObjectsPositions>
-    <Exit></Exit>
-    <MustActivateObjects></MustActivateObjects>
-    <Description>You finally arrive in the Arno system, only to find it swarming with pirates.  The UIN Outpost Turin is one of a chain of battle stations bordering your home system and is heavily armed to deal with enemy incursions.  You must take on the pirates and make it there at ALL costs.</Description>
-    <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/cargo_loading</LevelThumbnailAsset>
+    <MissionData>
+      <MissionType>Survive</MissionType>
+      <Description>You finally arrive in the Arno system, only to find it swarming with pirates.  The UIN Outpost Turin is one of a chain of battle stations bordering your home system and is heavily armed to deal with enemy incursions.  You must take on the pirates and make it there at ALL costs.</Description>
+      <MissionThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/cargo_loading</MissionThumbnailAsset>
+      <EnemiesToKill></EnemiesToKill>
+      <MustInteractObjects></MustInteractObjects>
+      <ExitObject>
+        <Name></Name>
+        <TextureAsset></TextureAsset>
+        <ObjectDialogData>
+          <Dialog></Dialog>
+          <TimeToShow>0</TimeToShow>
+        </ObjectDialogData>
+        <Position>0 0</Position>
+        <OnInteractDialog>
+          <Dialog></Dialog>
+          <TimeToShow></TimeToShow>
+        </OnInteractDialog>
+      </ExitObject>
+    </MissionData>
   </Asset>
 </XnaContent>

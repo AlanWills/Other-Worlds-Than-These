@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using ToGalaxy.Gameplay_Objects.Space_Screen;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 using ToGalaxyGameLibrary.UI;
 
 namespace ToGalaxy.Gameplay_Objects
@@ -116,32 +117,32 @@ namespace ToGalaxy.Gameplay_Objects
         private void PerformManualPiloting(GameTime gameTime)
         {
             // Rotation Checks
-            if (ScreenManager.Input.IsKeyDown(Keys.A))
+            if (InputManager.IsKeyDown(Keys.A))
             {
                 Rotation += -RotateSpeed;
             }
 
-            if (ScreenManager.Input.IsKeyDown(Keys.D))
+            if (InputManager.IsKeyDown(Keys.D))
             {
                 Rotation += RotateSpeed;
             }
 
             // Movement checks
             Vector2 delta = Vector2.Zero;
-            if (ScreenManager.Input.IsKeyDown(Keys.W))
+            if (InputManager.IsKeyDown(Keys.W))
             {
                 delta += new Vector2(0, 1f) * Speed;
             }
 
-            if (ScreenManager.Input.IsKeyDown(Keys.S))
+            if (InputManager.IsKeyDown(Keys.S))
             {
                 delta += new Vector2(0, -1f) * Speed;
             }
 
-            if (ScreenManager.Input.IsKeyDown(Keys.A) ||
-                ScreenManager.Input.IsKeyDown(Keys.D) ||
-                ScreenManager.Input.IsKeyDown(Keys.W) ||
-                ScreenManager.Input.IsKeyDown(Keys.S))
+            if (InputManager.IsKeyDown(Keys.A) ||
+                InputManager.IsKeyDown(Keys.D) ||
+                InputManager.IsKeyDown(Keys.W) ||
+                InputManager.IsKeyDown(Keys.S))
             {
                 Moving = true;
                 Selected = true;

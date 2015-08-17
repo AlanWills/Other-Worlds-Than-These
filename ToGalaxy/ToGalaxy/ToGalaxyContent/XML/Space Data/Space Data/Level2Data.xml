@@ -24,15 +24,25 @@
     <RandomObjectsProbability>
       0.003
     </RandomObjectsProbability>
-    <PresetObjectsNames>
-
-    </PresetObjectsNames>
-    <PresetObjectsPositions>
-
-    </PresetObjectsPositions>
-    <Exit></Exit>
-    <MustActivateObjects></MustActivateObjects>
-    <Description>You exit the hyperspace gate somewhere in the Morta Nebula - it was here the 8th fleet was destroyed.  The second hyperspace gate to the Arno system, and your mission's end, lies somewhere in this nebula, but navigation will be difficult.  You keep your eyes fixed on the swirling gas, desperate to see no other movement.</Description>
-    <LevelThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/space_wreckage_compressed</LevelThumbnailAsset>
+    <MissionData>
+      <MissionType>Escape</MissionType>
+      <Description>You exit the hyperspace gate somewhere in the Morta Nebula - it was here the 8th fleet was destroyed.  The second hyperspace gate to the Arno system, and your mission's end, lies somewhere in this nebula, but navigation will be difficult.  You keep your eyes fixed on the swirling gas, desperate to see no other movement.</Description>
+      <MissionThumbnailAsset>Sprites/Backgrounds/Mission Thumbnails/space_wreckage_compressed</MissionThumbnailAsset>
+      <EnemiesToKill></EnemiesToKill>
+      <MustInteractObjects></MustInteractObjects>
+      <ExitObject>
+        <Name></Name>
+        <TextureAsset></TextureAsset>
+        <ObjectDialogData>
+          <Dialog></Dialog>
+          <TimeToShow>0</TimeToShow>
+        </ObjectDialogData>
+        <Position>0 0</Position>
+        <OnInteractDialog>
+          <Dialog></Dialog>
+          <TimeToShow></TimeToShow>
+        </OnInteractDialog>
+      </ExitObject>
+    </MissionData>
   </Asset>
 </XnaContent>

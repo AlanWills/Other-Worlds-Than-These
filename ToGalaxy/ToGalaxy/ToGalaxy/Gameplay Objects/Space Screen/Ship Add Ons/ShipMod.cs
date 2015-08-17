@@ -9,6 +9,7 @@ using System.Text;
 using ToGalaxyCustomData;
 using ToGalaxyGameLibrary.Game_Objects;
 using ToGalaxyGameLibrary.Screens_and_ScreenManager;
+using ToGalaxyGameLibrary.Screens_and_ScreenManager.Managers;
 
 namespace ToGalaxy.Gameplay_Objects.Space_Screen
 {
@@ -118,7 +119,7 @@ namespace ToGalaxy.Gameplay_Objects.Space_Screen
                 // If it has a key it is for a player ship
                 if (ActivationKey != Keys.None)
                 {
-                    if (ScreenManager.Input.PressedKeys.Contains(ActivationKey))
+                    if (InputManager.KeyReleased(ActivationKey))
                     {
                         TimeSinceActivation = 0;
                     }

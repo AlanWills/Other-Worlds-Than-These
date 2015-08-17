@@ -1,0 +1,6 @@
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\bin\x86\Debug\ToGalaxyCustomData.pdb
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.dll
+C:\Users\Alan\Documents\GitHub\Other-Worlds-Than-These\ToGalaxy\ToGalaxyCustomData\obj\x86\Debug\ToGalaxyCustomData.pdb

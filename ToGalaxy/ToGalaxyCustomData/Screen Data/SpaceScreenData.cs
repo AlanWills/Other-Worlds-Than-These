@@ -50,37 +50,7 @@ namespace ToGalaxyCustomData
             set;
         }
 
-        public List<string> PresetObjectsNames
-        {
-            get;
-            set;
-        }
-
-        public List<Vector2> PresetObjectsPositions
-        {
-            get;
-            set;
-        }
-
-        public string Exit
-        {
-            get;
-            set;
-        }
-
-        public List<string> MustActivateObjects
-        {
-            get;
-            set;
-        }
-
-        public string Description
-        {
-            get;
-            set;
-        }
-
-        public string LevelThumbnailAsset
+        public MissionData MissionData
         {
             get;
             set;
